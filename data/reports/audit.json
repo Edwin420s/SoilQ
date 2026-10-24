@@ -1,0 +1,601 @@
+{
+  "input": "data/raw",
+  "file_count": 5,
+  "files": [
+    {
+      "path": "data/raw/Maize yield_Dataset_Version 2.csv",
+      "name": "Maize yield_Dataset_Version 2.csv",
+      "suffix": ".csv",
+      "size_bytes": 13930,
+      "table": {
+        "rows": 448,
+        "columns_count": 7,
+        "columns": [
+          "Site ",
+          "Season",
+          "Tillage",
+          "Soil Input",
+          "Rep",
+          "Yield_Mg/ha",
+          "Stover_Mg/ha"
+        ],
+        "dtypes": {
+          "Site ": "str",
+          "Season": "str",
+          "Tillage": "str",
+          "Soil Input": "str",
+          "Rep": "int64",
+          "Yield_Mg/ha": "float64",
+          "Stover_Mg/ha": "float64"
+        },
+        "missing_count": {
+          "Site ": 0,
+          "Season": 0,
+          "Tillage": 0,
+          "Soil Input": 0,
+          "Rep": 0,
+          "Yield_Mg/ha": 0,
+          "Stover_Mg/ha": 0
+        },
+        "missing_percent": {
+          "Site ": 0.0,
+          "Season": 0.0,
+          "Tillage": 0.0,
+          "Soil Input": 0.0,
+          "Rep": 0.0,
+          "Yield_Mg/ha": 0.0,
+          "Stover_Mg/ha": 0.0
+        },
+        "unique_count": {
+          "Site ": 2,
+          "Season": 4,
+          "Tillage": 2,
+          "Soil Input": 7,
+          "Rep": 4,
+          "Yield_Mg/ha": 238,
+          "Stover_Mg/ha": 154
+        },
+        "sample_values": {
+          "Site ": [
+            "Chuka",
+            "Chuka",
+            "Chuka",
+            "Chuka",
+            "Chuka"
+          ],
+          "Season": [
+            "LR16",
+            "LR16",
+            "LR16",
+            "LR16",
+            "LR16"
+          ],
+          "Tillage": [
+            "D0",
+            "D0",
+            "D0",
+            "D0",
+            "D0"
+          ],
+          "Soil Input": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "F"
+          ],
+          "Rep": [
+            1,
+            2,
+            3,
+            4,
+            1
+          ],
+          "Yield_Mg/ha": [
+            1.66,
+            1.45,
+            0.87,
+            2.47,
+            2.01
+          ],
+          "Stover_Mg/ha": [
+            2.14,
+            1.19,
+            2.14,
+            0.95,
+            5.0
+          ]
+        },
+        "likely_context_columns": [
+          "Site ",
+          "Season"
+        ],
+        "likely_moisture_columns": [
+          "Soil Input"
+        ]
+      },
+      "sha256": "de6b367a58a665da367a9c9cf9667755e06d2e344e318619bcdecc37df516565"
+    },
+    {
+      "path": "data/raw/Plant height_Dataset_Version 2.csv",
+      "name": "Plant height_Dataset_Version 2.csv",
+      "suffix": ".csv",
+      "size_bytes": 14250,
+      "table": {
+        "rows": 448,
+        "columns_count": 7,
+        "columns": [
+          "Site",
+          "Season",
+          "Tillage",
+          "Soil Input",
+          "Rep",
+          "6th leaf stage_cm",
+          "10th leaf stage_cm"
+        ],
+        "dtypes": {
+          "Site": "str",
+          "Season": "str",
+          "Tillage": "str",
+          "Soil Input": "str",
+          "Rep": "int64",
+          "6th leaf stage_cm": "float64",
+          "10th leaf stage_cm": "float64"
+        },
+        "missing_count": {
+          "Site": 0,
+          "Season": 0,
+          "Tillage": 0,
+          "Soil Input": 0,
+          "Rep": 0,
+          "6th leaf stage_cm": 0,
+          "10th leaf stage_cm": 0
+        },
+        "missing_percent": {
+          "Site": 0.0,
+          "Season": 0.0,
+          "Tillage": 0.0,
+          "Soil Input": 0.0,
+          "Rep": 0.0,
+          "6th leaf stage_cm": 0.0,
+          "10th leaf stage_cm": 0.0
+        },
+        "unique_count": {
+          "Site": 2,
+          "Season": 4,
+          "Tillage": 2,
+          "Soil Input": 7,
+          "Rep": 4,
+          "6th leaf stage_cm": 133,
+          "10th leaf stage_cm": 301
+        },
+        "sample_values": {
+          "Site": [
+            "Chuka",
+            "Chuka",
+            "Chuka",
+            "Chuka",
+            "Chuka"
+          ],
+          "Season": [
+            "LR16",
+            "LR16",
+            "LR16",
+            "LR16",
+            "LR16"
+          ],
+          "Tillage": [
+            "D0",
+            "D0",
+            "D0",
+            "D0",
+            "D0"
+          ],
+          "Soil Input": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "F"
+          ],
+          "Rep": [
+            1,
+            2,
+            3,
+            4,
+            1
+          ],
+          "6th leaf stage_cm": [
+            25.0,
+            20.0,
+            35.0,
+            30.0,
+            50.0
+          ],
+          "10th leaf stage_cm": [
+            113.5,
+            175.75,
+            162.25,
+            111.5,
+            191.75
+          ]
+        },
+        "likely_context_columns": [
+          "Site",
+          "Season",
+          "6th leaf stage_cm",
+          "10th leaf stage_cm"
+        ],
+        "likely_moisture_columns": [
+          "Soil Input"
+        ]
+      },
+      "sha256": "29975f6b73e9ccd1a91c22ddc3a207b668b9a77bfd5742cb59e85df56b4c916a"
+    },
+    {
+      "path": "data/raw/Rainfall_Dataset_Version 2.csv",
+      "name": "Rainfall_Dataset_Version 2.csv",
+      "suffix": ".csv",
+      "size_bytes": 17968,
+      "table": {
+        "rows": 761,
+        "columns_count": 4,
+        "columns": [
+          "Season",
+          "Date",
+          "Chuka(amount in mm)",
+          "Kandara (amount in mm)"
+        ],
+        "dtypes": {
+          "Season": "str",
+          "Date": "str",
+          "Chuka(amount in mm)": "float64",
+          "Kandara (amount in mm)": "float64"
+        },
+        "missing_count": {
+          "Season": 0,
+          "Date": 0,
+          "Chuka(amount in mm)": 0,
+          "Kandara (amount in mm)": 16
+        },
+        "missing_percent": {
+          "Season": 0.0,
+          "Date": 0.0,
+          "Chuka(amount in mm)": 0.0,
+          "Kandara (amount in mm)": 2.102
+        },
+        "unique_count": {
+          "Season": 6,
+          "Date": 761,
+          "Chuka(amount in mm)": 73,
+          "Kandara (amount in mm)": 47
+        },
+        "sample_values": {
+          "Season": [
+            "LR16",
+            "LR16",
+            "LR16",
+            "LR16",
+            "LR16"
+          ],
+          "Date": [
+            "01/03/2016",
+            "02/03/2016",
+            "03/03/2016",
+            "04/03/2016",
+            "05/03/2016"
+          ],
+          "Chuka(amount in mm)": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Kandara (amount in mm)": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "likely_context_columns": [
+          "Season",
+          "Date"
+        ],
+        "likely_moisture_columns": []
+      },
+      "sha256": "affc9c1eb637287cdd4f4bced760759fac1fefa948dc09ff98e60b386348454c"
+    },
+    {
+      "path": "data/raw/Relative Chlorophyll content_Dataset_Version 2.csv",
+      "name": "Relative Chlorophyll content_Dataset_Version 2.csv",
+      "suffix": ".csv",
+      "size_bytes": 10721,
+      "table": {
+        "rows": 336,
+        "columns_count": 7,
+        "columns": [
+          "Site",
+          "Season",
+          "Tillage",
+          "Soil Input",
+          "Rep",
+          "6th_leaf_SPAD value",
+          "10th leaf_SPAD value"
+        ],
+        "dtypes": {
+          "Site": "str",
+          "Season": "str",
+          "Tillage": "str",
+          "Soil Input": "str",
+          "Rep": "int64",
+          "6th_leaf_SPAD value": "float64",
+          "10th leaf_SPAD value": "float64"
+        },
+        "missing_count": {
+          "Site": 0,
+          "Season": 0,
+          "Tillage": 0,
+          "Soil Input": 0,
+          "Rep": 0,
+          "6th_leaf_SPAD value": 0,
+          "10th leaf_SPAD value": 0
+        },
+        "missing_percent": {
+          "Site": 0.0,
+          "Season": 0.0,
+          "Tillage": 0.0,
+          "Soil Input": 0.0,
+          "Rep": 0.0,
+          "6th_leaf_SPAD value": 0.0,
+          "10th leaf_SPAD value": 0.0
+        },
+        "unique_count": {
+          "Site": 2,
+          "Season": 3,
+          "Tillage": 2,
+          "Soil Input": 7,
+          "Rep": 4,
+          "6th_leaf_SPAD value": 200,
+          "10th leaf_SPAD value": 191
+        },
+        "sample_values": {
+          "Site": [
+            "Chuka",
+            "Chuka",
+            "Chuka",
+            "Chuka",
+            "Chuka"
+          ],
+          "Season": [
+            "LR16",
+            "LR16",
+            "LR16",
+            "LR16",
+            "LR16"
+          ],
+          "Tillage": [
+            "D0",
+            "D0",
+            "D0",
+            "D0",
+            "D0"
+          ],
+          "Soil Input": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "F"
+          ],
+          "Rep": [
+            1,
+            2,
+            3,
+            4,
+            1
+          ],
+          "6th_leaf_SPAD value": [
+            27.4,
+            25.9,
+            27.9,
+            30.5,
+            47.9
+          ],
+          "10th leaf_SPAD value": [
+            28.8,
+            38.6,
+            28.9,
+            31.7,
+            37.1
+          ]
+        },
+        "likely_context_columns": [
+          "Site",
+          "Season"
+        ],
+        "likely_moisture_columns": [
+          "Soil Input"
+        ]
+      },
+      "sha256": "7f8c577cf06d0fdeb5c85c942c75a768d24a0c2e9a012810fff8f954121c8da3"
+    },
+    {
+      "path": "data/raw/Soil water content_Dataset_Version 2.csv",
+      "name": "Soil water content_Dataset_Version 2.csv",
+      "suffix": ".csv",
+      "size_bytes": 172699,
+      "table": {
+        "rows": 2408,
+        "columns_count": 12,
+        "columns": [
+          "Site",
+          "Season",
+          "Tillage",
+          "Soil Input",
+          "Rep",
+          "Phenology",
+          "Date",
+          "Depth 10cm_amount mm",
+          "Depth 20cm_Amount mm",
+          "Depth 30cm_Amount mm",
+          "Depth 40cm_Amount mm",
+          "Depth 50cm_Amount mm"
+        ],
+        "dtypes": {
+          "Site": "str",
+          "Season": "str",
+          "Tillage": "str",
+          "Soil Input": "str",
+          "Rep": "int64",
+          "Phenology": "str",
+          "Date": "str",
+          "Depth 10cm_amount mm": "int64",
+          "Depth 20cm_Amount mm": "str",
+          "Depth 30cm_Amount mm": "str",
+          "Depth 40cm_Amount mm": "str",
+          "Depth 50cm_Amount mm": "str"
+        },
+        "missing_count": {
+          "Site": 0,
+          "Season": 0,
+          "Tillage": 0,
+          "Soil Input": 0,
+          "Rep": 0,
+          "Phenology": 0,
+          "Date": 0,
+          "Depth 10cm_amount mm": 0,
+          "Depth 20cm_Amount mm": 0,
+          "Depth 30cm_Amount mm": 0,
+          "Depth 40cm_Amount mm": 0,
+          "Depth 50cm_Amount mm": 0
+        },
+        "missing_percent": {
+          "Site": 0.0,
+          "Season": 0.0,
+          "Tillage": 0.0,
+          "Soil Input": 0.0,
+          "Rep": 0.0,
+          "Phenology": 0.0,
+          "Date": 0.0,
+          "Depth 10cm_amount mm": 0.0,
+          "Depth 20cm_Amount mm": 0.0,
+          "Depth 30cm_Amount mm": 0.0,
+          "Depth 40cm_Amount mm": 0.0,
+          "Depth 50cm_Amount mm": 0.0
+        },
+        "unique_count": {
+          "Site": 2,
+          "Season": 2,
+          "Tillage": 2,
+          "Soil Input": 7,
+          "Rep": 4,
+          "Phenology": 2,
+          "Date": 42,
+          "Depth 10cm_amount mm": 35,
+          "Depth 20cm_Amount mm": 80,
+          "Depth 30cm_Amount mm": 125,
+          "Depth 40cm_Amount mm": 161,
+          "Depth 50cm_Amount mm": 203
+        },
+        "sample_values": {
+          "Site": [
+            "Chuka",
+            "Chuka",
+            "Chuka",
+            "Chuka",
+            "Chuka"
+          ],
+          "Season": [
+            "SR16",
+            "SR16",
+            "SR16",
+            "SR16",
+            "SR16"
+          ],
+          "Tillage": [
+            "D15",
+            "D15",
+            "D15",
+            "D15",
+            "D15"
+          ],
+          "Soil Input": [
+            "C",
+            "C",
+            "C",
+            "C",
+            "F"
+          ],
+          "Rep": [
+            1,
+            2,
+            3,
+            4,
+            1
+          ],
+          "Phenology": [
+            "Vegetative phase",
+            "Vegetative phase",
+            "Vegetative phase",
+            "Vegetative phase",
+            "Vegetative phase"
+          ],
+          "Date": [
+            "10/11/2016",
+            "10/11/2016",
+            "10/11/2016",
+            "10/11/2016",
+            "10/11/2016"
+          ],
+          "Depth 10cm_amount mm": [
+            35,
+            44,
+            40,
+            41,
+            44
+          ],
+          "Depth 20cm_Amount mm": [
+            "74",
+            "90",
+            "84",
+            "70",
+            "80"
+          ],
+          "Depth 30cm_Amount mm": [
+            "109",
+            "123",
+            "126",
+            "102",
+            "106"
+          ],
+          "Depth 40cm_Amount mm": [
+            "137",
+            "157",
+            "167",
+            "113",
+            "139"
+          ],
+          "Depth 50cm_Amount mm": [
+            "167",
+            "201",
+            "206",
+            "126",
+            "169"
+          ]
+        },
+        "likely_context_columns": [
+          "Site",
+          "Season",
+          "Date"
+        ],
+        "likely_moisture_columns": [
+          "Soil Input"
+        ]
+      },
+      "sha256": "3bc954eab64ff019985471f6ec01c868aa4c90f3019cb0f9fe67eaaa4d159915"
+    }
+  ]
+}

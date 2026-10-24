@@ -1,0 +1,73 @@
+{
+  "source": "Mutuku et al. \u2014 Mendeley Data https://data.mendeley.com/datasets/8bx88zpvdp/2",
+  "license": "CC BY 4.0",
+  "files": {
+    "soil": {
+      "path": "/home/skywalker/Projects/prj/Quantum/SoilQ 1/data/raw/Soil water content_Dataset_Version 2.csv",
+      "sha256": "3bc954eab64ff019985471f6ec01c868aa4c90f3019cb0f9fe67eaaa4d159915"
+    },
+    "rain": {
+      "path": "/home/skywalker/Projects/prj/Quantum/SoilQ 1/data/raw/Rainfall_Dataset_Version 2.csv",
+      "sha256": "affc9c1eb637287cdd4f4bced760759fac1fefa948dc09ff98e60b386348454c"
+    },
+    "yield": {
+      "path": "/home/skywalker/Projects/prj/Quantum/SoilQ 1/data/raw/Maize yield_Dataset_Version 2.csv",
+      "sha256": "de6b367a58a665da367a9c9cf9667755e06d2e344e318619bcdecc37df516565"
+    },
+    "plant": {
+      "path": "/home/skywalker/Projects/prj/Quantum/SoilQ 1/data/raw/Plant height_Dataset_Version 2.csv",
+      "sha256": "29975f6b73e9ccd1a91c22ddc3a207b668b9a77bfd5742cb59e85df56b4c916a"
+    },
+    "chloro": {
+      "path": "/home/skywalker/Projects/prj/Quantum/SoilQ 1/data/raw/Relative Chlorophyll content_Dataset_Version 2.csv",
+      "sha256": "7f8c577cf06d0fdeb5c85c942c75a768d24a0c2e9a012810fff8f954121c8da3"
+    }
+  },
+  "rows": 448,
+  "columns": [
+    "Site",
+    "Season",
+    "Tillage",
+    "Soil_Input",
+    "Rep",
+    "Yield_Mg/ha",
+    "Stover_Mg/ha",
+    "Height_6th",
+    "Height_10th",
+    "SPAD_6th",
+    "SPAD_10th",
+    "SWC_10cm",
+    "SWC_20cm",
+    "SWC_30cm",
+    "SWC_40cm",
+    "SWC_50cm",
+    "high_yield"
+  ],
+  "target": "high_yield",
+  "target_definition": "Yield_Mg/ha > dataset median (0.735 Mg/ha)",
+  "class_counts": {
+    "1": 224,
+    "0": 224
+  },
+  "missing_counts": {
+    "Site": 0,
+    "Season": 0,
+    "Tillage": 0,
+    "Soil_Input": 0,
+    "Rep": 0,
+    "Yield_Mg/ha": 0,
+    "Stover_Mg/ha": 0,
+    "Height_6th": 0,
+    "Height_10th": 0,
+    "SPAD_6th": 112,
+    "SPAD_10th": 112,
+    "SWC_10cm": 224,
+    "SWC_20cm": 224,
+    "SWC_30cm": 224,
+    "SWC_40cm": 224,
+    "SWC_50cm": 224,
+    "high_yield": 0
+  },
+  "note": "Proxy label derived from dataset-median yield split. Not a validated irrigation-urgency label. SWC columns have ~50 % missingness (SR seasons only). Stratified random split is a baseline; season-aware evaluation is preferred for time-structured data.",
+  "merged_csv": "/home/skywalker/Projects/prj/Quantum/SoilQ 1/data/processed/kenyan_maize_merged.csv"
+}

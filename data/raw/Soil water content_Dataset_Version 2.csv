@@ -1,0 +1,2409 @@
+Site,Season,Tillage,Soil Input,Rep,Phenology,Date,Depth 10cm_amount mm,Depth 20cm_Amount mm,Depth 30cm_Amount mm,Depth 40cm_Amount mm,Depth 50cm_Amount mm
+Chuka,SR16,D15,C,1,Vegetative phase,10/11/2016,35,74,109,137,167
+Chuka,SR16,D15,C,2,Vegetative phase,10/11/2016,44,90,123,157,201
+Chuka,SR16,D15,C,3,Vegetative phase,10/11/2016,40,84,126,167,206
+Chuka,SR16,D15,C,4,Vegetative phase,10/11/2016,41,70,102,113,126
+Chuka,SR16,D15,F,1,Vegetative phase,10/11/2016,44,80,106,139,169
+Chuka,SR16,D15,F,2,Vegetative phase,10/11/2016,43,90,136,170,203
+Chuka,SR16,D15,F,3,Vegetative phase,10/11/2016,48,94,143,191,233
+Chuka,SR16,D15,F,4,Vegetative phase,10/11/2016,51,65,78,89,99
+Chuka,SR16,D15,RF,1,Vegetative phase,10/11/2016,35,80,120,149,179
+Chuka,SR16,D15,RF,2,Vegetative phase,10/11/2016,32,61,87,117,143
+Chuka,SR16,D15,RF,3,Vegetative phase,10/11/2016,36,72,99,131,164
+Chuka,SR16,D15,RF,4,Vegetative phase,10/11/2016,42,75,84,113,142
+Chuka,SR16,D15,RFM,1,Vegetative phase,10/11/2016,39,81,117,147,165
+Chuka,SR16,D15,RFM,2,Vegetative phase,10/11/2016,50,92,127,152,170
+Chuka,SR16,D15,RFM,3,Vegetative phase,10/11/2016,32,73,115,142,162
+Chuka,SR16,D15,RFM,4,Vegetative phase,10/11/2016,33,47,59,68,74
+Chuka,SR16,D15,RML,1,Vegetative phase,10/11/2016,40,81,111,143,172
+Chuka,SR16,D15,RML,2,Vegetative phase,10/11/2016,45,90,116,149,177
+Chuka,SR16,D15,RML,3,Vegetative phase,10/11/2016,46,91,137,181,225
+Chuka,SR16,D15,RML,4,Vegetative phase,10/11/2016,48,90,125,159,168
+Chuka,SR16,D15,RTiM,1,Vegetative phase,10/11/2016,48,100,152,192,223
+Chuka,SR16,D15,RTiM,2,Vegetative phase,10/11/2016,49,100,152,201,248
+Chuka,SR16,D15,RTiM,3,Vegetative phase,10/11/2016,48,100,142,186,212
+Chuka,SR16,D15,RTiM,4,Vegetative phase,10/11/2016,46,94,137,180,217
+Chuka,SR16,D15,RTiP,1,Vegetative phase,10/11/2016,43,85,124,145,180
+Chuka,SR16,D15,RTiP,2,Vegetative phase,10/11/2016,48,95,140,170,193
+Chuka,SR16,D15,RTiP,3,Vegetative phase,10/11/2016,35,72,106,130,155
+Chuka,SR16,D15,RTiP,4,Vegetative phase,10/11/2016,41,53,64,72,80
+Chuka,SR16,D0,C,1,Vegetative phase,10/11/2016,44,87,124,163,199
+Chuka,SR16,D0,C,2,Vegetative phase,10/11/2016,41,69,107,141,167
+Chuka,SR16,D0,C,3,Vegetative phase,10/11/2016,45,95,146,190,216
+Chuka,SR16,D0,C,4,Vegetative phase,10/11/2016,46,78,91,102,111
+Chuka,SR16,D0,F,1,Vegetative phase,10/11/2016,44,93,144,188,240
+Chuka,SR16,D0,F,2,Vegetative phase,10/11/2016,39,82,125,154,182
+Chuka,SR16,D0,F,3,Vegetative phase,10/11/2016,30,68,95,125,154
+Chuka,SR16,D0,F,4,Vegetative phase,10/11/2016,47,60,73,83,92
+Chuka,SR16,D0,RF,1,Vegetative phase,10/11/2016,40,85,132,172,190
+Chuka,SR16,D0,RF,2,Vegetative phase,10/11/2016,39,73,102,128,148
+Chuka,SR16,D0,RF,3,Vegetative phase,10/11/2016,41,82,119,145,166
+Chuka,SR16,D0,RF,4,Vegetative phase,10/11/2016,44,87,122,130,136
+Chuka,SR16,D0,RFM,1,Vegetative phase,10/11/2016,37,78,105,146,190
+Chuka,SR16,D0,RFM,2,Vegetative phase,10/11/2016,43,86,116,149,177
+Chuka,SR16,D0,RFM,3,Vegetative phase,10/11/2016,47,94,130,162,193
+Chuka,SR16,D0,RFM,4,Vegetative phase,10/11/2016,44,84,118,129,139
+Chuka,SR16,D0,RML,1,Vegetative phase,10/11/2016,39,84,117,144,175
+Chuka,SR16,D0,RML,2,Vegetative phase,10/11/2016,42,80,110,147,179
+Chuka,SR16,D0,RML,3,Vegetative phase,10/11/2016,33,77,122,167,211
+Chuka,SR16,D0,RML,4,Vegetative phase,10/11/2016,40,85,126,165,194
+Chuka,SR16,D0,RTiM,1,Vegetative phase,10/11/2016,36,78,124,170,212
+Chuka,SR16,D0,RTiM,2,Vegetative phase,10/11/2016,40,79,105,138,166
+Chuka,SR16,D0,RTiM,3,Vegetative phase,10/11/2016,41,73,98,124,151
+Chuka,SR16,D0,RTiM,4,Vegetative phase,10/11/2016,43,86,118,143,153
+Chuka,SR16,D0,RTiP,1,Vegetative phase,10/11/2016,42,85,129,172,203
+Chuka,SR16,D0,RTiP,2,Vegetative phase,10/11/2016,43,95,146,189,221
+Chuka,SR16,D0,RTiP,3,Vegetative phase,10/11/2016,43,89,137,183,226
+Chuka,SR16,D0,RTiP,4,Vegetative phase,10/11/2016,42,74,90,105,115
+Chuka,SR16,D15,C,1,Vegetative phase,17/11/2016,38,63,111,159,206
+Chuka,SR16,D15,C,2,Vegetative phase,17/11/2016,44,89,121,157,202
+Chuka,SR16,D15,C,3,Vegetative phase,17/11/2016,25,69,112,154,195
+Chuka,SR16,D15,C,4,Vegetative phase,17/11/2016,42,72,105,119,134
+Chuka,SR16,D15,F,1,Vegetative phase,17/11/2016,45,82,110,145,177
+Chuka,SR16,D15,F,2,Vegetative phase,17/11/2016,44,91,138,175,211
+Chuka,SR16,D15,F,3,Vegetative phase,17/11/2016,48,96,147,196,241
+Chuka,SR16,D15,F,4,Vegetative phase,17/11/2016,52,67,81,92,103
+Chuka,SR16,D15,RF,1,Vegetative phase,17/11/2016,36,80,118,147,182
+Chuka,SR16,D15,RF,2,Vegetative phase,17/11/2016,33,61,87,120,149
+Chuka,SR16,D15,RF,3,Vegetative phase,17/11/2016,37,73,101,140,179
+Chuka,SR16,D15,RF,4,Vegetative phase,17/11/2016,43,78,87,119,154
+Chuka,SR16,D15,RFM,1,Vegetative phase,17/11/2016,40,82,118,150,176
+Chuka,SR16,D15,RFM,2,Vegetative phase,17/11/2016,51,92,126,152,173
+Chuka,SR16,D15,RFM,3,Vegetative phase,17/11/2016,36,79,122,151,172
+Chuka,SR16,D15,RFM,4,Vegetative phase,17/11/2016,34,48,61,70,77
+Chuka,SR16,D15,RML,1,Vegetative phase,17/11/2016,41,85,117,152,185
+Chuka,SR16,D15,RML,2,Vegetative phase,17/11/2016,45,92,120,154,186
+Chuka,SR16,D15,RML,3,Vegetative phase,17/11/2016,47,93,141,187,236
+Chuka,SR16,D15,RML,4,Vegetative phase,17/11/2016,49,93,129,166,198
+Chuka,SR16,D15,RTiM,1,Vegetative phase,17/11/2016,49,102,155,195,229
+Chuka,SR16,D15,RTiM,2,Vegetative phase,17/11/2016,50,102,156,207,260
+Chuka,SR16,D15,RTiM,3,Vegetative phase,17/11/2016,34,79,125,174,221
+Chuka,SR16,D15,RTiM,4,Vegetative phase,17/11/2016,48,97,142,187,228
+Chuka,SR16,D15,RTiP,1,Vegetative phase,17/11/2016,43,86,124,146,184
+Chuka,SR16,D15,RTiP,2,Vegetative phase,17/11/2016,48,95,143,175,202
+Chuka,SR16,D15,RTiP,3,Vegetative phase,17/11/2016,35,73,107,132,160
+Chuka,SR16,D15,RTiP,4,Vegetative phase,17/11/2016,41,53,64,73,82
+Chuka,SR16,D0,C,1,Vegetative phase,17/11/2016,46,91,129,171,212
+Chuka,SR16,D0,C,2,Vegetative phase,17/11/2016,43,74,113,148,177
+Chuka,SR16,D0,C,3,Vegetative phase,17/11/2016,47,98,151,195,223
+Chuka,SR16,D0,C,4,Vegetative phase,17/11/2016,47,79,92,103,113
+Chuka,SR16,D0,F,1,Vegetative phase,17/11/2016,45,95,148,194,249
+Chuka,SR16,D0,F,2,Vegetative phase,17/11/2016,40,83,128,159,189
+Chuka,SR16,D0,F,3,Vegetative phase,17/11/2016,32,71,99,131,160
+Chuka,SR16,D0,F,4,Vegetative phase,17/11/2016,48,61,87,115,125
+Chuka,SR16,D0,RF,1,Vegetative phase,17/11/2016,41,88,136,177,195
+Chuka,SR16,D0,RF,2,Vegetative phase,17/11/2016,40,74,103,130,151
+Chuka,SR16,D0,RF,3,Vegetative phase,17/11/2016,42,84,122,150,170
+Chuka,SR16,D0,RF,4,Vegetative phase,17/11/2016,45,90,128,136,142
+Chuka,SR16,D0,RFM,1,Vegetative phase,17/11/2016,38,80,107,150,197
+Chuka,SR16,D0,RFM,2,Vegetative phase,17/11/2016,43,87,118,152,181
+Chuka,SR16,D0,RFM,3,Vegetative phase,17/11/2016,48,97,133,167,200
+Chuka,SR16,D0,RFM,4,Vegetative phase,17/11/2016,45,87,121,132,143
+Chuka,SR16,D0,RML,1,Vegetative phase,17/11/2016,40,85,119,149,175
+Chuka,SR16,D0,RML,2,Vegetative phase,17/11/2016,41,81,111,151,186
+Chuka,SR16,D0,RML,3,Vegetative phase,17/11/2016,34,79,125,173,220
+Chuka,SR16,D0,RML,4,Vegetative phase,17/11/2016,42,87,130,172,204
+Chuka,SR16,D0,RTiM,1,Vegetative phase,17/11/2016,37,81,127,175,223
+Chuka,SR16,D0,RTiM,2,Vegetative phase,17/11/2016,41,80,108,142,173
+Chuka,SR16,D0,RTiM,3,Vegetative phase,17/11/2016,41,74,100,127,156
+Chuka,SR16,D0,RTiM,4,Vegetative phase,17/11/2016,43,86,116,142,153
+Chuka,SR16,D0,RTiP,1,Vegetative phase,17/11/2016,44,87,132,174,205
+Chuka,SR16,D0,RTiP,2,Vegetative phase,17/11/2016,44,97,148,192,225
+Chuka,SR16,D0,RTiP,3,Vegetative phase,17/11/2016,45,92,141,188,232
+Chuka,SR16,D0,RTiP,4,Vegetative phase,17/11/2016,43,76,92,107,118
+Chuka,SR16,D15,C,1,Vegetative phase,24/11/2016,36,76,123,169,214
+Chuka,SR16,D15,C,2,Vegetative phase,24/11/2016,47,95,126,160,206
+Chuka,SR16,D15,C,3,Vegetative phase,24/11/2016,42,86,128,169,210
+Chuka,SR16,D15,C,4,Vegetative phase,24/11/2016,43,73,107,120,135
+Chuka,SR16,D15,F,1,Vegetative phase,24/11/2016,45,84,110,145,177
+Chuka,SR16,D15,F,2,Vegetative phase,24/11/2016,45,92,141,178,214
+Chuka,SR16,D15,F,3,Vegetative phase,24/11/2016,47,95,145,195,239
+Chuka,SR16,D15,F,4,Vegetative phase,24/11/2016,52,67,81,93,104
+Chuka,SR16,D15,RF,1,Vegetative phase,24/11/2016,39,83,121,150,185
+Chuka,SR16,D15,RF,2,Vegetative phase,24/11/2016,34,62,89,123,152
+Chuka,SR16,D15,RF,3,Vegetative phase,24/11/2016,39,74,101,141,181
+Chuka,SR16,D15,RF,4,Vegetative phase,24/11/2016,43,77,88,119,154
+Chuka,SR16,D15,RFM,1,Vegetative phase,24/11/2016,41,84,121,153,179
+Chuka,SR16,D15,RFM,2,Vegetative phase,24/11/2016,52,94,130,155,175
+Chuka,SR16,D15,RFM,3,Vegetative phase,24/11/2016,34,77,120,148,169
+Chuka,SR16,D15,RFM,4,Vegetative phase,24/11/2016,33,47,60,69,76
+Chuka,SR16,D15,RML,1,Vegetative phase,24/11/2016,48,93,125,161,194
+Chuka,SR16,D15,RML,2,Vegetative phase,24/11/2016,46,91,119,154,186
+Chuka,SR16,D15,RML,3,Vegetative phase,24/11/2016,48,95,143,190,237
+Chuka,SR16,D15,RML,4,Vegetative phase,24/11/2016,50,94,131,169,201
+Chuka,SR16,D15,RTiM,1,Vegetative phase,24/11/2016,50,103,156,198,233
+Chuka,SR16,D15,RTiM,2,Vegetative phase,24/11/2016,51,103,157,210,263
+Chuka,SR16,D15,RTiM,3,Vegetative phase,24/11/2016,49,102,146,193,223
+Chuka,SR16,D15,RTiM,4,Vegetative phase,24/11/2016,48,97,141,186,226
+Chuka,SR16,D15,RTiP,1,Vegetative phase,24/11/2016,44,89,128,155,193
+Chuka,SR16,D15,RTiP,2,Vegetative phase,24/11/2016,49,97,145,179,206
+Chuka,SR16,D15,RTiP,3,Vegetative phase,24/11/2016,37,75,111,137,165
+Chuka,SR16,D15,RTiP,4,Vegetative phase,24/11/2016,42,55,66,75,84
+Chuka,SR16,D0,C,1,Vegetative phase,24/11/2016,47,92,130,172,214
+Chuka,SR16,D0,C,2,Vegetative phase,24/11/2016,43,72,112,148,177
+Chuka,SR16,D0,C,3,Vegetative phase,24/11/2016,48,100,154,201,229
+Chuka,SR16,D0,C,4,Vegetative phase,24/11/2016,48,82,94,106,116
+Chuka,SR16,D0,F,1,Vegetative phase,24/11/2016,45,96,149,195,250
+Chuka,SR16,D0,F,2,Vegetative phase,24/11/2016,40,84,128,159,189
+Chuka,SR16,D0,F,3,Vegetative phase,24/11/2016,33,72,99,131,161
+Chuka,SR16,D0,F,4,Vegetative phase,24/11/2016,49,62,87,116,126
+Chuka,SR16,D0,RF,1,Vegetative phase,24/11/2016,41,88,136,179,197
+Chuka,SR16,D0,RF,2,Vegetative phase,24/11/2016,39,75,104,131,152
+Chuka,SR16,D0,RF,3,Vegetative phase,24/11/2016,42,84,123,150,171
+Chuka,SR16,D0,RF,4,Vegetative phase,24/11/2016,45,90,128,136,142
+Chuka,SR16,D0,RFM,1,Vegetative phase,24/11/2016,39,81,108,151,199
+Chuka,SR16,D0,RFM,2,Vegetative phase,24/11/2016,44,89,119,153,183
+Chuka,SR16,D0,RFM,3,Vegetative phase,24/11/2016,49,99,136,170,203
+Chuka,SR16,D0,RFM,4,Vegetative phase,24/11/2016,46,86,121,132,143
+Chuka,SR16,D0,RML,1,Vegetative phase,24/11/2016,40,85,120,150,176
+Chuka,SR16,D0,RML,2,Vegetative phase,24/11/2016,42,81,111,151,187
+Chuka,SR16,D0,RML,3,Vegetative phase,24/11/2016,35,80,127,177,225
+Chuka,SR16,D0,RML,4,Vegetative phase,24/11/2016,44,88,132,173,205
+Chuka,SR16,D0,RTiM,1,Vegetative phase,24/11/2016,38,81,127,174,222
+Chuka,SR16,D0,RTiM,2,Vegetative phase,24/11/2016,41,81,110,143,174
+Chuka,SR16,D0,RTiM,3,Vegetative phase,24/11/2016,42,76,102,129,158
+Chuka,SR16,D0,RTiM,4,Vegetative phase,24/11/2016,44,87,119,130,141
+Chuka,SR16,D0,RTiP,1,Vegetative phase,24/11/2016,44,87,132,176,207
+Chuka,SR16,D0,RTiP,2,Vegetative phase,24/11/2016,40,94,146,190,224
+Chuka,SR16,D0,RTiP,3,Vegetative phase,24/11/2016,46,94,143,191,235
+Chuka,SR16,D0,RTiP,4,Vegetative phase,24/11/2016,44,77,94,109,120
+Chuka,SR16,D15,C,1,Vegetative phase,01/12/2016,34,65,96,139,183
+Chuka,SR16,D15,C,2,Vegetative phase,01/12/2016,45,90,122,156,201
+Chuka,SR16,D15,C,3,Vegetative phase,01/12/2016,35,78,119,161,202
+Chuka,SR16,D15,C,4,Vegetative phase,01/12/2016,41,70,103,116,130
+Chuka,SR16,D15,F,1,Vegetative phase,01/12/2016,44,81,108,142,173
+Chuka,SR16,D15,F,2,Vegetative phase,01/12/2016,44,91,138,173,206
+Chuka,SR16,D15,F,3,Vegetative phase,01/12/2016,46,93,143,193,238
+Chuka,SR16,D15,F,4,Vegetative phase,01/12/2016,51,65,79,90,101
+Chuka,SR16,D15,RF,1,Vegetative phase,01/12/2016,38,80,119,147,184
+Chuka,SR16,D15,RF,2,Vegetative phase,01/12/2016,33,68,96,128,159
+Chuka,SR16,D15,RF,3,Vegetative phase,01/12/2016,38,66,96,134,175
+Chuka,SR16,D15,RF,4,Vegetative phase,01/12/2016,43,78,89,120,159
+Chuka,SR16,D15,RFM,1,Vegetative phase,01/12/2016,40,82,117,148,174
+Chuka,SR16,D15,RFM,2,Vegetative phase,01/12/2016,51,94,128,154,174
+Chuka,SR16,D15,RFM,3,Vegetative phase,01/12/2016,35,78,120,148,169
+Chuka,SR16,D15,RFM,4,Vegetative phase,01/12/2016,35,49,62,71,78
+Chuka,SR16,D15,RML,1,Vegetative phase,01/12/2016,41,82,114,148,181
+Chuka,SR16,D15,RML,2,Vegetative phase,01/12/2016,44,89,116,150,182
+Chuka,SR16,D15,RML,3,Vegetative phase,01/12/2016,46,92,140,186,233
+Chuka,SR16,D15,RML,4,Vegetative phase,01/12/2016,49,94,130,166,198
+Chuka,SR16,D15,RTiM,1,Vegetative phase,01/12/2016,49,100,152,193,227
+Chuka,SR16,D15,RTiM,2,Vegetative phase,01/12/2016,49,100,153,204,257
+Chuka,SR16,D15,RTiM,3,Vegetative phase,01/12/2016,48,100,143,189,218
+Chuka,SR16,D15,RTiM,4,Vegetative phase,01/12/2016,46,94,137,182,221
+Chuka,SR16,D15,RTiP,1,Vegetative phase,01/12/2016,43,86,125,147,184
+Chuka,SR16,D15,RTiP,2,Vegetative phase,01/12/2016,47,93,140,171,196
+Chuka,SR16,D15,RTiP,3,Vegetative phase,01/12/2016,36,73,108,132,158
+Chuka,SR16,D15,RTiP,4,Vegetative phase,01/12/2016,41,53,64,72,81
+Chuka,SR16,D0,C,1,Vegetative phase,01/12/2016,45,89,127,168,209
+Chuka,SR16,D0,C,2,Vegetative phase,01/12/2016,42,71,109,144,172
+Chuka,SR16,D0,C,3,Vegetative phase,01/12/2016,47,98,152,196,223
+Chuka,SR16,D0,C,4,Vegetative phase,01/12/2016,46,77,90,102,111
+Chuka,SR16,D0,F,1,Vegetative phase,01/12/2016,42,92,143,188,241
+Chuka,SR16,D0,F,2,Vegetative phase,01/12/2016,39,83,126,157,186
+Chuka,SR16,D0,F,3,Vegetative phase,01/12/2016,31,69,97,128,157
+Chuka,SR16,D0,F,4,Vegetative phase,01/12/2016,48,60,74,102,112
+Chuka,SR16,D0,RF,1,Vegetative phase,01/12/2016,40,85,132,172,190
+Chuka,SR16,D0,RF,2,Vegetative phase,01/12/2016,39,74,104,130,150
+Chuka,SR16,D0,RF,3,Vegetative phase,01/12/2016,41,82,120,146,166
+Chuka,SR16,D0,RF,4,Vegetative phase,01/12/2016,43,86,123,131,137
+Chuka,SR16,D0,RFM,1,Vegetative phase,01/12/2016,37,78,105,147,194
+Chuka,SR16,D0,RFM,2,Vegetative phase,01/12/2016,43,87,117,152,182
+Chuka,SR16,D0,RFM,3,Vegetative phase,01/12/2016,48,95,132,165,198
+Chuka,SR16,D0,RFM,4,Vegetative phase,01/12/2016,45,86,119,130,142
+Chuka,SR16,D0,RML,1,Vegetative phase,01/12/2016,39,83,118,148,173
+Chuka,SR16,D0,RML,2,Vegetative phase,01/12/2016,41,81,111,149,183
+Chuka,SR16,D0,RML,3,Vegetative phase,01/12/2016,34,78,124,170,216
+Chuka,SR16,D0,RML,4,Vegetative phase,01/12/2016,40,84,125,165,194
+Chuka,SR16,D0,RTiM,1,Vegetative phase,01/12/2016,37,80,125,172,218
+Chuka,SR16,D0,RTiM,2,Vegetative phase,01/12/2016,41,80,106,138,169
+Chuka,SR16,D0,RTiM,3,Vegetative phase,01/12/2016,41,75,109,135,163
+Chuka,SR16,D0,RTiM,4,Vegetative phase,01/12/2016,42,83,112,123,134
+Chuka,SR16,D0,RTiP,1,Vegetative phase,01/12/2016,45,87,131,175,206
+Chuka,SR16,D0,RTiP,2,Vegetative phase,01/12/2016,37,89,139,182,214
+Chuka,SR16,D0,RTiP,3,Vegetative phase,01/12/2016,44,90,138,184,227
+Chuka,SR16,D0,RTiP,4,Vegetative phase,01/12/2016,43,75,91,106,117
+Chuka,SR16,D15,C,1,Vegetative phase,08/12/2016,27,55,97,141,185
+Chuka,SR16,D15,C,2,Vegetative phase,08/12/2016,41,85,116,150,194
+Chuka,SR16,D15,C,3,Vegetative phase,08/12/2016,35,74,114,154,194
+Chuka,SR16,D15,C,4,Vegetative phase,08/12/2016,37,65,97,110,124
+Chuka,SR16,D15,F,1,Vegetative phase,08/12/2016,40,74,99,133,163
+Chuka,SR16,D15,F,2,Vegetative phase,08/12/2016,37,80,126,161,193
+Chuka,SR16,D15,F,3,Vegetative phase,08/12/2016,37,80,127,176,219
+Chuka,SR16,D15,F,4,Vegetative phase,08/12/2016,44,58,71,82,92
+Chuka,SR16,D15,RF,1,Vegetative phase,08/12/2016,26,66,102,131,165
+Chuka,SR16,D15,RF,2,Vegetative phase,08/12/2016,29,63,90,121,150
+Chuka,SR16,D15,RF,3,Vegetative phase,08/12/2016,26,55,83,120,159
+Chuka,SR16,D15,RF,4,Vegetative phase,08/12/2016,39,72,82,111,146
+Chuka,SR16,D15,RFM,1,Vegetative phase,08/12/2016,34,72,105,135,154
+Chuka,SR16,D15,RFM,2,Vegetative phase,08/12/2016,46,85,117,142,162
+Chuka,SR16,D15,RFM,3,Vegetative phase,08/12/2016,27,66,106,134,155
+Chuka,SR16,D15,RFM,4,Vegetative phase,08/12/2016,29,42,54,62,69
+Chuka,SR16,D15,RML,1,Vegetative phase,08/12/2016,39,79,110,143,175
+Chuka,SR16,D15,RML,2,Vegetative phase,08/12/2016,41,83,110,143,174
+Chuka,SR16,D15,RML,3,Vegetative phase,08/12/2016,41,84,129,174,220
+Chuka,SR16,D15,RML,4,Vegetative phase,08/12/2016,45,87,122,156,187
+Chuka,SR16,D15,RTiM,1,Vegetative phase,08/12/2016,43,91,141,181,215
+Chuka,SR16,D15,RTiM,2,Vegetative phase,08/12/2016,46,95,147,196,247
+Chuka,SR16,D15,RTiM,3,Vegetative phase,08/12/2016,45,95,136,181,209
+Chuka,SR16,D15,RTiM,4,Vegetative phase,08/12/2016,43,89,132,175,214
+Chuka,SR16,D15,RTiP,1,Vegetative phase,08/12/2016,37,78,114,136,174
+Chuka,SR16,D15,RTiP,2,Vegetative phase,08/12/2016,43,87,132,162,186
+Chuka,SR16,D15,RTiP,3,Vegetative phase,08/12/2016,34,69,102,126,153
+Chuka,SR16,D15,RTiP,4,Vegetative phase,08/12/2016,38,50,61,69,77
+Chuka,SR16,D0,C,1,Vegetative phase,08/12/2016,41,82,119,159,200
+Chuka,SR16,D0,C,2,Vegetative phase,08/12/2016,38,66,104,138,166
+Chuka,SR16,D0,C,3,Vegetative phase,08/12/2016,43,93,144,188,214
+Chuka,SR16,D0,C,4,Vegetative phase,08/12/2016,43,73,98,109,119
+Chuka,SR16,D0,F,1,Vegetative phase,08/12/2016,29,71,120,163,215
+Chuka,SR16,D0,F,2,Vegetative phase,08/12/2016,32,71,113,142,172
+Chuka,SR16,D0,F,3,Vegetative phase,08/12/2016,27,62,87,118,147
+Chuka,SR16,D0,F,4,Vegetative phase,08/12/2016,41,52,65,92,101
+Chuka,SR16,D0,RF,1,Vegetative phase,08/12/2016,32,72,116,154,171
+Chuka,SR16,D0,RF,2,Vegetative phase,08/12/2016,35,68,97,122,142
+Chuka,SR16,D0,RF,3,Vegetative phase,08/12/2016,36,74,110,135,155
+Chuka,SR16,D0,RF,4,Vegetative phase,08/12/2016,40,81,116,124,130
+Chuka,SR16,D0,RFM,1,Vegetative phase,08/12/2016,31,69,95,136,181
+Chuka,SR16,D0,RFM,2,Vegetative phase,08/12/2016,38,80,109,142,171
+Chuka,SR16,D0,RFM,3,Vegetative phase,08/12/2016,43,89,124,156,188
+Chuka,SR16,D0,RFM,4,Vegetative phase,08/12/2016,40,78,111,121,132
+Chuka,SR16,D0,RML,1,Vegetative phase,08/12/2016,36,78,110,138,169
+Chuka,SR16,D0,RML,2,Vegetative phase,08/12/2016,40,76,105,142,175
+Chuka,SR16,D0,RML,3,Vegetative phase,08/12/2016,25,65,109,154,199
+Chuka,SR16,D0,RML,4,Vegetative phase,08/12/2016,37,78,118,156,185
+Chuka,SR16,D0,RTiM,1,Vegetative phase,08/12/2016,28,67,109,154,199
+Chuka,SR16,D0,RTiM,2,Vegetative phase,08/12/2016,38,76,108,140,169
+Chuka,SR16,D0,RTiM,3,Vegetative phase,08/12/2016,40,72,104,130,157
+Chuka,SR16,D0,RTiM,4,Vegetative phase,08/12/2016,39,78,108,118,129
+Chuka,SR16,D0,RTiP,1,Vegetative phase,08/12/2016,35,74,116,157,188
+Chuka,SR16,D0,RTiP,2,Vegetative phase,08/12/2016,38,86,134,174,205
+Chuka,SR16,D0,RTiP,3,Vegetative phase,08/12/2016,40,84,131,175,217
+Chuka,SR16,D0,RTiP,4,Vegetative phase,08/12/2016,38,69,84,98,108
+Chuka,SR16,D15,C,1,Vegetative phase,15/12/2016,29,58,99,142,185
+Chuka,SR16,D15,C,2,Vegetative phase,15/12/2016,37,79,110,143,185
+Chuka,SR16,D15,C,3,Vegetative phase,15/12/2016,33,70,108,148,186
+Chuka,SR16,D15,C,4,Vegetative phase,15/12/2016,34,60,91,104,117
+Chuka,SR16,D15,F,1,Vegetative phase,15/12/2016,34,63,98,130,160
+Chuka,SR16,D15,F,2,Vegetative phase,15/12/2016,31,69,110,143,174
+Chuka,SR16,D15,F,3,Vegetative phase,15/12/2016,31,69,114,160,202
+Chuka,SR16,D15,F,4,Vegetative phase,15/12/2016,39,50,62,73,83
+Chuka,SR16,D15,RF,1,Vegetative phase,15/12/2016,28,64,98,125,159
+Chuka,SR16,D15,RF,2,Vegetative phase,15/12/2016,27,57,83,113,141
+Chuka,SR16,D15,RF,3,Vegetative phase,15/12/2016,28,56,84,119,158
+Chuka,SR16,D15,RF,4,Vegetative phase,15/12/2016,34,63,73,101,134
+Chuka,SR16,D15,RFM,1,Vegetative phase,15/12/2016,31,66,96,123,142
+Chuka,SR16,D15,RFM,2,Vegetative phase,15/12/2016,39,75,105,128,148
+Chuka,SR16,D15,RFM,3,Vegetative phase,15/12/2016,32,66,102,129,149
+Chuka,SR16,D15,RFM,4,Vegetative phase,15/12/2016,25,37,47,56,62
+Chuka,SR16,D15,RML,1,Vegetative phase,15/12/2016,35,70,98,130,162
+Chuka,SR16,D15,RML,2,Vegetative phase,15/12/2016,37,76,110,142,173
+Chuka,SR16,D15,RML,3,Vegetative phase,15/12/2016,36,77,119,161,208
+Chuka,SR16,D15,RML,4,Vegetative phase,15/12/2016,41,80,114,147,177
+Chuka,SR16,D15,RTiM,1,Vegetative phase,15/12/2016,40,85,132,171,204
+Chuka,SR16,D15,RTiM,2,Vegetative phase,15/12/2016,42,88,138,186,235
+Chuka,SR16,D15,RTiM,3,Vegetative phase,15/12/2016,41,88,129,172,200
+Chuka,SR16,D15,RTiM,4,Vegetative phase,15/12/2016,39,84,124,167,205
+Chuka,SR16,D15,RTiP,1,Vegetative phase,15/12/2016,33,70,105,127,164
+Chuka,SR16,D15,RTiP,2,Vegetative phase,15/12/2016,38,78,122,151,175
+Chuka,SR16,D15,RTiP,3,Vegetative phase,15/12/2016,31,63,96,120,146
+Chuka,SR16,D15,RTiP,4,Vegetative phase,15/12/2016,35,45,56,64,73
+Chuka,SR16,D0,C,1,Vegetative phase,15/12/2016,34,74,110,149,190
+Chuka,SR16,D0,C,2,Vegetative phase,15/12/2016,35,61,98,132,160
+Chuka,SR16,D0,C,3,Vegetative phase,15/12/2016,38,85,136,179,204
+Chuka,SR16,D0,C,4,Vegetative phase,15/12/2016,39,67,80,91,100
+Chuka,SR16,D0,F,1,Vegetative phase,15/12/2016,25,62,106,146,196
+Chuka,SR16,D0,F,2,Vegetative phase,15/12/2016,26,59,95,124,152
+Chuka,SR16,D0,F,3,Vegetative phase,15/12/2016,29,60,94,123,151
+Chuka,SR16,D0,F,4,Vegetative phase,15/12/2016,37,47,59,85,94
+Chuka,SR16,D0,RF,1,Vegetative phase,15/12/2016,29,66,105,138,156
+Chuka,SR16,D0,RF,2,Vegetative phase,15/12/2016,31,61,88,111,131
+Chuka,SR16,D0,RF,3,Vegetative phase,15/12/2016,32,67,99,123,142
+Chuka,SR16,D0,RF,4,Vegetative phase,15/12/2016,37,74,104,112,118
+Chuka,SR16,D0,RFM,1,Vegetative phase,15/12/2016,27,61,90,128,171
+Chuka,SR16,D0,RFM,2,Vegetative phase,15/12/2016,33,70,97,129,157
+Chuka,SR16,D0,RFM,3,Vegetative phase,15/12/2016,38,77,109,140,171
+Chuka,SR16,D0,RFM,4,Vegetative phase,15/12/2016,35,69,99,109,120
+Chuka,SR16,D0,RML,1,Vegetative phase,15/12/2016,32,69,99,125,154
+Chuka,SR16,D0,RML,2,Vegetative phase,15/12/2016,35,71,98,133,164
+Chuka,SR16,D0,RML,3,Vegetative phase,15/12/2016,33,68,107,147,190
+Chuka,SR16,D0,RML,4,Vegetative phase,15/12/2016,32,70,108,145,173
+Chuka,SR16,D0,RTiM,1,Vegetative phase,15/12/2016,25,59,98,140,182
+Chuka,SR16,D0,RTiM,2,Vegetative phase,15/12/2016,36,72,98,129,158
+Chuka,SR16,D0,RTiM,3,Vegetative phase,15/12/2016,37,68,99,124,151
+Chuka,SR16,D0,RTiM,4,Vegetative phase,15/12/2016,35,71,99,109,119
+Chuka,SR16,D0,RTiP,1,Vegetative phase,15/12/2016,31,68,108,147,177
+Chuka,SR16,D0,RTiP,2,Vegetative phase,15/12/2016,34,75,121,159,189
+Chuka,SR16,D0,RTiP,3,Vegetative phase,15/12/2016,35,76,121,165,207
+Chuka,SR16,D0,RTiP,4,Vegetative phase,15/12/2016,34,62,77,90,101
+Chuka,SR16,D15,C,1,Vegetative phase,30/12/2016,28,57,96,138,181
+Chuka,SR16,D15,C,2,Vegetative phase,30/12/2016,36,78,111,146,191
+Chuka,SR16,D15,C,3,Vegetative phase,30/12/2016,32,68,106,145,185
+Chuka,SR16,D15,C,4,Vegetative phase,30/12/2016,33,62,94,107,121
+Chuka,SR16,D15,F,1,Vegetative phase,30/12/2016,33,65,92,125,156
+Chuka,SR16,D15,F,2,Vegetative phase,30/12/2016,32,71,114,148,181
+Chuka,SR16,D15,F,3,Vegetative phase,30/12/2016,32,69,112,156,196
+Chuka,SR16,D15,F,4,Vegetative phase,30/12/2016,36,48,60,71,81
+Chuka,SR16,D15,RF,1,Vegetative phase,30/12/2016,27,61,97,127,162
+Chuka,SR16,D15,RF,2,Vegetative phase,30/12/2016,28,59,88,119,150
+Chuka,SR16,D15,RF,3,Vegetative phase,30/12/2016,26,55,85,120,159
+Chuka,SR16,D15,RF,4,Vegetative phase,30/12/2016,32,63,73,103,135
+Chuka,SR16,D15,RFM,1,Vegetative phase,30/12/2016,31,67,100,130,157
+Chuka,SR16,D15,RFM,2,Vegetative phase,30/12/2016,27,57,92,118,141
+Chuka,SR16,D15,RFM,3,Vegetative phase,30/12/2016,26,59,94,123,146
+Chuka,SR16,D15,RFM,4,Vegetative phase,30/12/2016,25,35,47,56,64
+Chuka,SR16,D15,RML,1,Vegetative phase,30/12/2016,33,70,101,135,168
+Chuka,SR16,D15,RML,2,Vegetative phase,30/12/2016,38,79,108,142,174
+Chuka,SR16,D15,RML,3,Vegetative phase,30/12/2016,36,76,119,162,206
+Chuka,SR16,D15,RML,4,Vegetative phase,30/12/2016,41,82,120,155,188
+Chuka,SR16,D15,RTiM,1,Vegetative phase,30/12/2016,37,81,126,165,199
+Chuka,SR16,D15,RTiM,2,Vegetative phase,30/12/2016,38,81,127,172,219
+Chuka,SR16,D15,RTiM,3,Vegetative phase,30/12/2016,39,84,124,167,199
+Chuka,SR16,D15,RTiM,4,Vegetative phase,30/12/2016,39,82,124,168,210
+Chuka,SR16,D15,RTiP,1,Vegetative phase,30/12/2016,32,70,107,134,172
+Chuka,SR16,D15,RTiP,2,Vegetative phase,30/12/2016,33,61,90,126,156
+Chuka,SR16,D15,RTiP,3,Vegetative phase,30/12/2016,31,60,89,117,147
+Chuka,SR16,D15,RTiP,4,Vegetative phase,30/12/2016,36,61,70,80,89
+Chuka,SR16,D0,C,1,Vegetative phase,30/12/2016,34,72,108,148,190
+Chuka,SR16,D0,C,2,Vegetative phase,30/12/2016,36,64,90,126,157
+Chuka,SR16,D0,C,3,Vegetative phase,30/12/2016,36,81,130,175,205
+Chuka,SR16,D0,C,4,Vegetative phase,30/12/2016,39,72,99,111,122
+Chuka,SR16,D0,F,1,Vegetative phase,30/12/2016,28,65,109,150,197
+Chuka,SR16,D0,F,2,Vegetative phase,30/12/2016,31,66,106,136,166
+Chuka,SR16,D0,F,3,Vegetative phase,30/12/2016,26,58,86,117,147
+Chuka,SR16,D0,F,4,Vegetative phase,30/12/2016,38,49,76,104,114
+Chuka,SR16,D0,RF,1,Vegetative phase,30/12/2016,31,68,110,146,172
+Chuka,SR16,D0,RF,2,Vegetative phase,30/12/2016,34,69,100,127,151
+Chuka,SR16,D0,RF,3,Vegetative phase,30/12/2016,34,70,106,133,157
+Chuka,SR16,D0,RF,4,Vegetative phase,30/12/2016,36,74,107,132,158
+Chuka,SR16,D0,RFM,1,Vegetative phase,30/12/2016,29,63,91,130,172
+Chuka,SR16,D0,RFM,2,Vegetative phase,30/12/2016,32,68,97,131,160
+Chuka,SR16,D0,RFM,3,Vegetative phase,30/12/2016,35,75,108,141,167
+Chuka,SR16,D0,RFM,4,Vegetative phase,30/12/2016,33,68,100,126,151
+Chuka,SR16,D0,RML,1,Vegetative phase,30/12/2016,34,74,106,135,162
+Chuka,SR16,D0,RML,2,Vegetative phase,30/12/2016,35,72,102,139,173
+Chuka,SR16,D0,RML,3,Vegetative phase,30/12/2016,34,68,108,150,192
+Chuka,SR16,D0,RML,4,Vegetative phase,30/12/2016,33,72,111,150,182
+Chuka,SR16,D0,RTiM,1,Vegetative phase,30/12/2016,27,62,100,142,183
+Chuka,SR16,D0,RTiM,2,Vegetative phase,30/12/2016,35,74,104,131,157
+Chuka,SR16,D0,RTiM,3,Vegetative phase,30/12/2016,36,69,96,125,156
+Chuka,SR16,D0,RTiM,4,Vegetative phase,30/12/2016,36,73,105,132,143
+Chuka,SR16,D0,RTiP,1,Vegetative phase,30/12/2016,31,68,110,151,183
+Chuka,SR16,D0,RTiP,2,Vegetative phase,30/12/2016,25,66,108,146,178
+Chuka,SR16,D0,RTiP,3,Vegetative phase,30/12/2016,34,74,119,162,206
+Chuka,SR16,D0,RTiP,4,Vegetative phase,30/12/2016,34,64,78,92,103
+Chuka,SR16,D15,C,1,Grain formation/filling phase,05/01/2017,26,54,93,134,176
+Chuka,SR16,D15,C,2,Grain formation/filling phase,05/01/2017,35,71,102,135,170
+Chuka,SR16,D15,C,3,Grain formation/filling phase,05/01/2017,31,65,102,140,179
+Chuka,SR16,D15,C,4,Grain formation/filling phase,05/01/2017,32,60,92,103,114
+Chuka,SR16,D15,F,1,Grain formation/filling phase,05/01/2017,32,64,90,123,153
+Chuka,SR16,D15,F,2,Grain formation/filling phase,05/01/2017,32,70,112,146,178
+Chuka,SR16,D15,F,3,Grain formation/filling phase,05/01/2017,31,67,109,153,192
+Chuka,SR16,D15,F,4,Grain formation/filling phase,05/01/2017,35,47,59,70,80
+Chuka,SR16,D15,RF,1,Grain formation/filling phase,05/01/2017,29,62,96,126,159
+Chuka,SR16,D15,RF,2,Grain formation/filling phase,05/01/2017,27,57,84,115,145
+Chuka,SR16,D15,RF,3,Grain formation/filling phase,05/01/2017,26,54,84,118,154
+Chuka,SR16,D15,RF,4,Grain formation/filling phase,05/01/2017,33,62,72,101,132
+Chuka,SR16,D15,RFM,1,Grain formation/filling phase,05/01/2017,30,65,97,127,154
+Chuka,SR16,D15,RFM,2,Grain formation/filling phase,05/01/2017,38,73,102,128,150
+Chuka,SR16,D15,RFM,3,Grain formation/filling phase,05/01/2017,31,62,96,124,147
+Chuka,SR16,D15,RFM,4,Grain formation/filling phase,05/01/2017,30,41,52,61,68
+Chuka,SR16,D15,RML,1,Grain formation/filling phase,05/01/2017,33,69,100,134,167
+Chuka,SR16,D15,RML,2,Grain formation/filling phase,05/01/2017,37,78,107,140,172
+Chuka,SR16,D15,RML,3,Grain formation/filling phase,05/01/2017,35,75,118,160,205
+Chuka,SR16,D15,RML,4,Grain formation/filling phase,05/01/2017,41,81,118,153,185
+Chuka,SR16,D15,RTiM,1,Grain formation/filling phase,05/01/2017,35,78,123,162,195
+Chuka,SR16,D15,RTiM,2,Grain formation/filling phase,05/01/2017,37,79,124,169,214
+Chuka,SR16,D15,RTiM,3,Grain formation/filling phase,05/01/2017,38,82,122,164,195
+Chuka,SR16,D15,RTiM,4,Grain formation/filling phase,05/01/2017,38,79,120,163,202
+Chuka,SR16,D15,RTiP,1,Grain formation/filling phase,05/01/2017,31,67,103,128,165
+Chuka,SR16,D15,RTiP,2,Grain formation/filling phase,05/01/2017,34,73,114,146,173
+Chuka,SR16,D15,RTiP,3,Grain formation/filling phase,05/01/2017,30,63,96,122,151
+Chuka,SR16,D15,RTiP,4,Grain formation/filling phase,05/01/2017,35,46,56,65,74
+Chuka,SR16,D0,C,1,Grain formation/filling phase,05/01/2017,34,71,107,146,186
+Chuka,SR16,D0,C,2,Grain formation/filling phase,05/01/2017,35,63,89,124,153
+Chuka,SR16,D0,C,3,Grain formation/filling phase,05/01/2017,35,79,126,168,197
+Chuka,SR16,D0,C,4,Grain formation/filling phase,05/01/2017,39,71,99,110,120
+Chuka,SR16,D0,F,1,Grain formation/filling phase,05/01/2017,31,67,109,148,194
+Chuka,SR16,D0,F,2,Grain formation/filling phase,05/01/2017,30,66,105,135,164
+Chuka,SR16,D0,F,3,Grain formation/filling phase,05/01/2017,26,57,85,116,145
+Chuka,SR16,D0,F,4,Grain formation/filling phase,05/01/2017,38,48,75,103,112
+Chuka,SR16,D0,RF,1,Grain formation/filling phase,05/01/2017,29,66,107,144,170
+Chuka,SR16,D0,RF,2,Grain formation/filling phase,05/01/2017,34,68,100,127,151
+Chuka,SR16,D0,RF,3,Grain formation/filling phase,05/01/2017,33,68,103,131,155
+Chuka,SR16,D0,RF,4,Grain formation/filling phase,05/01/2017,34,71,104,129,155
+Chuka,SR16,D0,RFM,1,Grain formation/filling phase,05/01/2017,29,62,90,127,169
+Chuka,SR16,D0,RFM,2,Grain formation/filling phase,05/01/2017,31,67,95,128,157
+Chuka,SR16,D0,RFM,3,Grain formation/filling phase,05/01/2017,35,73,106,138,164
+Chuka,SR16,D0,RFM,4,Grain formation/filling phase,05/01/2017,32,66,96,122,147
+Chuka,SR16,D0,RML,1,Grain formation/filling phase,05/01/2017,34,73,105,134,161
+Chuka,SR16,D0,RML,2,Grain formation/filling phase,05/01/2017,34,71,101,137,171
+Chuka,SR16,D0,RML,3,Grain formation/filling phase,05/01/2017,33,68,106,148,190
+Chuka,SR16,D0,RML,4,Grain formation/filling phase,05/01/2017,32,71,110,148,180
+Chuka,SR16,D0,RTiM,1,Grain formation/filling phase,05/01/2017,28,61,99,140,180
+Chuka,SR16,D0,RTiM,2,Grain formation/filling phase,05/01/2017,35,72,100,126,153
+Chuka,SR16,D0,RTiM,3,Grain formation/filling phase,05/01/2017,35,67,94,121,151
+Chuka,SR16,D0,RTiM,4,Grain formation/filling phase,05/01/2017,35,72,103,131,142
+Chuka,SR16,D0,RTiP,1,Grain formation/filling phase,05/01/2017,29,65,106,146,177
+Chuka,SR16,D0,RTiP,2,Grain formation/filling phase,05/01/2017,32,72,114,151,183
+Chuka,SR16,D0,RTiP,3,Grain formation/filling phase,05/01/2017,33,71,115,157,199
+Chuka,SR16,D0,RTiP,4,Grain formation/filling phase,05/01/2017,34,63,77,90,101
+Chuka,SR16,D15,C,1,Grain formation/filling phase,12/01/2017,26,54,93,134,176
+Chuka,SR16,D15,C,2,Grain formation/filling phase,12/01/2017,34,75,108,143,188
+Chuka,SR16,D15,C,3,Grain formation/filling phase,12/01/2017,30,63,97,135,173
+Chuka,SR16,D15,C,4,Grain formation/filling phase,12/01/2017,31,58,88,101,115
+Chuka,SR16,D15,F,1,Grain formation/filling phase,12/01/2017,31,62,88,120,150
+Chuka,SR16,D15,F,2,Grain formation/filling phase,12/01/2017,30,68,109,143,175
+Chuka,SR16,D15,F,3,Grain formation/filling phase,12/01/2017,29,63,103,145,184
+Chuka,SR16,D15,F,4,Grain formation/filling phase,12/01/2017,34,46,58,68,78
+Chuka,SR16,D15,RF,1,Grain formation/filling phase,12/01/2017,28,59,90,119,148
+Chuka,SR16,D15,RF,2,Grain formation/filling phase,12/01/2017,28,59,87,117,147
+Chuka,SR16,D15,RF,3,Grain formation/filling phase,12/01/2017,25,53,82,115,152
+Chuka,SR16,D15,RF,4,Grain formation/filling phase,12/01/2017,31,59,68,96,127
+Chuka,SR16,D15,RFM,1,Grain formation/filling phase,12/01/2017,28,61,92,122,148
+Chuka,SR16,D15,RFM,2,Grain formation/filling phase,12/01/2017,34,68,96,122,144
+Chuka,SR16,D15,RFM,3,Grain formation/filling phase,12/01/2017,28,58,91,118,141
+Chuka,SR16,D15,RFM,4,Grain formation/filling phase,12/01/2017,28,39,49,57,65
+Chuka,SR16,D15,RML,1,Grain formation/filling phase,12/01/2017,30,65,95,129,162
+Chuka,SR16,D15,RML,2,Grain formation/filling phase,12/01/2017,35,75,104,137,168
+Chuka,SR16,D15,RML,3,Grain formation/filling phase,12/01/2017,34,71,113,155,199
+Chuka,SR16,D15,RML,4,Grain formation/filling phase,12/01/2017,38,76,113,148,180
+Chuka,SR16,D15,RTiM,1,Grain formation/filling phase,12/01/2017,33,73,117,154,187
+Chuka,SR16,D15,RTiM,2,Grain formation/filling phase,12/01/2017,35,76,120,164,208
+Chuka,SR16,D15,RTiM,3,Grain formation/filling phase,12/01/2017,35,77,115,156,187
+Chuka,SR16,D15,RTiM,4,Grain formation/filling phase,12/01/2017,36,74,114,156,195
+Chuka,SR16,D15,RTiP,1,Grain formation/filling phase,12/01/2017,29,63,98,123,158
+Chuka,SR16,D15,RTiP,2,Grain formation/filling phase,12/01/2017,32,69,108,139,166
+Chuka,SR16,D15,RTiP,3,Grain formation/filling phase,12/01/2017,29,60,92,118,146
+Chuka,SR16,D15,RTiP,4,Grain formation/filling phase,12/01/2017,33,43,54,62,71
+Chuka,SR16,D0,C,1,Grain formation/filling phase,12/01/2017,32,67,102,140,179
+Chuka,SR16,D0,C,2,Grain formation/filling phase,12/01/2017,34,61,87,120,149
+Chuka,SR16,D0,C,3,Grain formation/filling phase,12/01/2017,33,74,119,159,187
+Chuka,SR16,D0,C,4,Grain formation/filling phase,12/01/2017,37,69,96,107,117
+Chuka,SR16,D0,F,1,Grain formation/filling phase,12/01/2017,30,64,103,142,188
+Chuka,SR16,D0,F,2,Grain formation/filling phase,12/01/2017,29,64,102,131,160
+Chuka,SR16,D0,F,3,Grain formation/filling phase,12/01/2017,29,60,87,117,146
+Chuka,SR16,D0,F,4,Grain formation/filling phase,12/01/2017,36,46,72,99,109
+Chuka,SR16,D0,RF,1,Grain formation/filling phase,12/01/2017,28,62,102,139,160
+Chuka,SR16,D0,RF,2,Grain formation/filling phase,12/01/2017,33,66,98,125,148
+Chuka,SR16,D0,RF,3,Grain formation/filling phase,12/01/2017,31,65,99,127,150
+Chuka,SR16,D0,RF,4,Grain formation/filling phase,12/01/2017,31,66,98,123,149
+Chuka,SR16,D0,RFM,1,Grain formation/filling phase,12/01/2017,27,59,86,124,165
+Chuka,SR16,D0,RFM,2,Grain formation/filling phase,12/01/2017,31,66,94,126,155
+Chuka,SR16,D0,RFM,3,Grain formation/filling phase,12/01/2017,32,68,100,131,158
+Chuka,SR16,D0,RFM,4,Grain formation/filling phase,12/01/2017,31,63,92,118,143
+Chuka,SR16,D0,RML,1,Grain formation/filling phase,12/01/2017,32,69,101,129,155
+Chuka,SR16,D0,RML,2,Grain formation/filling phase,12/01/2017,34,70,101,136,170
+Chuka,SR16,D0,RML,3,Grain formation/filling phase,12/01/2017,32,64,102,143,185
+Chuka,SR16,D0,RML,4,Grain formation/filling phase,12/01/2017,30,67,105,143,174
+Chuka,SR16,D0,RTiM,1,Grain formation/filling phase,12/01/2017,26,58,94,135,174
+Chuka,SR16,D0,RTiM,2,Grain formation/filling phase,12/01/2017,33,69,98,130,159
+Chuka,SR16,D0,RTiM,3,Grain formation/filling phase,12/01/2017,33,64,90,117,147
+Chuka,SR16,D0,RTiM,4,Grain formation/filling phase,12/01/2017,33,68,99,126,137
+Chuka,SR16,D0,RTiP,1,Grain formation/filling phase,12/01/2017,27,61,101,140,172
+Chuka,SR16,D0,RTiP,2,Grain formation/filling phase,12/01/2017,30,67,107,144,175
+Chuka,SR16,D0,RTiP,3,Grain formation/filling phase,12/01/2017,31,67,108,149,191
+Chuka,SR16,D0,RTiP,4,Grain formation/filling phase,12/01/2017,32,61,74,87,98
+Chuka,SR16,D15,C,1,Grain formation/filling phase,19/01/2017,28,57,93,133,174
+Chuka,SR16,D15,C,2,Grain formation/filling phase,19/01/2017,35,75,108,142,186
+Chuka,SR16,D15,C,3,Grain formation/filling phase,19/01/2017,29,62,95,132,171
+Chuka,SR16,D15,C,4,Grain formation/filling phase,19/01/2017,31,58,88,100,114
+Chuka,SR16,D15,F,1,Grain formation/filling phase,19/01/2017,31,61,87,119,149
+Chuka,SR16,D15,F,2,Grain formation/filling phase,19/01/2017,30,67,108,142,174
+Chuka,SR16,D15,F,3,Grain formation/filling phase,19/01/2017,29,62,100,141,178
+Chuka,SR16,D15,F,4,Grain formation/filling phase,19/01/2017,35,46,57,68,78
+Chuka,SR16,D15,RF,1,Grain formation/filling phase,19/01/2017,28,58,90,119,148
+Chuka,SR16,D15,RF,2,Grain formation/filling phase,19/01/2017,28,59,86,116,146
+Chuka,SR16,D15,RF,3,Grain formation/filling phase,19/01/2017,26,53,82,115,151
+Chuka,SR16,D15,RF,4,Grain formation/filling phase,19/01/2017,31,59,68,95,125
+Chuka,SR16,D15,RFM,1,Grain formation/filling phase,19/01/2017,29,61,92,121,147
+Chuka,SR16,D15,RFM,2,Grain formation/filling phase,19/01/2017,24,51,80,105,127
+Chuka,SR16,D15,RFM,3,Grain formation/filling phase,19/01/2017,24,53,85,112,135
+Chuka,SR16,D15,RFM,4,Grain formation/filling phase,19/01/2017,23,33,43,51,59
+Chuka,SR16,D15,RML,1,Grain formation/filling phase,19/01/2017,30,64,94,127,160
+Chuka,SR16,D15,RML,2,Grain formation/filling phase,19/01/2017,35,75,103,135,167
+Chuka,SR16,D15,RML,3,Grain formation/filling phase,19/01/2017,33,70,111,153,197
+Chuka,SR16,D15,RML,4,Grain formation/filling phase,19/01/2017,35,70,106,140,171
+Chuka,SR16,D15,RTiM,1,Grain formation/filling phase,19/01/2017,33,73,116,154,187
+Chuka,SR16,D15,RTiM,2,Grain formation/filling phase,19/01/2017,34,74,118,161,205
+Chuka,SR16,D15,RTiM,3,Grain formation/filling phase,19/01/2017,34,75,113,154,184
+Chuka,SR16,D15,RTiM,4,Grain formation/filling phase,19/01/2017,35,72,110,152,192
+Chuka,SR16,D15,RTiP,1,Grain formation/filling phase,19/01/2017,29,62,96,121,156
+Chuka,SR16,D15,RTiP,2,Grain formation/filling phase,19/01/2017,32,68,105,135,162
+Chuka,SR16,D15,RTiP,3,Grain formation/filling phase,19/01/2017,28,59,90,115,143
+Chuka,SR16,D15,RTiP,4,Grain formation/filling phase,19/01/2017,33,43,53,61,70
+Chuka,SR16,D0,C,1,Grain formation/filling phase,19/01/2017,32,67,102,139,178
+Chuka,SR16,D0,C,2,Grain formation/filling phase,19/01/2017,34,61,87,120,149
+Chuka,SR16,D0,C,3,Grain formation/filling phase,19/01/2017,32,71,115,154,182
+Chuka,SR16,D0,C,4,Grain formation/filling phase,19/01/2017,37,69,95,106,116
+Chuka,SR16,D0,F,1,Grain formation/filling phase,19/01/2017,30,63,102,140,186
+Chuka,SR16,D0,F,2,Grain formation/filling phase,19/01/2017,29,63,101,130,158
+Chuka,SR16,D0,F,3,Grain formation/filling phase,19/01/2017,29,59,87,116,145
+Chuka,SR16,D0,F,4,Grain formation/filling phase,19/01/2017,36,46,71,98,107
+Chuka,SR16,D0,RF,1,Grain formation/filling phase,19/01/2017,28,62,101,138,161
+Chuka,SR16,D0,RF,2,Grain formation/filling phase,19/01/2017,28,60,92,117,143
+Chuka,SR16,D0,RF,3,Grain formation/filling phase,19/01/2017,29,62,96,125,150
+Chuka,SR16,D0,RF,4,Grain formation/filling phase,19/01/2017,31,64,96,105,130
+Chuka,SR16,D0,RFM,1,Grain formation/filling phase,19/01/2017,27,60,86,123,164
+Chuka,SR16,D0,RFM,2,Grain formation/filling phase,19/01/2017,31,66,94,127,155
+Chuka,SR16,D0,RFM,3,Grain formation/filling phase,19/01/2017,32,67,98,129,155
+Chuka,SR16,D0,RFM,4,Grain formation/filling phase,19/01/2017,31,63,92,117,142
+Chuka,SR16,D0,RML,1,Grain formation/filling phase,19/01/2017,32,69,100,129,156
+Chuka,SR16,D0,RML,2,Grain formation/filling phase,19/01/2017,34,71,102,138,171
+Chuka,SR16,D0,RML,3,Grain formation/filling phase,19/01/2017,32,64,101,142,184
+Chuka,SR16,D0,RML,4,Grain formation/filling phase,19/01/2017,30,66,104,142,172
+Chuka,SR16,D0,RTiM,1,Grain formation/filling phase,19/01/2017,26,58,94,134,174
+Chuka,SR16,D0,RTiM,2,Grain formation/filling phase,19/01/2017,33,68,96,127,157
+Chuka,SR16,D0,RTiM,3,Grain formation/filling phase,19/01/2017,33,63,88,116,145
+Chuka,SR16,D0,RTiM,4,Grain formation/filling phase,19/01/2017,32,67,97,125,135
+Chuka,SR16,D0,RTiP,1,Grain formation/filling phase,19/01/2017,27,61,101,140,170
+Chuka,SR16,D0,RTiP,2,Grain formation/filling phase,19/01/2017,30,68,108,144,175
+Chuka,SR16,D0,RTiP,3,Grain formation/filling phase,19/01/2017,30,65,105,146,186
+Chuka,SR16,D0,RTiP,4,Grain formation/filling phase,19/01/2017,33,61,75,87,98
+Chuka,SR16,D15,C,1,Grain formation/filling phase,26/01/2017,28,62,103,144,186
+Chuka,SR16,D15,C,2,Grain formation/filling phase,26/01/2017,35,75,107,141,183
+Chuka,SR16,D15,C,3,Grain formation/filling phase,26/01/2017,31,64,97,133,172
+Chuka,SR16,D15,C,4,Grain formation/filling phase,26/01/2017,31,58,87,100,113
+Chuka,SR16,D15,F,1,Grain formation/filling phase,26/01/2017,31,61,87,119,148
+Chuka,SR16,D15,F,2,Grain formation/filling phase,26/01/2017,30,67,108,142,174
+Chuka,SR16,D15,F,3,Grain formation/filling phase,26/01/2017,29,62,100,139,176
+Chuka,SR16,D15,F,4,Grain formation/filling phase,26/01/2017,34,45,57,67,77
+Chuka,SR16,D15,RF,1,Grain formation/filling phase,26/01/2017,28,58,89,118,146
+Chuka,SR16,D15,RF,2,Grain formation/filling phase,26/01/2017,27,60,86,116,146
+Chuka,SR16,D15,RF,3,Grain formation/filling phase,26/01/2017,26,53,82,115,151
+Chuka,SR16,D15,RF,4,Grain formation/filling phase,26/01/2017,31,59,68,95,125
+Chuka,SR16,D15,RFM,1,Grain formation/filling phase,26/01/2017,28,60,91,120,146
+Chuka,SR16,D15,RFM,2,Grain formation/filling phase,26/01/2017,23,54,85,110,132
+Chuka,SR16,D15,RFM,3,Grain formation/filling phase,26/01/2017,24,54,85,112,135
+Chuka,SR16,D15,RFM,4,Grain formation/filling phase,26/01/2017,24,34,45,53,61
+Chuka,SR16,D15,RML,1,Grain formation/filling phase,26/01/2017,29,63,93,126,158
+Chuka,SR16,D15,RML,2,Grain formation/filling phase,26/01/2017,35,75,103,136,167
+Chuka,SR16,D15,RML,3,Grain formation/filling phase,26/01/2017,33,69,110,152,195
+Chuka,SR16,D15,RML,4,Grain formation/filling phase,26/01/2017,36,73,108,141,172
+Chuka,SR16,D15,RTiM,1,Grain formation/filling phase,26/01/2017,33,72,115,153,186
+Chuka,SR16,D15,RTiM,2,Grain formation/filling phase,26/01/2017,34,74,118,161,205
+Chuka,SR16,D15,RTiM,3,Grain formation/filling phase,26/01/2017,34,74,113,153,184
+Chuka,SR16,D15,RTiM,4,Grain formation/filling phase,26/01/2017,34,70,107,148,187
+Chuka,SR16,D15,RTiP,1,Grain formation/filling phase,26/01/2017,29,62,95,119,154
+Chuka,SR16,D15,RTiP,2,Grain formation/filling phase,26/01/2017,31,67,103,132,159
+Chuka,SR16,D15,RTiP,3,Grain formation/filling phase,26/01/2017,29,59,90,115,142
+Chuka,SR16,D15,RTiP,4,Grain formation/filling phase,26/01/2017,33,43,53,61,70
+Chuka,SR16,D0,C,1,Grain formation/filling phase,26/01/2017,32,66,101,138,176
+Chuka,SR16,D0,C,2,Grain formation/filling phase,26/01/2017,34,61,86,119,148
+Chuka,SR16,D0,C,3,Grain formation/filling phase,26/01/2017,32,70,113,152,179
+Chuka,SR16,D0,C,4,Grain formation/filling phase,26/01/2017,37,68,95,105,115
+Chuka,SR16,D0,F,1,Grain formation/filling phase,26/01/2017,30,63,102,140,185
+Chuka,SR16,D0,F,2,Grain formation/filling phase,26/01/2017,29,63,100,129,158
+Chuka,SR16,D0,F,3,Grain formation/filling phase,26/01/2017,29,59,86,115,144
+Chuka,SR16,D0,F,4,Grain formation/filling phase,26/01/2017,36,46,57,84,93
+Chuka,SR16,D0,RF,1,Grain formation/filling phase,26/01/2017,27,61,100,136,158
+Chuka,SR16,D0,RF,2,Grain formation/filling phase,26/01/2017,32,65,95,122,145
+Chuka,SR16,D0,RF,3,Grain formation/filling phase,26/01/2017,30,63,97,124,147
+Chuka,SR16,D0,RF,4,Grain formation/filling phase,26/01/2017,30,64,95,103,129
+Chuka,SR16,D0,RFM,1,Grain formation/filling phase,26/01/2017,27,59,86,122,163
+Chuka,SR16,D0,RFM,2,Grain formation/filling phase,26/01/2017,31,66,93,126,153
+Chuka,SR16,D0,RFM,3,Grain formation/filling phase,26/01/2017,31,66,97,128,154
+Chuka,SR16,D0,RFM,4,Grain formation/filling phase,26/01/2017,30,62,90,101,111
+Chuka,SR16,D0,RML,1,Grain formation/filling phase,26/01/2017,32,69,100,127,153
+Chuka,SR16,D0,RML,2,Grain formation/filling phase,26/01/2017,34,71,101,136,169
+Chuka,SR16,D0,RML,3,Grain formation/filling phase,26/01/2017,32,64,101,142,184
+Chuka,SR16,D0,RML,4,Grain formation/filling phase,26/01/2017,30,66,104,142,172
+Chuka,SR16,D0,RTiM,1,Grain formation/filling phase,26/01/2017,26,57,93,133,173
+Chuka,SR16,D0,RTiM,2,Grain formation/filling phase,26/01/2017,33,68,95,126,155
+Chuka,SR16,D0,RTiM,3,Grain formation/filling phase,26/01/2017,32,63,88,115,142
+Chuka,SR16,D0,RTiM,4,Grain formation/filling phase,26/01/2017,32,67,98,125,135
+Chuka,SR16,D0,RTiP,1,Grain formation/filling phase,26/01/2017,26,60,100,139,169
+Chuka,SR16,D0,RTiP,2,Grain formation/filling phase,26/01/2017,30,67,108,144,174
+Chuka,SR16,D0,RTiP,3,Grain formation/filling phase,26/01/2017,30,65,104,143,183
+Chuka,SR16,D0,RTiP,4,Grain formation/filling phase,26/01/2017,33,61,74,87,97
+Chuka,SR17,D15,C,1,Vegetative phase,04/11/2017,36,70,114,160,205
+Chuka,SR17,D15,C,2,Vegetative phase,04/11/2017,37,77,106,138,179
+Chuka,SR17,D15,C,3,Vegetative phase,04/11/2017,34,68,104,142,181
+Chuka,SR17,D15,C,4,Vegetative phase,04/11/2017,30,59,91,104,118
+Chuka,SR17,D15,F,1,Vegetative phase,04/11/2017,35,75,107,139,168
+Chuka,SR17,D15,F,2,Vegetative phase,04/11/2017,33,73,116,150,182
+Chuka,SR17,D15,F,3,Vegetative phase,04/11/2017,32,71,114,158,198
+Chuka,SR17,D15,F,4,Vegetative phase,04/11/2017,38,51,64,74,84
+Chuka,SR17,D15,RF,1,Vegetative phase,04/11/2017,29,62,97,122,149
+Chuka,SR17,D15,RF,2,Vegetative phase,04/11/2017,27,63,90,117,145
+Chuka,SR17,D15,RF,3,Vegetative phase,04/11/2017,25,52,80,111,147
+Chuka,SR17,D15,RF,4,Vegetative phase,04/11/2017,34,65,75,101,132
+Chuka,SR17,D15,RFM,1,Vegetative phase,04/11/2017,32,67,101,132,153
+Chuka,SR17,D15,RFM,2,Vegetative phase,04/11/2017,39,78,107,131,155
+Chuka,SR17,D15,RFM,3,Vegetative phase,04/11/2017,28,65,103,128,152
+Chuka,SR17,D15,RFM,4,Vegetative phase,04/11/2017,33,45,56,64,95
+Chuka,SR17,D15,RML,1,Vegetative phase,04/11/2017,32,69,100,131,160
+Chuka,SR17,D15,RML,2,Vegetative phase,04/11/2017,37,77,113,143,172
+Chuka,SR17,D15,RML,3,Vegetative phase,04/11/2017,39,78,120,161,203
+Chuka,SR17,D15,RML,4,Vegetative phase,04/11/2017,43,82,116,148,177
+Chuka,SR17,D15,RTiM,1,Vegetative phase,04/11/2017,36,81,129,173,204
+Chuka,SR17,D15,RTiM,2,Vegetative phase,04/11/2017,41,88,137,183,229
+Chuka,SR17,D15,RTiM,3,Vegetative phase,04/11/2017,41,87,126,170,197
+Chuka,SR17,D15,RTiM,4,Vegetative phase,04/11/2017,38,81,120,162,199
+Chuka,SR17,D15,RTiP,1,Vegetative phase,04/11/2017,33,69,103,123,156
+Chuka,SR17,D15,RTiP,2,Vegetative phase,04/11/2017,36,77,119,146,168
+Chuka,SR17,D15,RTiP,3,Vegetative phase,04/11/2017,30,62,93,115,139
+Chuka,SR17,D15,RTiP,4,Vegetative phase,04/11/2017,34,45,55,62,70
+Chuka,SR17,D0,C,1,Vegetative phase,04/11/2017,37,74,108,147,186
+Chuka,SR17,D0,C,2,Vegetative phase,04/11/2017,34,71,106,138,165
+Chuka,SR17,D0,C,3,Vegetative phase,04/11/2017,34,80,128,169,194
+Chuka,SR17,D0,C,4,Vegetative phase,04/11/2017,40,68,79,90,99
+Chuka,SR17,D0,F,1,Vegetative phase,04/11/2017,31,71,116,158,207
+Chuka,SR17,D0,F,2,Vegetative phase,04/11/2017,29,67,107,135,162
+Chuka,SR17,D0,F,3,Vegetative phase,04/11/2017,26,52,79,108,136
+Chuka,SR17,D0,F,4,Vegetative phase,04/11/2017,39,50,63,88,97
+Chuka,SR17,D0,RF,1,Vegetative phase,04/11/2017,29,66,107,143,160
+Chuka,SR17,D0,RF,2,Vegetative phase,04/11/2017,34,65,92,116,135
+Chuka,SR17,D0,RF,3,Vegetative phase,04/11/2017,33,68,100,124,143
+Chuka,SR17,D0,RF,4,Vegetative phase,04/11/2017,37,72,101,109,115
+Chuka,SR17,D0,RFM,1,Vegetative phase,04/11/2017,28,63,93,134,176
+Chuka,SR17,D0,RFM,2,Vegetative phase,04/11/2017,34,72,97,126,152
+Chuka,SR17,D0,RFM,3,Vegetative phase,04/11/2017,40,81,113,144,174
+Chuka,SR17,D0,RFM,4,Vegetative phase,04/11/2017,39,73,103,113,123
+Chuka,SR17,D0,RML,1,Vegetative phase,04/11/2017,35,76,112,142,169
+Chuka,SR17,D0,RML,2,Vegetative phase,04/11/2017,34,69,95,131,163
+Chuka,SR17,D0,RML,3,Vegetative phase,04/11/2017,40,81,113,156,198
+Chuka,SR17,D0,RML,4,Vegetative phase,04/11/2017,33,71,109,144,170
+Chuka,SR17,D0,RTiM,1,Vegetative phase,04/11/2017,28,64,104,146,188
+Chuka,SR17,D0,RTiM,2,Vegetative phase,04/11/2017,32,67,99,129,159
+Chuka,SR17,D0,RTiM,3,Vegetative phase,04/11/2017,36,67,94,121,152
+Chuka,SR17,D0,RTiM,4,Vegetative phase,04/11/2017,30,67,95,105,116
+Chuka,SR17,D0,RTiP,1,Vegetative phase,04/11/2017,30,66,104,141,170
+Chuka,SR17,D0,RTiP,2,Vegetative phase,04/11/2017,34,77,122,158,186
+Chuka,SR17,D0,RTiP,3,Vegetative phase,04/11/2017,36,78,122,164,207
+Chuka,SR17,D0,RTiP,4,Vegetative phase,04/11/2017,36,63,77,90,100
+Chuka,SR17,D15,C,1,Vegetative phase,11/11/2017,31,62,103,146,189
+Chuka,SR17,D15,C,2,Vegetative phase,11/11/2017,41,86,116,149,194
+Chuka,SR17,D15,C,3,Vegetative phase,11/11/2017,37,76,115,154,195
+Chuka,SR17,D15,C,4,Vegetative phase,11/11/2017,38,71,107,120,134
+Chuka,SR17,D15,F,1,Vegetative phase,11/11/2017,40,84,119,152,184
+Chuka,SR17,D15,F,2,Vegetative phase,11/11/2017,40,83,128,165,200
+Chuka,SR17,D15,F,3,Vegetative phase,11/11/2017,40,83,129,176,219
+Chuka,SR17,D15,F,4,Vegetative phase,11/11/2017,47,61,75,86,97
+Chuka,SR17,D15,RF,1,Vegetative phase,11/11/2017,35,73,110,137,166
+Chuka,SR17,D15,RF,2,Vegetative phase,11/11/2017,34,75,104,133,164
+Chuka,SR17,D15,RF,3,Vegetative phase,11/11/2017,29,59,89,123,161
+Chuka,SR17,D15,RF,4,Vegetative phase,11/11/2017,39,73,84,112,147
+Chuka,SR17,D15,RFM,1,Vegetative phase,11/11/2017,39,77,113,147,174
+Chuka,SR17,D15,RFM,2,Vegetative phase,11/11/2017,46,90,122,148,174
+Chuka,SR17,D15,RFM,3,Vegetative phase,11/11/2017,37,80,121,148,174
+Chuka,SR17,D15,RFM,4,Vegetative phase,11/11/2017,32,46,58,67,102
+Chuka,SR17,D15,RML,1,Vegetative phase,11/11/2017,38,79,111,144,177
+Chuka,SR17,D15,RML,2,Vegetative phase,11/11/2017,40,83,109,141,173
+Chuka,SR17,D15,RML,3,Vegetative phase,11/11/2017,44,87,133,176,223
+Chuka,SR17,D15,RML,4,Vegetative phase,11/11/2017,48,91,127,162,195
+Chuka,SR17,D15,RTiM,1,Vegetative phase,11/11/2017,43,91,142,191,224
+Chuka,SR17,D15,RTiM,2,Vegetative phase,11/11/2017,46,96,148,198,248
+Chuka,SR17,D15,RTiM,3,Vegetative phase,11/11/2017,45,94,136,184,212
+Chuka,SR17,D15,RTiM,4,Vegetative phase,11/11/2017,43,89,131,175,214
+Chuka,SR17,D15,RTiP,1,Vegetative phase,11/11/2017,38,77,113,134,170
+Chuka,SR17,D15,RTiP,2,Vegetative phase,11/11/2017,42,88,134,164,187
+Chuka,SR17,D15,RTiP,3,Vegetative phase,11/11/2017,35,71,104,127,153
+Chuka,SR17,D15,RTiP,4,Vegetative phase,11/11/2017,39,50,61,69,77
+Chuka,SR17,D0,C,1,Vegetative phase,11/11/2017,42,84,120,163,205
+Chuka,SR17,D0,C,2,Vegetative phase,11/11/2017,38,65,102,137,165
+Chuka,SR17,D0,C,3,Vegetative phase,11/11/2017,45,97,148,193,220
+Chuka,SR17,D0,C,4,Vegetative phase,11/11/2017,45,75,87,99,109
+Chuka,SR17,D0,F,1,Vegetative phase,11/11/2017,37,85,134,179,231
+Chuka,SR17,D0,F,2,Vegetative phase,11/11/2017,36,76,118,148,177
+Chuka,SR17,D0,F,3,Vegetative phase,11/11/2017,31,60,90,121,149
+Chuka,SR17,D0,F,4,Vegetative phase,11/11/2017,45,58,72,100,109
+Chuka,SR17,D0,RF,1,Vegetative phase,11/11/2017,37,78,122,161,178
+Chuka,SR17,D0,RF,2,Vegetative phase,11/11/2017,38,71,100,125,144
+Chuka,SR17,D0,RF,3,Vegetative phase,11/11/2017,39,77,112,137,156
+Chuka,SR17,D0,RF,4,Vegetative phase,11/11/2017,41,80,113,121,127
+Chuka,SR17,D0,RFM,1,Vegetative phase,11/11/2017,35,74,100,144,190
+Chuka,SR17,D0,RFM,2,Vegetative phase,11/11/2017,40,80,108,138,166
+Chuka,SR17,D0,RFM,3,Vegetative phase,11/11/2017,45,89,124,156,187
+Chuka,SR17,D0,RFM,4,Vegetative phase,11/11/2017,46,83,114,125,135
+Chuka,SR17,D0,RML,1,Vegetative phase,11/11/2017,40,84,123,156,186
+Chuka,SR17,D0,RML,2,Vegetative phase,11/11/2017,36,72,99,138,172
+Chuka,SR17,D0,RML,3,Vegetative phase,11/11/2017,38,79,122,166,211
+Chuka,SR17,D0,RML,4,Vegetative phase,11/11/2017,38,78,117,155,183
+Chuka,SR17,D0,RTiM,1,Vegetative phase,11/11/2017,34,74,117,163,207
+Chuka,SR17,D0,RTiM,2,Vegetative phase,11/11/2017,36,74,101,134,165
+Chuka,SR17,D0,RTiM,3,Vegetative phase,11/11/2017,39,72,102,131,164
+Chuka,SR17,D0,RTiM,4,Vegetative phase,11/11/2017,35,76,106,117,128
+Chuka,SR17,D0,RTiP,1,Vegetative phase,11/11/2017,37,78,120,160,190
+Chuka,SR17,D0,RTiP,2,Vegetative phase,11/11/2017,39,87,135,175,204
+Chuka,SR17,D0,RTiP,3,Vegetative phase,11/11/2017,40,85,132,176,220
+Chuka,SR17,D0,RTiP,4,Vegetative phase,11/11/2017,40,70,86,99,110
+Chuka,SR17,D15,C,1,Vegetative phase,18/11/2017,28,57,97,138,179
+Chuka,SR17,D15,C,2,Vegetative phase,18/11/2017,39,81,111,143,185
+Chuka,SR17,D15,C,3,Vegetative phase,18/11/2017,33,70,108,146,187
+Chuka,SR17,D15,C,4,Vegetative phase,18/11/2017,33,63,96,109,122
+Chuka,SR17,D15,F,1,Vegetative phase,18/11/2017,37,78,111,143,173
+Chuka,SR17,D15,F,2,Vegetative phase,18/11/2017,37,78,122,156,190
+Chuka,SR17,D15,F,3,Vegetative phase,18/11/2017,36,75,120,164,206
+Chuka,SR17,D15,F,4,Vegetative phase,18/11/2017,42,56,69,80,90
+Chuka,SR17,D15,RF,1,Vegetative phase,18/11/2017,32,68,103,128,156
+Chuka,SR17,D15,RF,2,Vegetative phase,18/11/2017,32,70,98,126,155
+Chuka,SR17,D15,RF,3,Vegetative phase,18/11/2017,27,56,84,117,153
+Chuka,SR17,D15,RF,4,Vegetative phase,18/11/2017,36,69,78,105,137
+Chuka,SR17,D15,RFM,1,Vegetative phase,18/11/2017,36,73,108,140,166
+Chuka,SR17,D15,RFM,2,Vegetative phase,18/11/2017,43,85,116,141,166
+Chuka,SR17,D15,RFM,3,Vegetative phase,18/11/2017,32,72,112,138,164
+Chuka,SR17,D15,RFM,4,Vegetative phase,18/11/2017,29,42,54,62,96
+Chuka,SR17,D15,RML,1,Vegetative phase,18/11/2017,35,73,104,136,167
+Chuka,SR17,D15,RML,2,Vegetative phase,18/11/2017,38,80,106,137,167
+Chuka,SR17,D15,RML,3,Vegetative phase,18/11/2017,42,83,126,168,212
+Chuka,SR17,D15,RML,4,Vegetative phase,18/11/2017,44,84,119,152,182
+Chuka,SR17,D15,RTiM,1,Vegetative phase,18/11/2017,40,86,135,181,212
+Chuka,SR17,D15,RTiM,2,Vegetative phase,18/11/2017,43,91,142,189,237
+Chuka,SR17,D15,RTiM,3,Vegetative phase,18/11/2017,43,91,131,176,203
+Chuka,SR17,D15,RTiM,4,Vegetative phase,18/11/2017,40,84,124,167,205
+Chuka,SR17,D15,RTiP,1,Vegetative phase,18/11/2017,36,#VALUE!,#NUM!,#NUM!,#NUM!
+Chuka,SR17,D15,RTiP,2,Vegetative phase,18/11/2017,40,84,129,159,#NUM!
+Chuka,SR17,D15,RTiP,3,Vegetative phase,18/11/2017,32,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+Chuka,SR17,D15,RTiP,4,Vegetative phase,18/11/2017,37,47,#NUM!,#NUM!,#NUM!
+Chuka,SR17,D0,C,1,Vegetative phase,18/11/2017,39,78,114,154,194
+Chuka,SR17,D0,C,2,Vegetative phase,18/11/2017,35,61,97,130,157
+Chuka,SR17,D0,C,3,Vegetative phase,18/11/2017,41,90,139,181,207
+Chuka,SR17,D0,C,4,Vegetative phase,18/11/2017,41,70,81,92,102
+Chuka,SR17,D0,F,1,Vegetative phase,18/11/2017,33,76,123,166,216
+Chuka,SR17,D0,F,2,Vegetative phase,18/11/2017,31,69,110,139,167
+Chuka,SR17,D0,F,3,Vegetative phase,18/11/2017,28,56,84,115,142
+Chuka,SR17,D0,F,4,Vegetative phase,18/11/2017,41,54,67,93,102
+Chuka,SR17,D0,RF,1,Vegetative phase,18/11/2017,34,73,115,152,170
+Chuka,SR17,D0,RF,2,Vegetative phase,18/11/2017,37,69,95,119,138
+Chuka,SR17,D0,RF,3,Vegetative phase,18/11/2017,37,73,105,130,149
+Chuka,SR17,D0,RF,4,Vegetative phase,18/11/2017,39,76,106,114,120
+Chuka,SR17,D0,RFM,1,Vegetative phase,18/11/2017,31,68,94,136,179
+Chuka,SR17,D0,RFM,2,Vegetative phase,18/11/2017,37,75,102,131,158
+Chuka,SR17,D0,RFM,3,Vegetative phase,18/11/2017,43,86,119,150,180
+Chuka,SR17,D0,RFM,4,Vegetative phase,18/11/2017,44,79,109,120,130
+Chuka,SR17,D0,RML,1,Vegetative phase,18/11/2017,38,80,117,148,176
+Chuka,SR17,D0,RML,2,Vegetative phase,18/11/2017,35,70,97,134,167
+Chuka,SR17,D0,RML,3,Vegetative phase,18/11/2017,32,71,112,155,199
+Chuka,SR17,D0,RML,4,Vegetative phase,18/11/2017,36,74,113,149,177
+Chuka,SR17,D0,RTiM,1,Vegetative phase,18/11/2017,31,69,110,152,195
+Chuka,SR17,D0,RTiM,2,Vegetative phase,18/11/2017,35,70,102,134,164
+Chuka,SR17,D0,RTiM,3,Vegetative phase,18/11/2017,38,70,97,125,158
+Chuka,SR17,D0,RTiM,4,Vegetative phase,18/11/2017,33,70,99,109,120
+Chuka,SR17,D0,RTiP,1,Vegetative phase,18/11/2017,35,74,114,153,182
+Chuka,SR17,D0,RTiP,2,Vegetative phase,18/11/2017,37,82,128,166,194
+Chuka,SR17,D0,RTiP,3,Vegetative phase,18/11/2017,38,81,127,169,212
+Chuka,SR17,D0,RTiP,4,Vegetative phase,18/11/2017,38,66,80,94,104
+Chuka,SR17,D15,C,1,Vegetative phase,25/11/2017,30,59,99,140,181
+Chuka,SR17,D15,C,2,Vegetative phase,25/11/2017,36,78,106,138,180
+Chuka,SR17,D15,C,3,Vegetative phase,25/11/2017,32,65,101,139,178
+Chuka,SR17,D15,C,4,Vegetative phase,25/11/2017,30,58,90,102,116
+Chuka,SR17,D15,F,1,Vegetative phase,25/11/2017,32,70,101,131,160
+Chuka,SR17,D15,F,2,Vegetative phase,25/11/2017,32,71,114,147,178
+Chuka,SR17,D15,F,3,Vegetative phase,25/11/2017,28,64,107,150,190
+Chuka,SR17,D15,F,4,Vegetative phase,25/11/2017,37,49,62,72,82
+Chuka,SR17,D15,RF,1,Vegetative phase,25/11/2017,28,62,97,122,150
+Chuka,SR17,D15,RF,2,Vegetative phase,25/11/2017,28,62,89,117,146
+Chuka,SR17,D15,RF,3,Vegetative phase,25/11/2017,26,53,81,112,148
+Chuka,SR17,D15,RF,4,Vegetative phase,25/11/2017,33,64,74,100,131
+Chuka,SR17,D15,RFM,1,Vegetative phase,25/11/2017,33,68,102,132,154
+Chuka,SR17,D15,RFM,2,Vegetative phase,25/11/2017,39,78,108,132,157
+Chuka,SR17,D15,RFM,3,Vegetative phase,25/11/2017,30,67,105,131,156
+Chuka,SR17,D15,RFM,4,Vegetative phase,25/11/2017,27,39,50,58,91
+Chuka,SR17,D15,RML,1,Vegetative phase,25/11/2017,32,69,97,128,158
+Chuka,SR17,D15,RML,2,Vegetative phase,25/11/2017,35,75,110,140,169
+Chuka,SR17,D15,RML,3,Vegetative phase,25/11/2017,38,77,120,161,203
+Chuka,SR17,D15,RML,4,Vegetative phase,25/11/2017,38,76,109,140,169
+Chuka,SR17,D15,RTiM,1,Vegetative phase,25/11/2017,36,80,129,173,204
+Chuka,SR17,D15,RTiM,2,Vegetative phase,25/11/2017,41,88,137,183,230
+Chuka,SR17,D15,RTiM,3,Vegetative phase,25/11/2017,40,86,125,169,196
+Chuka,SR17,D15,RTiM,4,Vegetative phase,25/11/2017,37,80,119,161,199
+Chuka,SR17,D15,RTiP,1,Vegetative phase,25/11/2017,34,#NUM!,#NUM!,#NUM!,#NUM!
+Chuka,SR17,D15,RTiP,2,Vegetative phase,25/11/2017,35,77,121,149,#NUM!
+Chuka,SR17,D15,RTiP,3,Vegetative phase,25/11/2017,31,#NUM!,#NUM!,#NUM!,#NUM!
+Chuka,SR17,D15,RTiP,4,Vegetative phase,25/11/2017,35,#NUM!,#NUM!,#NUM!,#NUM!
+Chuka,SR17,D0,C,1,Vegetative phase,25/11/2017,33,71,105,144,183
+Chuka,SR17,D0,C,2,Vegetative phase,25/11/2017,32,70,105,137,163
+Chuka,SR17,D0,C,3,Vegetative phase,25/11/2017,35,82,131,172,197
+Chuka,SR17,D0,C,4,Vegetative phase,25/11/2017,37,65,76,87,96
+Chuka,SR17,D0,F,1,Vegetative phase,25/11/2017,29,67,111,152,202
+Chuka,SR17,D0,F,2,Vegetative phase,25/11/2017,27,60,97,126,153
+Chuka,SR17,D0,F,3,Vegetative phase,25/11/2017,25,56,82,111,138
+Chuka,SR17,D0,F,4,Vegetative phase,25/11/2017,35,46,58,84,93
+Chuka,SR17,D0,RF,1,Vegetative phase,25/11/2017,32,69,109,146,163
+Chuka,SR17,D0,RF,2,Vegetative phase,25/11/2017,34,66,92,116,136
+Chuka,SR17,D0,RF,3,Vegetative phase,25/11/2017,34,69,101,125,144
+Chuka,SR17,D0,RF,4,Vegetative phase,25/11/2017,36,72,101,109,114
+Chuka,SR17,D0,RFM,1,Vegetative phase,25/11/2017,28,63,92,132,174
+Chuka,SR17,D0,RFM,2,Vegetative phase,25/11/2017,33,70,96,124,151
+Chuka,SR17,D0,RFM,3,Vegetative phase,25/11/2017,39,79,110,140,169
+Chuka,SR17,D0,RFM,4,Vegetative phase,25/11/2017,38,72,100,110,120
+Chuka,SR17,D0,RML,1,Vegetative phase,25/11/2017,35,74,107,136,162
+Chuka,SR17,D0,RML,2,Vegetative phase,25/11/2017,31,64,90,125,156
+Chuka,SR17,D0,RML,3,Vegetative phase,25/11/2017,30,65,105,147,189
+Chuka,SR17,D0,RML,4,Vegetative phase,25/11/2017,31,68,104,138,164
+Chuka,SR17,D0,RTiM,1,Vegetative phase,25/11/2017,29,64,104,145,186
+Chuka,SR17,D0,RTiM,2,Vegetative phase,25/11/2017,30,65,96,126,156
+Chuka,SR17,D0,RTiM,3,Vegetative phase,25/11/2017,36,67,94,121,152
+Chuka,SR17,D0,RTiM,4,Vegetative phase,25/11/2017,31,67,94,104,115
+Chuka,SR17,D0,RTiP,1,Vegetative phase,25/11/2017,33,69,107,144,173
+Chuka,SR17,D0,RTiP,2,Vegetative phase,25/11/2017,35,77,122,158,185
+Chuka,SR17,D0,RTiP,3,Vegetative phase,25/11/2017,36,77,122,163,206
+Chuka,SR17,D0,RTiP,4,Vegetative phase,25/11/2017,36,64,78,90,100
+Chuka,SR17,D15,C,1,Vegetative phase,02/12/2017,28,56,95,136,177
+Chuka,SR17,D15,C,2,Vegetative phase,02/12/2017,37,77,106,137,177
+Chuka,SR17,D15,C,3,Vegetative phase,02/12/2017,31,66,103,140,179
+Chuka,SR17,D15,C,4,Vegetative phase,02/12/2017,32,61,93,105,119
+Chuka,SR17,D15,F,1,Vegetative phase,02/12/2017,35,72,102,133,161
+Chuka,SR17,D15,F,2,Vegetative phase,02/12/2017,35,74,116,150,181
+Chuka,SR17,D15,F,3,Vegetative phase,02/12/2017,32,68,109,150,189
+Chuka,SR17,D15,F,4,Vegetative phase,02/12/2017,40,52,65,75,84
+Chuka,SR17,D15,RF,1,Vegetative phase,02/12/2017,30,66,100,126,153
+Chuka,SR17,D15,RF,2,Vegetative phase,02/12/2017,32,69,96,123,151
+Chuka,SR17,D15,RF,3,Vegetative phase,02/12/2017,28,55,83,114,149
+Chuka,SR17,D15,RF,4,Vegetative phase,02/12/2017,35,67,76,103,134
+Chuka,SR17,D15,RFM,1,Vegetative phase,02/12/2017,35,70,102,131,153
+Chuka,SR17,D15,RFM,2,Vegetative phase,02/12/2017,42,83,112,136,160
+Chuka,SR17,D15,RFM,3,Vegetative phase,02/12/2017,33,71,110,135,160
+Chuka,SR17,D15,RFM,4,Vegetative phase,02/12/2017,29,42,53,61,93
+Chuka,SR17,D15,RML,1,Vegetative phase,02/12/2017,36,73,102,132,162
+Chuka,SR17,D15,RML,2,Vegetative phase,02/12/2017,38,78,112,142,171
+Chuka,SR17,D15,RML,3,Vegetative phase,02/12/2017,39,79,122,162,205
+Chuka,SR17,D15,RML,4,Vegetative phase,02/12/2017,40,77,109,140,168
+Chuka,SR17,D15,RTiM,1,Vegetative phase,02/12/2017,39,85,133,177,208
+Chuka,SR17,D15,RTiM,2,Vegetative phase,02/12/2017,42,88,137,182,228
+Chuka,SR17,D15,RTiM,3,Vegetative phase,02/12/2017,41,86,124,168,195
+Chuka,SR17,D15,RTiM,4,Vegetative phase,02/12/2017,39,83,122,164,202
+Chuka,SR17,D15,RTiP,1,Vegetative phase,02/12/2017,36,63,88,109,128
+Chuka,SR17,D15,RTiP,2,Vegetative phase,02/12/2017,40,83,127,155,172
+Chuka,SR17,D15,RTiP,3,Vegetative phase,02/12/2017,32,62,89,110,130
+Chuka,SR17,D15,RTiP,4,Vegetative phase,02/12/2017,36,46,55,62,68
+Chuka,SR17,D0,C,1,Vegetative phase,02/12/2017,36,72,106,145,183
+Chuka,SR17,D0,C,2,Vegetative phase,02/12/2017,34,70,105,137,163
+Chuka,SR17,D0,C,3,Vegetative phase,02/12/2017,37,83,131,172,197
+Chuka,SR17,D0,C,4,Vegetative phase,02/12/2017,38,66,77,88,97
+Chuka,SR17,D0,F,1,Vegetative phase,02/12/2017,32,72,115,154,201
+Chuka,SR17,D0,F,2,Vegetative phase,02/12/2017,30,64,100,128,155
+Chuka,SR17,D0,F,3,Vegetative phase,02/12/2017,28,60,93,122,148
+Chuka,SR17,D0,F,4,Vegetative phase,02/12/2017,39,50,62,87,96
+Chuka,SR17,D0,RF,1,Vegetative phase,02/12/2017,33,71,113,150,167
+Chuka,SR17,D0,RF,2,Vegetative phase,02/12/2017,36,67,95,119,138
+Chuka,SR17,D0,RF,3,Vegetative phase,02/12/2017,36,71,104,129,148
+Chuka,SR17,D0,RF,4,Vegetative phase,02/12/2017,40,76,106,113,119
+Chuka,SR17,D0,RFM,1,Vegetative phase,02/12/2017,33,70,95,135,177
+Chuka,SR17,D0,RFM,2,Vegetative phase,02/12/2017,37,74,100,129,155
+Chuka,SR17,D0,RFM,3,Vegetative phase,02/12/2017,41,82,113,143,172
+Chuka,SR17,D0,RFM,4,Vegetative phase,02/12/2017,40,74,102,112,122
+Chuka,SR17,D0,RML,1,Vegetative phase,02/12/2017,37,77,111,138,166
+Chuka,SR17,D0,RML,2,Vegetative phase,02/12/2017,32,65,101,136,167
+Chuka,SR17,D0,RML,3,Vegetative phase,02/12/2017,33,70,109,151,194
+Chuka,SR17,D0,RML,4,Vegetative phase,02/12/2017,34,73,108,143,152
+Chuka,SR17,D0,RTiM,1,Vegetative phase,02/12/2017,31,68,108,149,190
+Chuka,SR17,D0,RTiM,2,Vegetative phase,02/12/2017,33,67,98,128,158
+Chuka,SR17,D0,RTiM,3,Vegetative phase,02/12/2017,37,69,96,123,155
+Chuka,SR17,D0,RTiM,4,Vegetative phase,02/12/2017,31,67,95,105,115
+Chuka,SR17,D0,RTiP,1,Vegetative phase,02/12/2017,35,73,112,149,178
+Chuka,SR17,D0,RTiP,2,Vegetative phase,02/12/2017,37,81,126,162,189
+Chuka,SR17,D0,RTiP,3,Vegetative phase,02/12/2017,38,79,123,164,206
+Chuka,SR17,D0,RTiP,4,Vegetative phase,02/12/2017,38,65,79,92,102
+Chuka,SR17,D15,C,1,Vegetative phase,09/12/2017,23,54,93,132,172
+Chuka,SR17,D15,C,2,Vegetative phase,09/12/2017,31,70,98,128,169
+Chuka,SR17,D15,C,3,Vegetative phase,09/12/2017,26,54,89,125,163
+Chuka,SR17,D15,C,4,Vegetative phase,09/12/2017,23,48,78,90,103
+Chuka,SR17,D15,F,1,Vegetative phase,09/12/2017,26,58,85,113,140
+Chuka,SR17,D15,F,2,Vegetative phase,09/12/2017,27,61,99,130,159
+Chuka,SR17,D15,F,3,Vegetative phase,09/12/2017,27,59,97,135,171
+Chuka,SR17,D15,F,4,Vegetative phase,09/12/2017,28,39,50,60,69
+Chuka,SR17,D15,RF,1,Vegetative phase,09/12/2017,25,58,91,114,140
+Chuka,SR17,D15,RF,2,Vegetative phase,09/12/2017,24,57,83,109,136
+Chuka,SR17,D15,RF,3,Vegetative phase,09/12/2017,24,49,76,106,140
+Chuka,SR17,D15,RF,4,Vegetative phase,09/12/2017,28,56,65,73,102
+Chuka,SR17,D15,RFM,1,Vegetative phase,09/12/2017,26,56,84,111,132
+Chuka,SR17,D15,RFM,2,Vegetative phase,09/12/2017,34,70,98,120,143
+Chuka,SR17,D15,RFM,3,Vegetative phase,09/12/2017,27,60,93,112,135
+Chuka,SR17,D15,RFM,4,Vegetative phase,09/12/2017,27,38,48,56,85
+Chuka,SR17,D15,RML,1,Vegetative phase,09/12/2017,30,64,91,119,148
+Chuka,SR17,D15,RML,2,Vegetative phase,09/12/2017,32,69,101,129,157
+Chuka,SR17,D15,RML,3,Vegetative phase,09/12/2017,31,66,106,145,187
+Chuka,SR17,D15,RML,4,Vegetative phase,09/12/2017,33,67,96,123,149
+Chuka,SR17,D15,RTiM,1,Vegetative phase,09/12/2017,30,72,118,161,191
+Chuka,SR17,D15,RTiM,2,Vegetative phase,09/12/2017,34,76,121,163,207
+Chuka,SR17,D15,RTiM,3,Vegetative phase,09/12/2017,36,76,111,153,180
+Chuka,SR17,D15,RTiM,4,Vegetative phase,09/12/2017,34,74,111,151,187
+Chuka,SR17,D15,RTiP,1,Vegetative phase,09/12/2017,30,55,80,100,119
+Chuka,SR17,D15,RTiP,2,Vegetative phase,09/12/2017,28,66,108,135,152
+Chuka,SR17,D15,RTiP,3,Vegetative phase,09/12/2017,28,55,81,102,122
+Chuka,SR17,D15,RTiP,4,Vegetative phase,09/12/2017,33,42,50,58,64
+Chuka,SR17,D0,C,1,Vegetative phase,09/12/2017,28,60,91,126,163
+Chuka,SR17,D0,C,2,Vegetative phase,09/12/2017,29,63,95,126,151
+Chuka,SR17,D0,C,3,Vegetative phase,09/12/2017,30,73,119,157,182
+Chuka,SR17,D0,C,4,Vegetative phase,09/12/2017,32,58,69,79,88
+Chuka,SR17,D0,F,1,Vegetative phase,09/12/2017,24,56,95,131,173
+Chuka,SR17,D0,F,2,Vegetative phase,09/12/2017,23,50,84,110,135
+Chuka,SR17,D0,F,3,Vegetative phase,09/12/2017,22,48,80,106,131
+Chuka,SR17,D0,F,4,Vegetative phase,09/12/2017,31,40,51,59,67
+Chuka,SR17,D0,RF,1,Vegetative phase,09/12/2017,27,60,97,130,147
+Chuka,SR17,D0,RF,2,Vegetative phase,09/12/2017,31,60,87,110,129
+Chuka,SR17,D0,RF,3,Vegetative phase,09/12/2017,30,61,91,114,133
+Chuka,SR17,D0,RF,4,Vegetative phase,09/12/2017,33,67,94,102,107
+Chuka,SR17,D0,RFM,1,Vegetative phase,09/12/2017,31,63,90,125,163
+Chuka,SR17,D0,RFM,2,Vegetative phase,09/12/2017,28,62,88,116,142
+Chuka,SR17,D0,RFM,3,Vegetative phase,09/12/2017,33,69,96,124,152
+Chuka,SR17,D0,RFM,4,Vegetative phase,09/12/2017,33,63,91,100,109
+Chuka,SR17,D0,RML,1,Vegetative phase,09/12/2017,31,66,97,123,150
+Chuka,SR17,D0,RML,2,Vegetative phase,09/12/2017,30,62,95,127,156
+Chuka,SR17,D0,RML,3,Vegetative phase,09/12/2017,30,61,96,134,173
+Chuka,SR17,D0,RML,4,Vegetative phase,09/12/2017,28,62,95,128,137
+Chuka,SR17,D0,RTiM,1,Vegetative phase,09/12/2017,29,59,84,106,129
+Chuka,SR17,D0,RTiM,2,Vegetative phase,09/12/2017,26,56,82,105,127
+Chuka,SR17,D0,RTiM,3,Vegetative phase,09/12/2017,34,64,89,115,145
+Chuka,SR17,D0,RTiM,4,Vegetative phase,09/12/2017,27,59,85,93,100
+Chuka,SR17,D0,RTiP,1,Vegetative phase,09/12/2017,26,61,98,134,161
+Chuka,SR17,D0,RTiP,2,Vegetative phase,09/12/2017,30,67,109,143,170
+Chuka,SR17,D0,RTiP,3,Vegetative phase,09/12/2017,29,66,107,145,186
+Chuka,SR17,D0,RTiP,4,Vegetative phase,09/12/2017,33,58,71,83,93
+Chuka,SR17,D15,C,1,Vegetative phase,16/12/2017,21,49,85,123,162
+Chuka,SR17,D15,C,2,Vegetative phase,16/12/2017,27,63,90,120,160
+Chuka,SR17,D15,C,3,Vegetative phase,16/12/2017,24,51,81,115,152
+Chuka,SR17,D15,C,4,Vegetative phase,16/12/2017,22,31,58,70,83
+Chuka,SR17,D15,F,1,Vegetative phase,16/12/2017,23,52,81,108,133
+Chuka,SR17,D15,F,2,Vegetative phase,16/12/2017,24,55,91,119,145
+Chuka,SR17,D15,F,3,Vegetative phase,16/12/2017,24,52,87,123,156
+Chuka,SR17,D15,F,4,Vegetative phase,16/12/2017,25,35,46,55,63
+Chuka,SR17,D15,RF,1,Vegetative phase,16/12/2017,22,50,82,104,129
+Chuka,SR17,D15,RF,2,Vegetative phase,16/12/2017,21,50,74,99,125
+Chuka,SR17,D15,RF,3,Vegetative phase,16/12/2017,21,49,72,100,131
+Chuka,SR17,D15,RF,4,Vegetative phase,16/12/2017,20,46,55,62,90
+Chuka,SR17,D15,RFM,1,Vegetative phase,16/12/2017,22,49,76,101,122
+Chuka,SR17,D15,RFM,2,Vegetative phase,16/12/2017,28,60,85,106,127
+Chuka,SR17,D15,RFM,3,Vegetative phase,16/12/2017,23,51,79,99,121
+Chuka,SR17,D15,RFM,4,Vegetative phase,16/12/2017,23,33,42,49,77
+Chuka,SR17,D15,RML,1,Vegetative phase,16/12/2017,28,57,83,110,137
+Chuka,SR17,D15,RML,2,Vegetative phase,16/12/2017,27,62,92,119,145
+Chuka,SR17,D15,RML,3,Vegetative phase,16/12/2017,26,58,94,131,170
+Chuka,SR17,D15,RML,4,Vegetative phase,16/12/2017,29,61,89,116,124
+Chuka,SR17,D15,RTiM,1,Vegetative phase,16/12/2017,25,62,104,141,170
+Chuka,SR17,D15,RTiM,2,Vegetative phase,16/12/2017,29,66,106,145,187
+Chuka,SR17,D15,RTiM,3,Vegetative phase,16/12/2017,31,68,100,139,174
+Chuka,SR17,D15,RTiM,4,Vegetative phase,16/12/2017,29,65,100,138,173
+Chuka,SR17,D15,RTiP,1,Vegetative phase,16/12/2017,26,49,73,93,111
+Chuka,SR17,D15,RTiP,2,Vegetative phase,16/12/2017,25,59,97,123,140
+Chuka,SR17,D15,RTiP,3,Vegetative phase,16/12/2017,27,52,77,98,116
+Chuka,SR17,D15,RTiP,4,Vegetative phase,16/12/2017,30,37,46,53,59
+Chuka,SR17,D0,C,1,Vegetative phase,16/12/2017,27,55,83,116,151
+Chuka,SR17,D0,C,2,Vegetative phase,16/12/2017,25,56,88,117,141
+Chuka,SR17,D0,C,3,Vegetative phase,16/12/2017,26,66,110,148,171
+Chuka,SR17,D0,C,4,Vegetative phase,16/12/2017,29,39,49,59,68
+Chuka,SR17,D0,F,1,Vegetative phase,16/12/2017,22,51,87,121,163
+Chuka,SR17,D0,F,2,Vegetative phase,16/12/2017,21,44,75,100,125
+Chuka,SR17,D0,F,3,Vegetative phase,16/12/2017,21,44,74,99,123
+Chuka,SR17,D0,F,4,Vegetative phase,16/12/2017,28,36,46,54,62
+Chuka,SR17,D0,RF,1,Vegetative phase,16/12/2017,24,54,88,119,135
+Chuka,SR17,D0,RF,2,Vegetative phase,16/12/2017,27,54,80,102,120
+Chuka,SR17,D0,RF,3,Vegetative phase,16/12/2017,26,55,83,105,123
+Chuka,SR17,D0,RF,4,Vegetative phase,16/12/2017,30,61,87,94,99
+Chuka,SR17,D0,RFM,1,Vegetative phase,16/12/2017,26,53,77,111,147
+Chuka,SR17,D0,RFM,2,Vegetative phase,16/12/2017,25,54,78,104,129
+Chuka,SR17,D0,RFM,3,Vegetative phase,16/12/2017,28,59,85,111,138
+Chuka,SR17,D0,RFM,4,Vegetative phase,16/12/2017,27,54,79,88,97
+Chuka,SR17,D0,RML,1,Vegetative phase,16/12/2017,27,60,89,116,141
+Chuka,SR17,D0,RML,2,Vegetative phase,16/12/2017,24,52,82,111,138
+Chuka,SR17,D0,RML,3,Vegetative phase,16/12/2017,25,51,81,116,152
+Chuka,SR17,D0,RML,4,Vegetative phase,16/12/2017,24,55,86,115,124
+Chuka,SR17,D0,RTiM,1,Vegetative phase,16/12/2017,26,54,77,98,120
+Chuka,SR17,D0,RTiM,2,Vegetative phase,16/12/2017,27,55,79,101,122
+Chuka,SR17,D0,RTiM,3,Vegetative phase,16/12/2017,30,58,80,100,129
+Chuka,SR17,D0,RTiM,4,Vegetative phase,16/12/2017,27,56,64,71,79
+Chuka,SR17,D0,RTiP,1,Vegetative phase,16/12/2017,23,52,87,120,147
+Chuka,SR17,D0,RTiP,2,Vegetative phase,16/12/2017,25,57,96,127,152
+Chuka,SR17,D0,RTiP,3,Vegetative phase,16/12/2017,27,60,98,133,171
+Chuka,SR17,D0,RTiP,4,Vegetative phase,16/12/2017,27,38,50,61,70
+Chuka,SR17,D15,C,1,Grain formation/filling phase,23/12/2017,23,51,86,123,161
+Chuka,SR17,D15,C,2,Grain formation/filling phase,23/12/2017,29,64,90,120,159
+Chuka,SR17,D15,C,3,Grain formation/filling phase,23/12/2017,25,51,81,112,146
+Chuka,SR17,D15,C,4,Grain formation/filling phase,23/12/2017,22,31,57,68,80
+Chuka,SR17,D15,F,1,Grain formation/filling phase,23/12/2017,26,55,83,109,133
+Chuka,SR17,D15,F,2,Grain formation/filling phase,23/12/2017,27,58,94,122,147
+Chuka,SR17,D15,F,3,Grain formation/filling phase,23/12/2017,28,56,90,124,155
+Chuka,SR17,D15,F,4,Grain formation/filling phase,23/12/2017,30,40,51,59,67
+Chuka,SR17,D15,RF,1,Grain formation/filling phase,23/12/2017,24,53,83,105,129
+Chuka,SR17,D15,RF,2,Grain formation/filling phase,23/12/2017,23,51,74,98,123
+Chuka,SR17,D15,RF,3,Grain formation/filling phase,23/12/2017,24,51,73,99,129
+Chuka,SR17,D15,RF,4,Grain formation/filling phase,23/12/2017,27,36,44,51,78
+Chuka,SR17,D15,RFM,1,Grain formation/filling phase,23/12/2017,27,54,80,98,118
+Chuka,SR17,D15,RFM,2,Grain formation/filling phase,23/12/2017,31,62,85,106,127
+Chuka,SR17,D15,RFM,3,Grain formation/filling phase,23/12/2017,26,55,84,103,125
+Chuka,SR17,D15,RFM,4,Grain formation/filling phase,23/12/2017,27,37,46,52,79
+Chuka,SR17,D15,RML,1,Grain formation/filling phase,23/12/2017,28,58,86,112,138
+Chuka,SR17,D15,RML,2,Grain formation/filling phase,23/12/2017,30,63,93,118,144
+Chuka,SR17,D15,RML,3,Grain formation/filling phase,23/12/2017,29,60,95,130,167
+Chuka,SR17,D15,RML,4,Grain formation/filling phase,23/12/2017,30,61,88,114,122
+Chuka,SR17,D15,RTiM,1,Grain formation/filling phase,23/12/2017,29,66,106,142,168
+Chuka,SR17,D15,RTiM,2,Grain formation/filling phase,23/12/2017,29,65,104,141,179
+Chuka,SR17,D15,RTiM,3,Grain formation/filling phase,23/12/2017,30,66,98,135,167
+Chuka,SR17,D15,RTiM,4,Grain formation/filling phase,23/12/2017,29,63,97,133,166
+Chuka,SR17,D15,RTiP,1,Grain formation/filling phase,23/12/2017,28,51,74,94,112
+Chuka,SR17,D15,RTiP,2,Grain formation/filling phase,23/12/2017,29,63,98,123,140
+Chuka,SR17,D15,RTiP,3,Grain formation/filling phase,23/12/2017,27,52,76,96,115
+Chuka,SR17,D15,RTiP,4,Grain formation/filling phase,23/12/2017,29,37,45,51,57
+Chuka,SR17,D0,C,1,Grain formation/filling phase,23/12/2017,25,53,80,112,145
+Chuka,SR17,D0,C,2,Grain formation/filling phase,23/12/2017,27,57,87,115,139
+Chuka,SR17,D0,C,3,Grain formation/filling phase,23/12/2017,28,67,110,146,169
+Chuka,SR17,D0,C,4,Grain formation/filling phase,23/12/2017,30,40,50,59,68
+Chuka,SR17,D0,F,1,Grain formation/filling phase,23/12/2017,26,57,92,125,166
+Chuka,SR17,D0,F,2,Grain formation/filling phase,23/12/2017,24,50,82,106,130
+Chuka,SR17,D0,F,3,Grain formation/filling phase,23/12/2017,23,48,77,102,126
+Chuka,SR17,D0,F,4,Grain formation/filling phase,23/12/2017,32,41,51,58,66
+Chuka,SR17,D0,RF,1,Grain formation/filling phase,23/12/2017,26,56,89,118,135
+Chuka,SR17,D0,RF,2,Grain formation/filling phase,23/12/2017,30,58,83,104,122
+Chuka,SR17,D0,RF,3,Grain formation/filling phase,23/12/2017,29,58,86,107,125
+Chuka,SR17,D0,RF,4,Grain formation/filling phase,23/12/2017,32,63,71,78,83
+Chuka,SR17,D0,RFM,1,Grain formation/filling phase,23/12/2017,28,57,81,114,149
+Chuka,SR17,D0,RFM,2,Grain formation/filling phase,23/12/2017,26,54,77,101,125
+Chuka,SR17,D0,RFM,3,Grain formation/filling phase,23/12/2017,30,61,87,112,138
+Chuka,SR17,D0,RFM,4,Grain formation/filling phase,23/12/2017,28,54,61,70,78
+Chuka,SR17,D0,RML,1,Grain formation/filling phase,23/12/2017,31,65,92,119,144
+Chuka,SR17,D0,RML,2,Grain formation/filling phase,23/12/2017,26,55,84,113,140
+Chuka,SR17,D0,RML,3,Grain formation/filling phase,23/12/2017,25,54,85,119,154
+Chuka,SR17,D0,RML,4,Grain formation/filling phase,23/12/2017,26,58,89,118,126
+Chuka,SR17,D0,RTiM,1,Grain formation/filling phase,23/12/2017,27,55,79,100,120
+Chuka,SR17,D0,RTiM,2,Grain formation/filling phase,23/12/2017,26,55,78,100,121
+Chuka,SR17,D0,RTiM,3,Grain formation/filling phase,23/12/2017,29,57,79,99,127
+Chuka,SR17,D0,RTiM,4,Grain formation/filling phase,23/12/2017,26,56,63,70,78
+Chuka,SR17,D0,RTiP,1,Grain formation/filling phase,23/12/2017,25,54,88,121,147
+Chuka,SR17,D0,RTiP,2,Grain formation/filling phase,23/12/2017,28,63,101,131,155
+Chuka,SR17,D0,RTiP,3,Grain formation/filling phase,23/12/2017,30,64,100,134,171
+Chuka,SR17,D0,RTiP,4,Grain formation/filling phase,23/12/2017,28,39,51,62,71
+Chuka,SR17,D15,C,1,Grain formation/filling phase,30/12/2017,21,46,79,114,151
+Chuka,SR17,D15,C,2,Grain formation/filling phase,30/12/2017,25,58,84,113,150
+Chuka,SR17,D15,C,3,Grain formation/filling phase,30/12/2017,22,48,75,106,140
+Chuka,SR17,D15,C,4,Grain formation/filling phase,30/12/2017,20,29,54,65,77
+Chuka,SR17,D15,F,1,Grain formation/filling phase,30/12/2017,23,50,78,104,128
+Chuka,SR17,D15,F,2,Grain formation/filling phase,30/12/2017,23,53,88,116,141
+Chuka,SR17,D15,F,3,Grain formation/filling phase,30/12/2017,23,50,82,116,145
+Chuka,SR17,D15,F,4,Grain formation/filling phase,30/12/2017,22,32,42,50,58
+Chuka,SR17,D15,RF,1,Grain formation/filling phase,30/12/2017,21,44,71,91,114
+Chuka,SR17,D15,RF,2,Grain formation/filling phase,30/12/2017,20,45,67,90,114
+Chuka,SR17,D15,RF,3,Grain formation/filling phase,30/12/2017,20,44,65,90,118
+Chuka,SR17,D15,RF,4,Grain formation/filling phase,30/12/2017,19,27,35,42,48
+Chuka,SR17,D15,RFM,1,Grain formation/filling phase,30/12/2017,20,46,71,89,108
+Chuka,SR17,D15,RFM,2,Grain formation/filling phase,30/12/2017,19,48,71,91,112
+Chuka,SR17,D15,RFM,3,Grain formation/filling phase,30/12/2017,21,47,75,93,114
+Chuka,SR17,D15,RFM,4,Grain formation/filling phase,30/12/2017,22,30,39,46,52
+Chuka,SR17,D15,RML,1,Grain formation/filling phase,30/12/2017,26,53,80,106,132
+Chuka,SR17,D15,RML,2,Grain formation/filling phase,30/12/2017,26,58,86,111,137
+Chuka,SR17,D15,RML,3,Grain formation/filling phase,30/12/2017,25,55,88,122,158
+Chuka,SR17,D15,RML,4,Grain formation/filling phase,30/12/2017,27,57,84,92,100
+Chuka,SR17,D15,RTiM,1,Grain formation/filling phase,30/12/2017,25,60,99,133,165
+Chuka,SR17,D15,RTiM,2,Grain formation/filling phase,30/12/2017,26,60,99,135,172
+Chuka,SR17,D15,RTiM,3,Grain formation/filling phase,30/12/2017,28,62,94,129,161
+Chuka,SR17,D15,RTiM,4,Grain formation/filling phase,30/12/2017,26,58,89,124,156
+Chuka,SR17,D15,RTiP,1,Grain formation/filling phase,30/12/2017,24,46,69,88,105
+Chuka,SR17,D15,RTiP,2,Grain formation/filling phase,30/12/2017,24,56,90,107,124
+Chuka,SR17,D15,RTiP,3,Grain formation/filling phase,30/12/2017,25,48,72,91,110
+Chuka,SR17,D15,RTiP,4,Grain formation/filling phase,30/12/2017,27,34,42,48,54
+Chuka,SR17,D0,C,1,Grain formation/filling phase,30/12/2017,27,53,80,112,144
+Chuka,SR17,D0,C,2,Grain formation/filling phase,30/12/2017,26,55,84,112,135
+Chuka,SR17,D0,C,3,Grain formation/filling phase,30/12/2017,26,64,105,139,161
+Chuka,SR17,D0,C,4,Grain formation/filling phase,30/12/2017,29,39,48,57,66
+Chuka,SR17,D0,F,1,Grain formation/filling phase,30/12/2017,22,49,82,115,155
+Chuka,SR17,D0,F,2,Grain formation/filling phase,30/12/2017,21,42,73,97,121
+Chuka,SR17,D0,F,3,Grain formation/filling phase,30/12/2017,20,43,72,96,120
+Chuka,SR17,D0,F,4,Grain formation/filling phase,30/12/2017,27,35,45,52,60
+Chuka,SR17,D0,RF,1,Grain formation/filling phase,30/12/2017,24,50,83,112,129
+Chuka,SR17,D0,RF,2,Grain formation/filling phase,30/12/2017,26,53,77,98,116
+Chuka,SR17,D0,RF,3,Grain formation/filling phase,30/12/2017,25,52,79,101,118
+Chuka,SR17,D0,RF,4,Grain formation/filling phase,30/12/2017,29,58,66,73,78
+Chuka,SR17,D0,RFM,1,Grain formation/filling phase,30/12/2017,24,50,72,105,139
+Chuka,SR17,D0,RFM,2,Grain formation/filling phase,30/12/2017,23,49,72,95,119
+Chuka,SR17,D0,RFM,3,Grain formation/filling phase,30/12/2017,25,54,75,100,126
+Chuka,SR17,D0,RFM,4,Grain formation/filling phase,30/12/2017,22,31,39,47,55
+Chuka,SR17,D0,RML,1,Grain formation/filling phase,30/12/2017,26,58,86,112,136
+Chuka,SR17,D0,RML,2,Grain formation/filling phase,30/12/2017,23,51,79,107,133
+Chuka,SR17,D0,RML,3,Grain formation/filling phase,30/12/2017,24,54,83,117,151
+Chuka,SR17,D0,RML,4,Grain formation/filling phase,30/12/2017,23,53,83,111,119
+Chuka,SR17,D0,RTiM,1,Grain formation/filling phase,30/12/2017,24,50,77,98,119
+Chuka,SR17,D0,RTiM,2,Grain formation/filling phase,30/12/2017,22,50,74,96,117
+Chuka,SR17,D0,RTiM,3,Grain formation/filling phase,30/12/2017,27,53,77,98,123
+Chuka,SR17,D0,RTiM,4,Grain formation/filling phase,30/12/2017,23,32,39,46,53
+Chuka,SR17,D0,RTiP,1,Grain formation/filling phase,30/12/2017,22,48,81,112,137
+Chuka,SR17,D0,RTiP,2,Grain formation/filling phase,30/12/2017,24,53,87,116,139
+Chuka,SR17,D0,RTiP,3,Grain formation/filling phase,30/12/2017,25,57,92,127,162
+Chuka,SR17,D0,RTiP,4,Grain formation/filling phase,30/12/2017,25,35,46,57,65
+Chuka,SR17,D15,C,1,Grain formation/filling phase,06/01/2018,20,45,76,112,147
+Chuka,SR17,D15,C,2,Grain formation/filling phase,06/01/2018,19,51,77,105,139
+Chuka,SR17,D15,C,3,Grain formation/filling phase,06/01/2018,22,47,72,101,134
+Chuka,SR17,D15,C,4,Grain formation/filling phase,06/01/2018,20,29,38,48,59
+Chuka,SR17,D15,F,1,Grain formation/filling phase,06/01/2018,23,50,77,102,125
+Chuka,SR17,D15,F,2,Grain formation/filling phase,06/01/2018,23,51,85,113,138
+Chuka,SR17,D15,F,3,Grain formation/filling phase,06/01/2018,23,48,79,112,140
+Chuka,SR17,D15,F,4,Grain formation/filling phase,06/01/2018,22,31,41,49,57
+Chuka,SR17,D15,RF,1,Grain formation/filling phase,06/01/2018,21,44,63,83,105
+Chuka,SR17,D15,RF,2,Grain formation/filling phase,06/01/2018,20,45,66,88,111
+Chuka,SR17,D15,RF,3,Grain formation/filling phase,06/01/2018,20,43,63,88,116
+Chuka,SR17,D15,RF,4,Grain formation/filling phase,06/01/2018,20,28,35,42,48
+Chuka,SR17,D15,RFM,1,Grain formation/filling phase,06/01/2018,21,44,65,83,101
+Chuka,SR17,D15,RFM,2,Grain formation/filling phase,06/01/2018,20,47,69,89,109
+Chuka,SR17,D15,RFM,3,Grain formation/filling phase,06/01/2018,22,47,74,93,113
+Chuka,SR17,D15,RFM,4,Grain formation/filling phase,06/01/2018,22,31,39,45,51
+Chuka,SR17,D15,RML,1,Grain formation/filling phase,06/01/2018,25,51,78,103,128
+Chuka,SR17,D15,RML,2,Grain formation/filling phase,06/01/2018,26,57,84,109,134
+Chuka,SR17,D15,RML,3,Grain formation/filling phase,06/01/2018,24,52,84,117,153
+Chuka,SR17,D15,RML,4,Grain formation/filling phase,06/01/2018,26,54,80,88,95
+Chuka,SR17,D15,RTiM,1,Grain formation/filling phase,06/01/2018,26,57,96,130,161
+Chuka,SR17,D15,RTiM,2,Grain formation/filling phase,06/01/2018,25,58,95,131,168
+Chuka,SR17,D15,RTiM,3,Grain formation/filling phase,06/01/2018,27,60,92,126,157
+Chuka,SR17,D15,RTiM,4,Grain formation/filling phase,06/01/2018,25,55,83,117,148
+Chuka,SR17,D15,RTiP,1,Grain formation/filling phase,06/01/2018,24,46,67,86,103
+Chuka,SR17,D15,RTiP,2,Grain formation/filling phase,06/01/2018,24,54,87,103,120
+Chuka,SR17,D15,RTiP,3,Grain formation/filling phase,06/01/2018,25,48,70,89,106
+Chuka,SR17,D15,RTiP,4,Grain formation/filling phase,06/01/2018,25,33,40,46,52
+Chuka,SR17,D0,C,1,Grain formation/filling phase,06/01/2018,26,52,78,109,140
+Chuka,SR17,D0,C,2,Grain formation/filling phase,06/01/2018,25,54,82,109,132
+Chuka,SR17,D0,C,3,Grain formation/filling phase,06/01/2018,25,60,99,132,154
+Chuka,SR17,D0,C,4,Grain formation/filling phase,06/01/2018,28,37,47,56,64
+Chuka,SR17,D0,F,1,Grain formation/filling phase,06/01/2018,23,49,81,112,152
+Chuka,SR17,D0,F,2,Grain formation/filling phase,06/01/2018,22,43,73,97,121
+Chuka,SR17,D0,F,3,Grain formation/filling phase,06/01/2018,21,44,71,94,118
+Chuka,SR17,D0,F,4,Grain formation/filling phase,06/01/2018,27,35,45,52,60
+Chuka,SR17,D0,RF,1,Grain formation/filling phase,06/01/2018,23,50,82,111,128
+Chuka,SR17,D0,RF,2,Grain formation/filling phase,06/01/2018,26,52,76,97,115
+Chuka,SR17,D0,RF,3,Grain formation/filling phase,06/01/2018,25,52,78,99,117
+Chuka,SR17,D0,RF,4,Grain formation/filling phase,06/01/2018,28,56,64,70,76
+Chuka,SR17,D0,RFM,1,Grain formation/filling phase,06/01/2018,23,50,72,104,138
+Chuka,SR17,D0,RFM,2,Grain formation/filling phase,06/01/2018,24,49,71,94,118
+Chuka,SR17,D0,RFM,3,Grain formation/filling phase,06/01/2018,23,49,71,95,121
+Chuka,SR17,D0,RFM,4,Grain formation/filling phase,06/01/2018,23,32,39,47,55
+Chuka,SR17,D0,RML,1,Grain formation/filling phase,06/01/2018,26,58,85,111,135
+Chuka,SR17,D0,RML,2,Grain formation/filling phase,06/01/2018,23,51,79,107,132
+Chuka,SR17,D0,RML,3,Grain formation/filling phase,06/01/2018,24,54,82,115,149
+Chuka,SR17,D0,RML,4,Grain formation/filling phase,06/01/2018,24,53,82,110,118
+Chuka,SR17,D0,RTiM,1,Grain formation/filling phase,06/01/2018,24,50,72,93,113
+Chuka,SR17,D0,RTiM,2,Grain formation/filling phase,06/01/2018,24,51,74,95,115
+Chuka,SR17,D0,RTiM,3,Grain formation/filling phase,06/01/2018,26,53,74,94,120
+Chuka,SR17,D0,RTiM,4,Grain formation/filling phase,06/01/2018,24,52,59,66,73
+Chuka,SR17,D0,RTiP,1,Grain formation/filling phase,06/01/2018,22,48,80,111,136
+Chuka,SR17,D0,RTiP,2,Grain formation/filling phase,06/01/2018,24,53,87,115,138
+Chuka,SR17,D0,RTiP,3,Grain formation/filling phase,06/01/2018,26,56,90,124,158
+Chuka,SR17,D0,RTiP,4,Grain formation/filling phase,06/01/2018,25,35,46,56,65
+Chuka,SR17,D15,C,1,Grain formation/filling phase,13/01/2018,20,45,69,93,120
+Chuka,SR17,D15,C,2,Grain formation/filling phase,13/01/2018,18,50,74,100,135
+Chuka,SR17,D15,C,3,Grain formation/filling phase,13/01/2018,21,47,71,99,131
+Chuka,SR17,D15,C,4,Grain formation/filling phase,13/01/2018,20,28,36,45,55
+Chuka,SR17,D15,F,1,Grain formation/filling phase,13/01/2018,22,49,75,100,123
+Chuka,SR17,D15,F,2,Grain formation/filling phase,13/01/2018,23,49,84,111,136
+Chuka,SR17,D15,F,3,Grain formation/filling phase,13/01/2018,23,46,76,108,136
+Chuka,SR17,D15,F,4,Grain formation/filling phase,13/01/2018,22,30,40,48,56
+Chuka,SR17,D15,RF,1,Grain formation/filling phase,13/01/2018,20,41,60,80,101
+Chuka,SR17,D15,RF,2,Grain formation/filling phase,13/01/2018,19,40,61,82,105
+Chuka,SR17,D15,RF,3,Grain formation/filling phase,13/01/2018,19,41,60,79,107
+Chuka,SR17,D15,RF,4,Grain formation/filling phase,13/01/2018,19,26,33,40,47
+Chuka,SR17,D15,RFM,1,Grain formation/filling phase,13/01/2018,20,41,62,80,98
+Chuka,SR17,D15,RFM,2,Grain formation/filling phase,13/01/2018,19,44,66,86,106
+Chuka,SR17,D15,RFM,3,Grain formation/filling phase,13/01/2018,20,42,68,86,106
+Chuka,SR17,D15,RFM,4,Grain formation/filling phase,13/01/2018,21,29,37,43,49
+Chuka,SR17,D15,RML,1,Grain formation/filling phase,13/01/2018,24,49,76,100,126
+Chuka,SR17,D15,RML,2,Grain formation/filling phase,13/01/2018,23,53,80,105,129
+Chuka,SR17,D15,RML,3,Grain formation/filling phase,13/01/2018,23,50,81,114,150
+Chuka,SR17,D15,RML,4,Grain formation/filling phase,13/01/2018,23,49,76,83,91
+Chuka,SR17,D15,RTiM,1,Grain formation/filling phase,13/01/2018,24,55,92,127,157
+Chuka,SR17,D15,RTiM,2,Grain formation/filling phase,13/01/2018,24,56,93,129,166
+Chuka,SR17,D15,RTiM,3,Grain formation/filling phase,13/01/2018,26,59,90,124,155
+Chuka,SR17,D15,RTiM,4,Grain formation/filling phase,13/01/2018,25,52,79,112,143
+Chuka,SR17,D15,RTiP,1,Grain formation/filling phase,13/01/2018,22,43,64,82,99
+Chuka,SR17,D15,RTiP,2,Grain formation/filling phase,13/01/2018,22,51,82,98,115
+Chuka,SR17,D15,RTiP,3,Grain formation/filling phase,13/01/2018,23,45,67,85,103
+Chuka,SR17,D15,RTiP,4,Grain formation/filling phase,13/01/2018,22,29,36,42,48
+Chuka,SR17,D0,C,1,Grain formation/filling phase,13/01/2018,25,51,76,107,138
+Chuka,SR17,D0,C,2,Grain formation/filling phase,13/01/2018,25,52,79,106,128
+Chuka,SR17,D0,C,3,Grain formation/filling phase,13/01/2018,25,58,95,127,149
+Chuka,SR17,D0,C,4,Grain formation/filling phase,13/01/2018,28,37,46,54,62
+Chuka,SR17,D0,F,1,Grain formation/filling phase,13/01/2018,20,45,76,107,146
+Chuka,SR17,D0,F,2,Grain formation/filling phase,13/01/2018,19,39,69,91,115
+Chuka,SR17,D0,F,3,Grain formation/filling phase,13/01/2018,20,42,69,92,115
+Chuka,SR17,D0,F,4,Grain formation/filling phase,13/01/2018,26,33,42,49,57
+Chuka,SR17,D0,RF,1,Grain formation/filling phase,13/01/2018,22,47,79,107,124
+Chuka,SR17,D0,RF,2,Grain formation/filling phase,13/01/2018,20,45,69,90,108
+Chuka,SR17,D0,RF,3,Grain formation/filling phase,13/01/2018,23,49,75,96,113
+Chuka,SR17,D0,RF,4,Grain formation/filling phase,13/01/2018,26,52,60,67,73
+Chuka,SR17,D0,RFM,1,Grain formation/filling phase,13/01/2018,22,47,68,100,134
+Chuka,SR17,D0,RFM,2,Grain formation/filling phase,13/01/2018,22,47,69,91,115
+Chuka,SR17,D0,RFM,3,Grain formation/filling phase,13/01/2018,21,47,68,92,117
+Chuka,SR17,D0,RFM,4,Grain formation/filling phase,13/01/2018,21,30,37,45,53
+Chuka,SR17,D0,RML,1,Grain formation/filling phase,13/01/2018,22,53,80,105,129
+Chuka,SR17,D0,RML,2,Grain formation/filling phase,13/01/2018,22,49,77,105,130
+Chuka,SR17,D0,RML,3,Grain formation/filling phase,13/01/2018,23,52,79,113,147
+Chuka,SR17,D0,RML,4,Grain formation/filling phase,13/01/2018,22,51,80,108,116
+Chuka,SR17,D0,RTiM,1,Grain formation/filling phase,13/01/2018,23,49,71,91,111
+Chuka,SR17,D0,RTiM,2,Grain formation/filling phase,13/01/2018,23,50,73,94,113
+Chuka,SR17,D0,RTiM,3,Grain formation/filling phase,13/01/2018,23,49,72,91,116
+Chuka,SR17,D0,RTiM,4,Grain formation/filling phase,13/01/2018,24,51,58,64,71
+Chuka,SR17,D0,RTiP,1,Grain formation/filling phase,13/01/2018,21,47,78,109,133
+Chuka,SR17,D0,RTiP,2,Grain formation/filling phase,13/01/2018,23,50,82,110,132
+Chuka,SR17,D0,RTiP,3,Grain formation/filling phase,13/01/2018,20,49,82,115,149
+Chuka,SR17,D0,RTiP,4,Grain formation/filling phase,13/01/2018,20,29,39,50,58
+Kandara,SR16,D15,C,1,Vegetative phase,11/11/2016,38,81,125,169,208
+Kandara,SR16,D15,C,2,Vegetative phase,11/11/2016,42,85,127,166,202
+Kandara,SR16,D15,C,3,Vegetative phase,11/11/2016,37,74,109,143,174
+Kandara,SR16,D15,C,4,Vegetative phase,11/11/2016,30,56,68,79,89
+Kandara,SR16,D15,F,1,Vegetative phase,11/11/2016,36,73,110,147,181
+Kandara,SR16,D15,F,2,Vegetative phase,11/11/2016,36,63,99,127,154
+Kandara,SR16,D15,F,3,Vegetative phase,11/11/2016,34,75,114,141,167
+Kandara,SR16,D15,F,4,Vegetative phase,11/11/2016,39,77,110,120,130
+Kandara,SR16,D15,RF,1,Vegetative phase,11/11/2016,35,75,113,148,175
+Kandara,SR16,D15,RF,2,Vegetative phase,11/11/2016,39,80,114,138,160
+Kandara,SR16,D15,RF,3,Vegetative phase,11/11/2016,43,85,122,147,168
+Kandara,SR16,D15,RF,4,Vegetative phase,11/11/2016,38,79,108,116,123
+Kandara,SR16,D15,RFM,1,Vegetative phase,11/11/2016,34,70,105,139,175
+Kandara,SR16,D15,RFM,2,Vegetative phase,11/11/2016,30,63,95,124,148
+Kandara,SR16,D15,RFM,3,Vegetative phase,11/11/2016,36,78,120,155,178
+Kandara,SR16,D15,RFM,4,Vegetative phase,11/11/2016,30,41,51,61,69
+Kandara,SR16,D15,RML,1,Vegetative phase,11/11/2016,29,69,107,131,163
+Kandara,SR16,D15,RML,2,Vegetative phase,11/11/2016,39,77,104,130,165
+Kandara,SR16,D15,RML,3,Vegetative phase,11/11/2016,40,80,117,149,183
+Kandara,SR16,D15,RML,4,Vegetative phase,11/11/2016,38,73,103,111,137
+Kandara,SR16,D15,RTiM,1,Vegetative phase,11/11/2016,44,88,113,137,161
+Kandara,SR16,D15,RTiM,2,Vegetative phase,11/11/2016,28,68,108,148,184
+Kandara,SR16,D15,RTiM,3,Vegetative phase,11/11/2016,35,64,90,114,138
+Kandara,SR16,D15,RTiM,4,Vegetative phase,11/11/2016,35,48,57,65,72
+Kandara,SR16,D15,RTiP,1,Vegetative phase,11/11/2016,35,73,112,147,184
+Kandara,SR16,D15,RTiP,2,Vegetative phase,11/11/2016,40,74,105,135,166
+Kandara,SR16,D15,RTiP,3,Vegetative phase,11/11/2016,43,83,121,160,198
+Kandara,SR16,D15,RTiP,4,Vegetative phase,11/11/2016,41,52,62,72,83
+Kandara,SR16,D0,C,1,Vegetative phase,11/11/2016,36,69,93,117,141
+Kandara,SR16,D0,C,2,Vegetative phase,11/11/2016,31,60,84,106,130
+Kandara,SR16,D0,C,3,Vegetative phase,11/11/2016,39,71,97,120,145
+Kandara,SR16,D0,C,4,Vegetative phase,11/11/2016,38,75,111,146,184
+Kandara,SR16,D0,F,1,Vegetative phase,11/11/2016,31,69,106,142,178
+Kandara,SR16,D0,F,2,Vegetative phase,11/11/2016,40,82,117,146,175
+Kandara,SR16,D0,F,3,Vegetative phase,11/11/2016,43,88,128,162,197
+Kandara,SR16,D0,F,4,Vegetative phase,11/11/2016,38,52,64,75,85
+Kandara,SR16,D0,RF,1,Vegetative phase,11/11/2016,41,83,110,147,186
+Kandara,SR16,D0,RF,2,Vegetative phase,11/11/2016,35,78,117,145,177
+Kandara,SR16,D0,RF,3,Vegetative phase,11/11/2016,37,74,107,133,165
+Kandara,SR16,D0,RF,4,Vegetative phase,11/11/2016,35,74,113,140,150
+Kandara,SR16,D0,RFM,1,Vegetative phase,11/11/2016,43,86,126,163,197
+Kandara,SR16,D0,RFM,2,Vegetative phase,11/11/2016,42,88,129,168,195
+Kandara,SR16,D0,RFM,3,Vegetative phase,11/11/2016,40,80,114,140,170
+Kandara,SR16,D0,RFM,4,Vegetative phase,11/11/2016,42,56,69,80,90
+Kandara,SR16,D0,RML,1,Vegetative phase,11/11/2016,33,70,105,142,179
+Kandara,SR16,D0,RML,2,Vegetative phase,11/11/2016,34,68,102,136,173
+Kandara,SR16,D0,RML,3,Vegetative phase,11/11/2016,41,85,125,157,192
+Kandara,SR16,D0,RML,4,Vegetative phase,11/11/2016,42,81,119,157,194
+Kandara,SR16,D0,RTiM,1,Vegetative phase,11/11/2016,45,90,127,155,184
+Kandara,SR16,D0,RTiM,2,Vegetative phase,11/11/2016,39,84,124,162,198
+Kandara,SR16,D0,RTiM,3,Vegetative phase,11/11/2016,42,84,122,151,180
+Kandara,SR16,D0,RTiM,4,Vegetative phase,11/11/2016,41,79,115,147,182
+Kandara,SR16,D0,RTiP,1,Vegetative phase,11/11/2016,39,78,117,151,186
+Kandara,SR16,D0,RTiP,2,Vegetative phase,11/11/2016,38,73,98,135,173
+Kandara,SR16,D0,RTiP,3,Vegetative phase,11/11/2016,36,76,116,152,183
+Kandara,SR16,D0,RTiP,4,Vegetative phase,11/11/2016,40,65,77,89,100
+Kandara,SR16,D15,C,1,Vegetative phase,18/11/2016,41,86,133,179,218
+Kandara,SR16,D15,C,2,Vegetative phase,18/11/2016,47,93,140,180,217
+Kandara,SR16,D15,C,3,Vegetative phase,18/11/2016,40,72,103,137,168
+Kandara,SR16,D15,C,4,Vegetative phase,18/11/2016,44,71,85,97,107
+Kandara,SR16,D15,F,1,Vegetative phase,18/11/2016,39,79,118,156,191
+Kandara,SR16,D15,F,2,Vegetative phase,18/11/2016,40,67,104,135,167
+Kandara,SR16,D15,F,3,Vegetative phase,18/11/2016,42,86,123,153,181
+Kandara,SR16,D15,F,4,Vegetative phase,18/11/2016,42,83,118,128,138
+Kandara,SR16,D15,RF,1,Vegetative phase,18/11/2016,39,82,124,161,188
+Kandara,SR16,D15,RF,2,Vegetative phase,18/11/2016,37,81,122,165,201
+Kandara,SR16,D15,RF,3,Vegetative phase,18/11/2016,45,90,131,164,191
+Kandara,SR16,D15,RF,4,Vegetative phase,18/11/2016,41,85,114,125,134
+Kandara,SR16,D15,RFM,1,Vegetative phase,18/11/2016,37,75,113,148,183
+Kandara,SR16,D15,RFM,2,Vegetative phase,18/11/2016,48,89,126,153,181
+Kandara,SR16,D15,RFM,3,Vegetative phase,18/11/2016,43,89,135,170,200
+Kandara,SR16,D15,RFM,4,Vegetative phase,18/11/2016,42,84,125,159,189
+Kandara,SR16,D15,RML,1,Vegetative phase,18/11/2016,42,83,116,141,173
+Kandara,SR16,D15,RML,2,Vegetative phase,18/11/2016,42,82,112,136,171
+Kandara,SR16,D15,RML,3,Vegetative phase,18/11/2016,44,87,127,160,194
+Kandara,SR16,D15,RML,4,Vegetative phase,18/11/2016,41,80,111,119,144
+Kandara,SR16,D15,RTiM,1,Vegetative phase,18/11/2016,39,70,96,127,157
+Kandara,SR16,D15,RTiM,2,Vegetative phase,18/11/2016,33,75,119,161,199
+Kandara,SR16,D15,RTiM,3,Vegetative phase,18/11/2016,37,67,92,122,152
+Kandara,SR16,D15,RTiM,4,Vegetative phase,18/11/2016,47,57,66,97,134
+Kandara,SR16,D15,RTiP,1,Vegetative phase,18/11/2016,37,77,115,152,189
+Kandara,SR16,D15,RTiP,2,Vegetative phase,18/11/2016,44,72,104,132,169
+Kandara,SR16,D15,RTiP,3,Vegetative phase,18/11/2016,47,90,132,171,210
+Kandara,SR16,D15,RTiP,4,Vegetative phase,18/11/2016,44,69,80,92,104
+Kandara,SR16,D0,C,1,Vegetative phase,18/11/2016,48,101,149,173,201
+Kandara,SR16,D0,C,2,Vegetative phase,18/11/2016,44,85,115,140,167
+Kandara,SR16,D0,C,3,Vegetative phase,18/11/2016,42,77,116,142,172
+Kandara,SR16,D0,C,4,Vegetative phase,18/11/2016,42,81,119,155,193
+Kandara,SR16,D0,F,1,Vegetative phase,18/11/2016,35,77,117,154,192
+Kandara,SR16,D0,F,2,Vegetative phase,18/11/2016,42,86,127,159,193
+Kandara,SR16,D0,F,3,Vegetative phase,18/11/2016,46,95,139,174,209
+Kandara,SR16,D0,F,4,Vegetative phase,18/11/2016,37,80,124,134,164
+Kandara,SR16,D0,RF,1,Vegetative phase,18/11/2016,44,89,116,154,194
+Kandara,SR16,D0,RF,2,Vegetative phase,18/11/2016,40,86,129,158,188
+Kandara,SR16,D0,RF,3,Vegetative phase,18/11/2016,40,80,113,141,175
+Kandara,SR16,D0,RF,4,Vegetative phase,18/11/2016,37,79,115,125,135
+Kandara,SR16,D0,RFM,1,Vegetative phase,18/11/2016,45,87,129,175,217
+Kandara,SR16,D0,RFM,2,Vegetative phase,18/11/2016,46,95,141,181,210
+Kandara,SR16,D0,RFM,3,Vegetative phase,18/11/2016,44,86,123,148,177
+Kandara,SR16,D0,RFM,4,Vegetative phase,18/11/2016,40,71,85,97,108
+Kandara,SR16,D0,RML,1,Vegetative phase,18/11/2016,36,75,111,148,185
+Kandara,SR16,D0,RML,2,Vegetative phase,18/11/2016,36,73,109,144,180
+Kandara,SR16,D0,RML,3,Vegetative phase,18/11/2016,45,92,133,167,202
+Kandara,SR16,D0,RML,4,Vegetative phase,18/11/2016,44,86,127,163,200
+Kandara,SR16,D0,RTiM,1,Vegetative phase,18/11/2016,48,97,138,169,198
+Kandara,SR16,D0,RTiM,2,Vegetative phase,18/11/2016,43,89,132,173,210
+Kandara,SR16,D0,RTiM,3,Vegetative phase,18/11/2016,46,87,124,155,184
+Kandara,SR16,D0,RTiM,4,Vegetative phase,18/11/2016,43,85,125,160,195
+Kandara,SR16,D0,RTiP,1,Vegetative phase,18/11/2016,43,80,114,144,172
+Kandara,SR16,D0,RTiP,2,Vegetative phase,18/11/2016,43,88,129,166,201
+Kandara,SR16,D0,RTiP,3,Vegetative phase,18/11/2016,41,83,126,165,196
+Kandara,SR16,D0,RTiP,4,Vegetative phase,18/11/2016,43,70,81,91,100
+Kandara,SR16,D15,C,1,Vegetative phase,25/11/2016,42,89,136,185,232
+Kandara,SR16,D15,C,2,Vegetative phase,25/11/2016,48,96,146,198,245
+Kandara,SR16,D15,C,3,Vegetative phase,25/11/2016,41,75,108,134,176
+Kandara,SR16,D15,C,4,Vegetative phase,25/11/2016,42,82,114,140,171
+Kandara,SR16,D15,F,1,Vegetative phase,25/11/2016,39,79,123,168,212
+Kandara,SR16,D15,F,2,Vegetative phase,25/11/2016,40,71,96,134,175
+Kandara,SR16,D15,F,3,Vegetative phase,25/11/2016,42,86,125,161,194
+Kandara,SR16,D15,F,4,Vegetative phase,25/11/2016,44,86,124,135,147
+Kandara,SR16,D15,RF,1,Vegetative phase,25/11/2016,41,84,129,173,206
+Kandara,SR16,D15,RF,2,Vegetative phase,25/11/2016,44,83,126,170,216
+Kandara,SR16,D15,RF,3,Vegetative phase,25/11/2016,46,91,136,171,203
+Kandara,SR16,D15,RF,4,Vegetative phase,25/11/2016,45,71,85,97,108
+Kandara,SR16,D15,RFM,1,Vegetative phase,25/11/2016,38,77,119,161,204
+Kandara,SR16,D15,RFM,2,Vegetative phase,25/11/2016,49,90,131,163,189
+Kandara,SR16,D15,RFM,3,Vegetative phase,25/11/2016,44,91,140,183,218
+Kandara,SR16,D15,RFM,4,Vegetative phase,25/11/2016,43,88,133,174,211
+Kandara,SR16,D15,RML,1,Vegetative phase,25/11/2016,42,84,125,165,206
+Kandara,SR16,D15,RML,2,Vegetative phase,25/11/2016,42,82,112,152,193
+Kandara,SR16,D15,RML,3,Vegetative phase,25/11/2016,44,87,127,164,207
+Kandara,SR16,D15,RML,4,Vegetative phase,25/11/2016,44,84,126,169,213
+Kandara,SR16,D15,RTiM,1,Vegetative phase,25/11/2016,47,97,123,157,192
+Kandara,SR16,D15,RTiM,2,Vegetative phase,25/11/2016,35,78,121,164,206
+Kandara,SR16,D15,RTiM,3,Vegetative phase,25/11/2016,38,68,97,130,165
+Kandara,SR16,D15,RTiM,4,Vegetative phase,25/11/2016,49,62,72,112,159
+Kandara,SR16,D15,RTiP,1,Vegetative phase,25/11/2016,38,80,125,169,212
+Kandara,SR16,D15,RTiP,2,Vegetative phase,25/11/2016,45,74,117,148,189
+Kandara,SR16,D15,RTiP,3,Vegetative phase,25/11/2016,48,93,139,186,231
+Kandara,SR16,D15,RTiP,4,Vegetative phase,25/11/2016,38,81,118,131,146
+Kandara,SR16,D0,C,1,Vegetative phase,25/11/2016,49,102,151,170,203
+Kandara,SR16,D0,C,2,Vegetative phase,25/11/2016,44,88,116,136,159
+Kandara,SR16,D0,C,3,Vegetative phase,25/11/2016,43,79,114,135,160
+Kandara,SR16,D0,C,4,Vegetative phase,25/11/2016,42,86,117,123,131
+Kandara,SR16,D0,F,1,Vegetative phase,25/11/2016,36,79,120,163,208
+Kandara,SR16,D0,F,2,Vegetative phase,25/11/2016,44,88,132,162,192
+Kandara,SR16,D0,F,3,Vegetative phase,25/11/2016,46,94,142,184,227
+Kandara,SR16,D0,F,4,Vegetative phase,25/11/2016,39,82,126,152,187
+Kandara,SR16,D0,RF,1,Vegetative phase,25/11/2016,45,92,121,166,211
+Kandara,SR16,D0,RF,2,Vegetative phase,25/11/2016,42,88,130,161,198
+Kandara,SR16,D0,RF,3,Vegetative phase,25/11/2016,41,81,115,143,183
+Kandara,SR16,D0,RF,4,Vegetative phase,25/11/2016,43,57,69,81,93
+Kandara,SR16,D0,RFM,1,Vegetative phase,25/11/2016,41,82,125,170,213
+Kandara,SR16,D0,RFM,2,Vegetative phase,25/11/2016,46,94,139,186,213
+Kandara,SR16,D0,RFM,3,Vegetative phase,25/11/2016,45,89,127,157,195
+Kandara,SR16,D0,RFM,4,Vegetative phase,25/11/2016,41,75,101,115,127
+Kandara,SR16,D0,RML,1,Vegetative phase,25/11/2016,36,75,112,155,198
+Kandara,SR16,D0,RML,2,Vegetative phase,25/11/2016,39,77,117,161,204
+Kandara,SR16,D0,RML,3,Vegetative phase,25/11/2016,46,94,138,178,221
+Kandara,SR16,D0,RML,4,Vegetative phase,25/11/2016,46,90,135,181,224
+Kandara,SR16,D0,RTiM,1,Vegetative phase,25/11/2016,49,98,141,175,208
+Kandara,SR16,D0,RTiM,2,Vegetative phase,25/11/2016,44,92,135,178,220
+Kandara,SR16,D0,RTiM,3,Vegetative phase,25/11/2016,48,90,127,161,194
+Kandara,SR16,D0,RTiM,4,Vegetative phase,25/11/2016,44,87,130,170,211
+Kandara,SR16,D0,RTiP,1,Vegetative phase,25/11/2016,45,90,126,160,193
+Kandara,SR16,D0,RTiP,2,Vegetative phase,25/11/2016,44,90,132,175,216
+Kandara,SR16,D0,RTiP,3,Vegetative phase,25/11/2016,42,84,129,173,212
+Kandara,SR16,D0,RTiP,4,Vegetative phase,25/11/2016,45,72,86,97,108
+Kandara,SR16,D15,C,1,Vegetative phase,02/12/2016,34,78,123,172,218
+Kandara,SR16,D15,C,2,Vegetative phase,02/12/2016,45,92,141,191,237
+Kandara,SR16,D15,C,3,Vegetative phase,02/12/2016,40,72,103,130,166
+Kandara,SR16,D15,C,4,Vegetative phase,02/12/2016,42,68,82,96,109
+Kandara,SR16,D15,F,1,Vegetative phase,02/12/2016,38,77,120,165,208
+Kandara,SR16,D15,F,2,Vegetative phase,02/12/2016,39,67,106,143,183
+Kandara,SR16,D15,F,3,Vegetative phase,02/12/2016,40,81,120,154,188
+Kandara,SR16,D15,F,4,Vegetative phase,02/12/2016,40,81,117,128,139
+Kandara,SR16,D15,RF,1,Vegetative phase,02/12/2016,36,78,120,164,196
+Kandara,SR16,D15,RF,2,Vegetative phase,02/12/2016,36,78,121,167,211
+Kandara,SR16,D15,RF,3,Vegetative phase,02/12/2016,44,89,133,169,202
+Kandara,SR16,D15,RF,4,Vegetative phase,02/12/2016,35,76,106,118,128
+Kandara,SR16,D15,RFM,1,Vegetative phase,02/12/2016,28,64,104,146,190
+Kandara,SR16,D15,RFM,2,Vegetative phase,02/12/2016,47,87,127,160,186
+Kandara,SR16,D15,RFM,3,Vegetative phase,02/12/2016,32,77,125,167,203
+Kandara,SR16,D15,RFM,4,Vegetative phase,02/12/2016,39,81,122,164,201
+Kandara,SR16,D15,RML,1,Vegetative phase,02/12/2016,37,77,117,156,197
+Kandara,SR16,D15,RML,2,Vegetative phase,02/12/2016,39,78,108,142,183
+Kandara,SR16,D15,RML,3,Vegetative phase,02/12/2016,42,84,124,161,201
+Kandara,SR16,D15,RML,4,Vegetative phase,02/12/2016,39,77,109,120,150
+Kandara,SR16,D15,RTiM,1,Vegetative phase,02/12/2016,46,95,121,153,188
+Kandara,SR16,D15,RTiM,2,Vegetative phase,02/12/2016,43,82,123,165,207
+Kandara,SR16,D15,RTiM,3,Vegetative phase,02/12/2016,36,65,93,126,160
+Kandara,SR16,D15,RTiM,4,Vegetative phase,02/12/2016,46,59,68,107,153
+Kandara,SR16,D15,RTiP,1,Vegetative phase,02/12/2016,37,79,125,169,213
+Kandara,SR16,D15,RTiP,2,Vegetative phase,02/12/2016,43,72,109,140,181
+Kandara,SR16,D15,RTiP,3,Vegetative phase,02/12/2016,46,89,135,181,225
+Kandara,SR16,D15,RTiP,4,Vegetative phase,02/12/2016,43,69,81,95,109
+Kandara,SR16,D0,C,1,Vegetative phase,02/12/2016,46,98,146,173,206
+Kandara,SR16,D0,C,2,Vegetative phase,02/12/2016,42,82,113,140,165
+Kandara,SR16,D0,C,3,Vegetative phase,02/12/2016,39,73,112,141,175
+Kandara,SR16,D0,C,4,Vegetative phase,02/12/2016,40,80,120,162,206
+Kandara,SR16,D0,F,1,Vegetative phase,02/12/2016,33,73,114,156,201
+Kandara,SR16,D0,F,2,Vegetative phase,02/12/2016,41,84,125,155,185
+Kandara,SR16,D0,F,3,Vegetative phase,02/12/2016,44,90,136,177,220
+Kandara,SR16,D0,F,4,Vegetative phase,02/12/2016,36,77,120,146,181
+Kandara,SR16,D0,RF,1,Vegetative phase,02/12/2016,43,88,117,161,206
+Kandara,SR16,D0,RF,2,Vegetative phase,02/12/2016,36,80,123,155,188
+Kandara,SR16,D0,RF,3,Vegetative phase,02/12/2016,38,77,112,140,180
+Kandara,SR16,D0,RF,4,Vegetative phase,02/12/2016,33,74,110,121,133
+Kandara,SR16,D0,RFM,1,Vegetative phase,02/12/2016,36,75,118,162,203
+Kandara,SR16,D0,RFM,2,Vegetative phase,02/12/2016,44,91,137,183,211
+Kandara,SR16,D0,RFM,3,Vegetative phase,02/12/2016,42,83,120,151,189
+Kandara,SR16,D0,RFM,4,Vegetative phase,02/12/2016,39,72,98,112,124
+Kandara,SR16,D0,RML,1,Vegetative phase,02/12/2016,33,72,110,152,196
+Kandara,SR16,D0,RML,2,Vegetative phase,02/12/2016,37,74,114,157,200
+Kandara,SR16,D0,RML,3,Vegetative phase,02/12/2016,42,88,131,170,211
+Kandara,SR16,D0,RML,4,Vegetative phase,02/12/2016,43,85,129,173,216
+Kandara,SR16,D0,RTiM,1,Vegetative phase,02/12/2016,45,93,135,167,200
+Kandara,SR16,D0,RTiM,2,Vegetative phase,02/12/2016,37,82,123,164,206
+Kandara,SR16,D0,RTiM,3,Vegetative phase,02/12/2016,44,85,119,152,185
+Kandara,SR16,D0,RTiM,4,Vegetative phase,02/12/2016,40,81,123,161,200
+Kandara,SR16,D0,RTiP,1,Vegetative phase,02/12/2016,42,85,122,155,187
+Kandara,SR16,D0,RTiP,2,Vegetative phase,02/12/2016,42,86,128,169,210
+Kandara,SR16,D0,RTiP,3,Vegetative phase,02/12/2016,34,74,118,160,198
+Kandara,SR16,D0,RTiP,4,Vegetative phase,02/12/2016,41,69,83,94,105
+Kandara,SR16,D15,C,1,Vegetative phase,09/12/2016,28,69,112,160,205
+Kandara,SR16,D15,C,2,Vegetative phase,09/12/2016,43,89,136,186,232
+Kandara,SR16,D15,C,3,Vegetative phase,09/12/2016,38,69,100,126,161
+Kandara,SR16,D15,C,4,Vegetative phase,09/12/2016,39,64,78,92,104
+Kandara,SR16,D15,F,1,Vegetative phase,09/12/2016,36,74,116,160,203
+Kandara,SR16,D15,F,2,Vegetative phase,09/12/2016,36,64,89,126,165
+Kandara,SR16,D15,F,3,Vegetative phase,09/12/2016,35,75,112,146,179
+Kandara,SR16,D15,F,4,Vegetative phase,09/12/2016,38,79,114,125,136
+Kandara,SR16,D15,RF,1,Vegetative phase,09/12/2016,32,73,115,158,189
+Kandara,SR16,D15,RF,2,Vegetative phase,09/12/2016,31,71,112,157,201
+Kandara,SR16,D15,RF,3,Vegetative phase,09/12/2016,42,85,128,164,197
+Kandara,SR16,D15,RF,4,Vegetative phase,09/12/2016,31,69,97,109,119
+Kandara,SR16,D15,RFM,1,Vegetative phase,09/12/2016,34,75,118,160,203
+Kandara,SR16,D15,RFM,2,Vegetative phase,09/12/2016,42,81,121,152,178
+Kandara,SR16,D15,RFM,3,Vegetative phase,09/12/2016,27,70,117,159,195
+Kandara,SR16,D15,RFM,4,Vegetative phase,09/12/2016,34,74,115,155,193
+Kandara,SR16,D15,RML,1,Vegetative phase,09/12/2016,32,70,110,149,188
+Kandara,SR16,D15,RML,2,Vegetative phase,09/12/2016,36,73,103,136,176
+Kandara,SR16,D15,RML,3,Vegetative phase,09/12/2016,38,78,117,154,195
+Kandara,SR16,D15,RML,4,Vegetative phase,09/12/2016,34,71,102,113,142
+Kandara,SR16,D15,RTiM,1,Vegetative phase,09/12/2016,45,93,118,150,184
+Kandara,SR16,D15,RTiM,2,Vegetative phase,09/12/2016,41,76,116,156,197
+Kandara,SR16,D15,RTiM,3,Vegetative phase,09/12/2016,35,64,92,124,158
+Kandara,SR16,D15,RTiM,4,Vegetative phase,09/12/2016,42,54,63,102,147
+Kandara,SR16,D15,RTiP,1,Vegetative phase,09/12/2016,36,77,122,166,209
+Kandara,SR16,D15,RTiP,2,Vegetative phase,09/12/2016,42,70,105,135,175
+Kandara,SR16,D15,RTiP,3,Vegetative phase,09/12/2016,44,85,129,174,218
+Kandara,SR16,D15,RTiP,4,Vegetative phase,09/12/2016,41,53,66,79,93
+Kandara,SR16,D0,C,1,Vegetative phase,09/12/2016,40,90,138,164,197
+Kandara,SR16,D0,C,2,Vegetative phase,09/12/2016,37,76,106,132,157
+Kandara,SR16,D0,C,3,Vegetative phase,09/12/2016,32,64,103,132,165
+Kandara,SR16,D0,C,4,Vegetative phase,09/12/2016,38,76,115,157,200
+Kandara,SR16,D0,F,1,Vegetative phase,09/12/2016,29,67,107,148,192
+Kandara,SR16,D0,F,2,Vegetative phase,09/12/2016,33,74,116,152,182
+Kandara,SR16,D0,F,3,Vegetative phase,09/12/2016,40,85,129,170,212
+Kandara,SR16,D0,F,4,Vegetative phase,09/12/2016,30,70,112,123,158
+Kandara,SR16,D0,RF,1,Vegetative phase,09/12/2016,39,82,111,155,200
+Kandara,SR16,D0,RF,2,Vegetative phase,09/12/2016,31,73,114,147,180
+Kandara,SR16,D0,RF,3,Vegetative phase,09/12/2016,34,72,106,137,177
+Kandara,SR16,D0,RF,4,Vegetative phase,09/12/2016,29,68,103,115,126
+Kandara,SR16,D0,RFM,1,Vegetative phase,09/12/2016,38,77,119,162,205
+Kandara,SR16,D0,RFM,2,Vegetative phase,09/12/2016,39,84,127,172,198
+Kandara,SR16,D0,RFM,3,Vegetative phase,09/12/2016,39,79,116,145,182
+Kandara,SR16,D0,RFM,4,Vegetative phase,09/12/2016,36,68,93,106,118
+Kandara,SR16,D0,RML,1,Vegetative phase,09/12/2016,29,66,103,145,187
+Kandara,SR16,D0,RML,2,Vegetative phase,09/12/2016,33,68,108,150,192
+Kandara,SR16,D0,RML,3,Vegetative phase,09/12/2016,36,78,117,155,196
+Kandara,SR16,D0,RML,4,Vegetative phase,09/12/2016,39,78,122,165,208
+Kandara,SR16,D0,RTiM,1,Vegetative phase,09/12/2016,41,87,128,161,194
+Kandara,SR16,D0,RTiM,2,Vegetative phase,09/12/2016,32,75,116,159,200
+Kandara,SR16,D0,RTiM,3,Vegetative phase,09/12/2016,42,81,116,149,182
+Kandara,SR16,D0,RTiM,4,Vegetative phase,09/12/2016,37,75,116,154,194
+Kandara,SR16,D0,RTiP,1,Vegetative phase,09/12/2016,38,80,115,147,178
+Kandara,SR16,D0,RTiP,2,Vegetative phase,09/12/2016,35,70,101,138,178
+Kandara,SR16,D0,RTiP,3,Vegetative phase,09/12/2016,29,67,109,151,189
+Kandara,SR16,D0,RTiP,4,Vegetative phase,09/12/2016,37,64,76,87,97
+Kandara,SR16,D15,C,1,Vegetative phase,16/12/2016,31,71,113,160,204
+Kandara,SR16,D15,C,2,Vegetative phase,16/12/2016,42,86,133,182,227
+Kandara,SR16,D15,C,3,Vegetative phase,16/12/2016,37,68,98,124,159
+Kandara,SR16,D15,C,4,Vegetative phase,16/12/2016,38,50,64,77,89
+Kandara,SR16,D15,F,1,Vegetative phase,16/12/2016,36,74,115,159,201
+Kandara,SR16,D15,F,2,Vegetative phase,16/12/2016,35,63,101,138,178
+Kandara,SR16,D15,F,3,Vegetative phase,16/12/2016,36,75,112,146,179
+Kandara,SR16,D15,F,4,Vegetative phase,16/12/2016,38,77,112,124,135
+Kandara,SR16,D15,RF,1,Vegetative phase,16/12/2016,35,76,118,160,193
+Kandara,SR16,D15,RF,2,Vegetative phase,16/12/2016,32,70,109,155,198
+Kandara,SR16,D15,RF,3,Vegetative phase,16/12/2016,42,84,127,163,196
+Kandara,SR16,D15,RF,4,Vegetative phase,16/12/2016,36,76,103,115,125
+Kandara,SR16,D15,RFM,1,Vegetative phase,16/12/2016,33,68,107,148,190
+Kandara,SR16,D15,RFM,2,Vegetative phase,16/12/2016,40,77,117,150,176
+Kandara,SR16,D15,RFM,3,Vegetative phase,16/12/2016,33,75,121,163,198
+Kandara,SR16,D15,RFM,4,Vegetative phase,16/12/2016,35,74,116,156,193
+Kandara,SR16,D15,RML,1,Vegetative phase,16/12/2016,36,72,110,148,188
+Kandara,SR16,D15,RML,2,Vegetative phase,16/12/2016,36,70,102,130,164
+Kandara,SR16,D15,RML,3,Vegetative phase,16/12/2016,37,75,113,149,188
+Kandara,SR16,D15,RML,4,Vegetative phase,16/12/2016,35,70,101,112,141
+Kandara,SR16,D15,RTiM,1,Vegetative phase,16/12/2016,43,90,114,145,179
+Kandara,SR16,D15,RTiM,2,Vegetative phase,16/12/2016,40,77,116,156,196
+Kandara,SR16,D15,RTiM,3,Vegetative phase,16/12/2016,35,64,91,122,155
+Kandara,SR16,D15,RTiM,4,Vegetative phase,16/12/2016,42,54,63,100,144
+Kandara,SR16,D15,RTiP,1,Vegetative phase,16/12/2016,35,77,122,165,210
+Kandara,SR16,D15,RTiP,2,Vegetative phase,16/12/2016,41,69,104,133,174
+Kandara,SR16,D15,RTiP,3,Vegetative phase,16/12/2016,44,84,128,174,218
+Kandara,SR16,D15,RTiP,4,Vegetative phase,16/12/2016,40,53,65,78,92
+Kandara,SR16,D0,C,1,Vegetative phase,16/12/2016,40,87,133,159,191
+Kandara,SR16,D0,C,2,Vegetative phase,16/12/2016,37,75,104,130,155
+Kandara,SR16,D0,C,3,Vegetative phase,16/12/2016,35,66,103,131,164
+Kandara,SR16,D0,C,4,Vegetative phase,16/12/2016,36,74,112,152,195
+Kandara,SR16,D0,F,1,Vegetative phase,16/12/2016,29,66,106,147,190
+Kandara,SR16,D0,F,2,Vegetative phase,16/12/2016,38,79,118,147,175
+Kandara,SR16,D0,F,3,Vegetative phase,16/12/2016,40,83,126,165,207
+Kandara,SR16,D0,F,4,Vegetative phase,16/12/2016,33,72,114,141,175
+Kandara,SR16,D0,RF,1,Vegetative phase,16/12/2016,38,80,110,154,198
+Kandara,SR16,D0,RF,2,Vegetative phase,16/12/2016,33,73,113,145,178
+Kandara,SR16,D0,RF,3,Vegetative phase,16/12/2016,35,71,104,133,171
+Kandara,SR16,D0,RF,4,Vegetative phase,16/12/2016,32,72,105,117,128
+Kandara,SR16,D0,RFM,1,Vegetative phase,16/12/2016,37,79,122,166,208
+Kandara,SR16,D0,RFM,2,Vegetative phase,16/12/2016,38,81,124,168,195
+Kandara,SR16,D0,RFM,3,Vegetative phase,16/12/2016,39,78,114,144,181
+Kandara,SR16,D0,RFM,4,Vegetative phase,16/12/2016,37,68,93,106,118
+Kandara,SR16,D0,RML,1,Vegetative phase,16/12/2016,31,66,102,143,185
+Kandara,SR16,D0,RML,2,Vegetative phase,16/12/2016,34,68,107,148,189
+Kandara,SR16,D0,RML,3,Vegetative phase,16/12/2016,39,80,117,154,194
+Kandara,SR16,D0,RML,4,Vegetative phase,16/12/2016,38,75,116,159,202
+Kandara,SR16,D0,RTiM,1,Vegetative phase,16/12/2016,41,86,127,158,190
+Kandara,SR16,D0,RTiM,2,Vegetative phase,16/12/2016,38,79,119,160,201
+Kandara,SR16,D0,RTiM,3,Vegetative phase,16/12/2016,41,79,113,145,177
+Kandara,SR16,D0,RTiM,4,Vegetative phase,16/12/2016,34,71,110,147,186
+Kandara,SR16,D0,RTiP,1,Vegetative phase,16/12/2016,38,79,115,148,180
+Kandara,SR16,D0,RTiP,2,Vegetative phase,16/12/2016,37,77,116,157,195
+Kandara,SR16,D0,RTiP,3,Vegetative phase,16/12/2016,34,72,114,155,195
+Kandara,SR16,D0,RTiP,4,Vegetative phase,16/12/2016,38,51,64,75,86
+Kandara,SR16,D15,C,1,Vegetative phase,31/12/2016,28,65,108,157,201
+Kandara,SR16,D15,C,2,Vegetative phase,31/12/2016,41,85,131,182,230
+Kandara,SR16,D15,C,3,Vegetative phase,31/12/2016,34,64,96,121,157
+Kandara,SR16,D15,C,4,Vegetative phase,31/12/2016,37,49,62,76,89
+Kandara,SR16,D15,F,1,Vegetative phase,31/12/2016,34,72,115,162,207
+Kandara,SR16,D15,F,2,Vegetative phase,31/12/2016,34,63,101,137,176
+Kandara,SR16,D15,F,3,Vegetative phase,31/12/2016,32,71,108,142,176
+Kandara,SR16,D15,F,4,Vegetative phase,31/12/2016,37,77,112,123,134
+Kandara,SR16,D15,RF,1,Vegetative phase,31/12/2016,31,72,115,160,192
+Kandara,SR16,D15,RF,2,Vegetative phase,31/12/2016,29,67,106,152,196
+Kandara,SR16,D15,RF,3,Vegetative phase,31/12/2016,40,82,125,162,194
+Kandara,SR16,D15,RF,4,Vegetative phase,31/12/2016,35,76,103,115,126
+Kandara,SR16,D15,RFM,1,Vegetative phase,31/12/2016,30,64,102,142,184
+Kandara,SR16,D15,RFM,2,Vegetative phase,31/12/2016,37,74,115,149,176
+Kandara,SR16,D15,RFM,3,Vegetative phase,31/12/2016,28,68,114,155,190
+Kandara,SR16,D15,RFM,4,Vegetative phase,31/12/2016,30,69,109,148,183
+Kandara,SR16,D15,RML,1,Vegetative phase,31/12/2016,31,66,104,142,182
+Kandara,SR16,D15,RML,2,Vegetative phase,31/12/2016,37,74,102,134,173
+Kandara,SR16,D15,RML,3,Vegetative phase,31/12/2016,34,71,108,143,182
+Kandara,SR16,D15,RML,4,Vegetative phase,31/12/2016,33,67,97,108,136
+Kandara,SR16,D15,RTiM,1,Vegetative phase,31/12/2016,40,86,111,143,177
+Kandara,SR16,D15,RTiM,2,Vegetative phase,31/12/2016,37,73,112,153,195
+Kandara,SR16,D15,RTiM,3,Vegetative phase,31/12/2016,33,62,89,120,155
+Kandara,SR16,D15,RTiM,4,Vegetative phase,31/12/2016,38,51,59,98,143
+Kandara,SR16,D15,RTiP,1,Vegetative phase,31/12/2016,35,79,124,169,216
+Kandara,SR16,D15,RTiP,2,Vegetative phase,31/12/2016,42,69,105,138,182
+Kandara,SR16,D15,RTiP,3,Vegetative phase,31/12/2016,44,86,132,179,225
+Kandara,SR16,D15,RTiP,4,Vegetative phase,31/12/2016,39,52,64,78,94
+Kandara,SR16,D0,C,1,Vegetative phase,31/12/2016,38,87,133,160,192
+Kandara,SR16,D0,C,2,Vegetative phase,31/12/2016,34,70,98,124,150
+Kandara,SR16,D0,C,3,Vegetative phase,31/12/2016,30,57,94,122,156
+Kandara,SR16,D0,C,4,Vegetative phase,31/12/2016,34,70,108,149,193
+Kandara,SR16,D0,F,1,Vegetative phase,31/12/2016,27,64,102,144,189
+Kandara,SR16,D0,F,2,Vegetative phase,31/12/2016,35,76,116,143,171
+Kandara,SR16,D0,F,3,Vegetative phase,31/12/2016,40,83,126,165,207
+Kandara,SR16,D0,F,4,Vegetative phase,31/12/2016,28,66,108,120,155
+Kandara,SR16,D0,RF,1,Vegetative phase,31/12/2016,38,81,111,155,201
+Kandara,SR16,D0,RF,2,Vegetative phase,31/12/2016,30,70,111,143,176
+Kandara,SR16,D0,RF,3,Vegetative phase,31/12/2016,33,74,106,136,173
+Kandara,SR16,D0,RF,4,Vegetative phase,31/12/2016,29,69,104,116,127
+Kandara,SR16,D0,RFM,1,Vegetative phase,31/12/2016,36,70,109,150,191
+Kandara,SR16,D0,RFM,2,Vegetative phase,31/12/2016,37,80,123,169,194
+Kandara,SR16,D0,RFM,3,Vegetative phase,31/12/2016,35,73,107,135,173
+Kandara,SR16,D0,RFM,4,Vegetative phase,31/12/2016,36,67,93,106,118
+Kandara,SR16,D0,RML,1,Vegetative phase,31/12/2016,29,64,100,141,184
+Kandara,SR16,D0,RML,2,Vegetative phase,31/12/2016,31,63,102,145,186
+Kandara,SR16,D0,RML,3,Vegetative phase,31/12/2016,35,77,116,151,191
+Kandara,SR16,D0,RML,4,Vegetative phase,31/12/2016,36,74,115,156,198
+Kandara,SR16,D0,RTiM,1,Vegetative phase,31/12/2016,37,81,120,152,186
+Kandara,SR16,D0,RTiM,2,Vegetative phase,31/12/2016,34,76,117,159,201
+Kandara,SR16,D0,RTiM,3,Vegetative phase,31/12/2016,40,78,111,143,176
+Kandara,SR16,D0,RTiM,4,Vegetative phase,31/12/2016,33,69,108,145,186
+Kandara,SR16,D0,RTiP,1,Vegetative phase,31/12/2016,38,80,116,149,182
+Kandara,SR16,D0,RTiP,2,Vegetative phase,31/12/2016,37,78,117,157,198
+Kandara,SR16,D0,RTiP,3,Vegetative phase,31/12/2016,28,66,107,148,188
+Kandara,SR16,D0,RTiP,4,Vegetative phase,31/12/2016,36,50,63,74,84
+Kandara,SR16,D15,C,1,Grain formation/filling phase,06/01/2017,26,60,103,151,194
+Kandara,SR16,D15,C,2,Grain formation/filling phase,06/01/2017,37,80,124,172,218
+Kandara,SR16,D15,C,3,Grain formation/filling phase,06/01/2017,29,57,88,113,148
+Kandara,SR16,D15,C,4,Grain formation/filling phase,06/01/2017,34,46,59,72,84
+Kandara,SR16,D15,F,1,Grain formation/filling phase,06/01/2017,30,66,107,152,194
+Kandara,SR16,D15,F,2,Grain formation/filling phase,06/01/2017,30,58,95,130,167
+Kandara,SR16,D15,F,3,Grain formation/filling phase,06/01/2017,29,64,102,135,167
+Kandara,SR16,D15,F,4,Grain formation/filling phase,06/01/2017,34,72,105,116,127
+Kandara,SR16,D15,RF,1,Grain formation/filling phase,06/01/2017,27,63,104,148,179
+Kandara,SR16,D15,RF,2,Grain formation/filling phase,06/01/2017,26,62,100,145,189
+Kandara,SR16,D15,RF,3,Grain formation/filling phase,06/01/2017,36,76,116,152,184
+Kandara,SR16,D15,RF,4,Grain formation/filling phase,06/01/2017,33,71,97,109,119
+Kandara,SR16,D15,RFM,1,Grain formation/filling phase,06/01/2017,26,56,92,132,172
+Kandara,SR16,D15,RFM,2,Grain formation/filling phase,06/01/2017,33,68,108,142,169
+Kandara,SR16,D15,RFM,3,Grain formation/filling phase,06/01/2017,25,60,102,141,174
+Kandara,SR16,D15,RFM,4,Grain formation/filling phase,06/01/2017,28,64,102,139,173
+Kandara,SR16,D15,RML,1,Grain formation/filling phase,06/01/2017,27,60,96,133,171
+Kandara,SR16,D15,RML,2,Grain formation/filling phase,06/01/2017,32,68,100,125,154
+Kandara,SR16,D15,RML,3,Grain formation/filling phase,06/01/2017,30,65,101,135,173
+Kandara,SR16,D15,RML,4,Grain formation/filling phase,06/01/2017,29,61,90,100,128
+Kandara,SR16,D15,RTiM,1,Grain formation/filling phase,06/01/2017,37,80,104,134,167
+Kandara,SR16,D15,RTiM,2,Grain formation/filling phase,06/01/2017,34,67,103,142,182
+Kandara,SR16,D15,RTiM,3,Grain formation/filling phase,06/01/2017,31,58,83,113,146
+Kandara,SR16,D15,RTiM,4,Grain formation/filling phase,06/01/2017,34,46,54,90,133
+Kandara,SR16,D15,RTiP,1,Grain formation/filling phase,06/01/2017,33,76,120,164,210
+Kandara,SR16,D15,RTiP,2,Grain formation/filling phase,06/01/2017,40,68,103,133,177
+Kandara,SR16,D15,RTiP,3,Grain formation/filling phase,06/01/2017,41,82,128,175,221
+Kandara,SR16,D15,RTiP,4,Grain formation/filling phase,06/01/2017,37,49,61,75,90
+Kandara,SR16,D0,C,1,Grain formation/filling phase,06/01/2017,33,79,124,155,187
+Kandara,SR16,D0,C,2,Grain formation/filling phase,06/01/2017,35,76,101,137,173
+Kandara,SR16,D0,C,3,Grain formation/filling phase,06/01/2017,29,69,104,137,173
+Kandara,SR16,D0,C,4,Grain formation/filling phase,06/01/2017,30,63,100,140,182
+Kandara,SR16,D0,F,1,Grain formation/filling phase,06/01/2017,32,66,102,142,185
+Kandara,SR16,D0,F,2,Grain formation/filling phase,06/01/2017,34,73,112,138,165
+Kandara,SR16,D0,F,3,Grain formation/filling phase,06/01/2017,36,77,119,156,197
+Kandara,SR16,D0,F,4,Grain formation/filling phase,06/01/2017,26,61,100,111,145
+Kandara,SR16,D0,RF,1,Grain formation/filling phase,06/01/2017,33,74,101,144,188
+Kandara,SR16,D0,RF,2,Grain formation/filling phase,06/01/2017,27,65,105,137,170
+Kandara,SR16,D0,RF,3,Grain formation/filling phase,06/01/2017,28,61,92,120,157
+Kandara,SR16,D0,RF,4,Grain formation/filling phase,06/01/2017,26,63,96,107,118
+Kandara,SR16,D0,RFM,1,Grain formation/filling phase,06/01/2017,29,64,103,144,181
+Kandara,SR16,D0,RFM,2,Grain formation/filling phase,06/01/2017,34,74,115,158,183
+Kandara,SR16,D0,RFM,3,Grain formation/filling phase,06/01/2017,33,69,103,129,163
+Kandara,SR16,D0,RFM,4,Grain formation/filling phase,06/01/2017,32,63,88,101,111
+Kandara,SR16,D0,RML,1,Grain formation/filling phase,06/01/2017,26,57,91,132,173
+Kandara,SR16,D0,RML,2,Grain formation/filling phase,06/01/2017,27,56,90,130,170
+Kandara,SR16,D0,RML,3,Grain formation/filling phase,06/01/2017,32,73,111,145,184
+Kandara,SR16,D0,RML,4,Grain formation/filling phase,06/01/2017,33,70,111,152,193
+Kandara,SR16,D0,RTiM,1,Grain formation/filling phase,06/01/2017,34,77,114,145,178
+Kandara,SR16,D0,RTiM,2,Grain formation/filling phase,06/01/2017,30,70,110,150,191
+Kandara,SR16,D0,RTiM,3,Grain formation/filling phase,06/01/2017,37,74,105,137,169
+Kandara,SR16,D0,RTiM,4,Grain formation/filling phase,06/01/2017,31,66,104,139,178
+Kandara,SR16,D0,RTiP,1,Grain formation/filling phase,06/01/2017,35,76,111,143,175
+Kandara,SR16,D0,RTiP,2,Grain formation/filling phase,06/01/2017,35,75,113,153,192
+Kandara,SR16,D0,RTiP,3,Grain formation/filling phase,06/01/2017,34,69,109,149,186
+Kandara,SR16,D0,RTiP,4,Grain formation/filling phase,06/01/2017,33,45,58,69,79
+Kandara,SR16,D15,C,1,Grain formation/filling phase,13/01/2017,31,63,105,152,195
+Kandara,SR16,D15,C,2,Grain formation/filling phase,13/01/2017,35,76,118,163,207
+Kandara,SR16,D15,C,3,Grain formation/filling phase,13/01/2017,26,51,82,118,152
+Kandara,SR16,D15,C,4,Grain formation/filling phase,13/01/2017,32,43,56,69,81
+Kandara,SR16,D15,F,1,Grain formation/filling phase,13/01/2017,28,59,98,140,180
+Kandara,SR16,D15,F,2,Grain formation/filling phase,13/01/2017,28,53,88,121,157
+Kandara,SR16,D15,F,3,Grain formation/filling phase,13/01/2017,27,59,93,125,156
+Kandara,SR16,D15,F,4,Grain formation/filling phase,13/01/2017,31,68,100,110,121
+Kandara,SR16,D15,RF,1,Grain formation/filling phase,13/01/2017,29,60,96,135,165
+Kandara,SR16,D15,RF,2,Grain formation/filling phase,13/01/2017,29,61,97,142,184
+Kandara,SR16,D15,RF,3,Grain formation/filling phase,13/01/2017,34,72,111,145,176
+Kandara,SR16,D15,RF,4,Grain formation/filling phase,13/01/2017,30,65,91,102,113
+Kandara,SR16,D15,RFM,1,Grain formation/filling phase,13/01/2017,27,54,87,124,163
+Kandara,SR16,D15,RFM,2,Grain formation/filling phase,13/01/2017,29,61,98,132,158
+Kandara,SR16,D15,RFM,3,Grain formation/filling phase,13/01/2017,27,59,98,135,167
+Kandara,SR16,D15,RFM,4,Grain formation/filling phase,13/01/2017,27,61,98,134,166
+Kandara,SR16,D15,RML,1,Grain formation/filling phase,13/01/2017,25,55,89,123,160
+Kandara,SR16,D15,RML,2,Grain formation/filling phase,13/01/2017,32,65,90,120,158
+Kandara,SR16,D15,RML,3,Grain formation/filling phase,13/01/2017,26,59,93,126,163
+Kandara,SR16,D15,RML,4,Grain formation/filling phase,13/01/2017,26,56,84,94,122
+Kandara,SR16,D15,RTiM,1,Grain formation/filling phase,13/01/2017,33,73,96,125,157
+Kandara,SR16,D15,RTiM,2,Grain formation/filling phase,13/01/2017,31,62,95,132,171
+Kandara,SR16,D15,RTiM,3,Grain formation/filling phase,13/01/2017,29,55,79,109,140
+Kandara,SR16,D15,RTiM,4,Grain formation/filling phase,13/01/2017,31,42,50,85,125
+Kandara,SR16,D15,RTiP,1,Grain formation/filling phase,13/01/2017,31,72,116,158,201
+Kandara,SR16,D15,RTiP,2,Grain formation/filling phase,13/01/2017,37,65,99,128,171
+Kandara,SR16,D15,RTiP,3,Grain formation/filling phase,13/01/2017,38,76,118,163,209
+Kandara,SR16,D15,RTiP,4,Grain formation/filling phase,13/01/2017,33,45,57,70,84
+Kandara,SR16,D0,C,1,Grain formation/filling phase,13/01/2017,31,71,114,143,175
+Kandara,SR16,D0,C,2,Grain formation/filling phase,13/01/2017,34,74,105,139,173
+Kandara,SR16,D0,C,3,Grain formation/filling phase,13/01/2017,26,63,97,128,164
+Kandara,SR16,D0,C,4,Grain formation/filling phase,13/01/2017,26,55,90,129,171
+Kandara,SR16,D0,F,1,Grain formation/filling phase,13/01/2017,30,62,97,135,176
+Kandara,SR16,D0,F,2,Grain formation/filling phase,13/01/2017,33,71,108,134,160
+Kandara,SR16,D0,F,3,Grain formation/filling phase,13/01/2017,33,70,110,146,185
+Kandara,SR16,D0,F,4,Grain formation/filling phase,13/01/2017,26,58,95,107,139
+Kandara,SR16,D0,RF,1,Grain formation/filling phase,13/01/2017,30,65,91,132,174
+Kandara,SR16,D0,RF,2,Grain formation/filling phase,13/01/2017,25,61,99,129,161
+Kandara,SR16,D0,RF,3,Grain formation/filling phase,13/01/2017,26,55,84,112,148
+Kandara,SR16,D0,RF,4,Grain formation/filling phase,13/01/2017,26,61,92,103,114
+Kandara,SR16,D0,RFM,1,Grain formation/filling phase,13/01/2017,26,59,95,135,173
+Kandara,SR16,D0,RFM,2,Grain formation/filling phase,13/01/2017,33,73,112,155,183
+Kandara,SR16,D0,RFM,3,Grain formation/filling phase,13/01/2017,31,65,97,123,155
+Kandara,SR16,D0,RFM,4,Grain formation/filling phase,13/01/2017,28,55,67,79,90
+Kandara,SR16,D0,RML,1,Grain formation/filling phase,13/01/2017,29,58,89,128,168
+Kandara,SR16,D0,RML,2,Grain formation/filling phase,13/01/2017,26,53,84,122,161
+Kandara,SR16,D0,RML,3,Grain formation/filling phase,13/01/2017,30,69,106,139,177
+Kandara,SR16,D0,RML,4,Grain formation/filling phase,13/01/2017,30,64,104,144,184
+Kandara,SR16,D0,RTiM,1,Grain formation/filling phase,13/01/2017,31,70,106,135,166
+Kandara,SR16,D0,RTiM,2,Grain formation/filling phase,13/01/2017,30,67,105,145,184
+Kandara,SR16,D0,RTiM,3,Grain formation/filling phase,13/01/2017,34,68,98,128,158
+Kandara,SR16,D0,RTiM,4,Grain formation/filling phase,13/01/2017,29,61,94,126,162
+Kandara,SR16,D0,RTiP,1,Grain formation/filling phase,13/01/2017,33,73,106,138,168
+Kandara,SR16,D0,RTiP,2,Grain formation/filling phase,13/01/2017,34,72,109,148,186
+Kandara,SR16,D0,RTiP,3,Grain formation/filling phase,13/01/2017,33,66,103,142,178
+Kandara,SR16,D0,RTiP,4,Grain formation/filling phase,13/01/2017,31,44,56,66,76
+Kandara,SR16,D15,C,1,Grain formation/filling phase,20/01/2017,25,59,100,146,188
+Kandara,SR16,D15,C,2,Grain formation/filling phase,20/01/2017,33,71,112,156,197
+Kandara,SR16,D15,C,3,Grain formation/filling phase,20/01/2017,30,61,89,124,157
+Kandara,SR16,D15,C,4,Grain formation/filling phase,20/01/2017,31,42,54,67,78
+Kandara,SR16,D15,F,1,Grain formation/filling phase,20/01/2017,26,56,92,133,171
+Kandara,SR16,D15,F,2,Grain formation/filling phase,20/01/2017,27,58,92,125,160
+Kandara,SR16,D15,F,3,Grain formation/filling phase,20/01/2017,27,58,91,122,152
+Kandara,SR16,D15,F,4,Grain formation/filling phase,20/01/2017,29,63,95,105,115
+Kandara,SR16,D15,RF,1,Grain formation/filling phase,20/01/2017,29,58,91,129,159
+Kandara,SR16,D15,RF,2,Grain formation/filling phase,20/01/2017,29,58,92,135,177
+Kandara,SR16,D15,RF,3,Grain formation/filling phase,20/01/2017,33,71,109,143,173
+Kandara,SR16,D15,RF,4,Grain formation/filling phase,20/01/2017,30,64,90,101,111
+Kandara,SR16,D15,RFM,1,Grain formation/filling phase,20/01/2017,26,51,83,119,157
+Kandara,SR16,D15,RFM,2,Grain formation/filling phase,20/01/2017,27,57,92,125,151
+Kandara,SR16,D15,RFM,3,Grain formation/filling phase,20/01/2017,26,58,95,130,162
+Kandara,SR16,D15,RFM,4,Grain formation/filling phase,20/01/2017,27,60,97,133,165
+Kandara,SR16,D15,RML,1,Grain formation/filling phase,20/01/2017,25,54,86,120,156
+Kandara,SR16,D15,RML,2,Grain formation/filling phase,20/01/2017,26,54,82,112,141
+Kandara,SR16,D15,RML,3,Grain formation/filling phase,20/01/2017,26,57,90,123,160
+Kandara,SR16,D15,RML,4,Grain formation/filling phase,20/01/2017,26,54,83,93,119
+Kandara,SR16,D15,RTiM,1,Grain formation/filling phase,20/01/2017,33,70,92,121,152
+Kandara,SR16,D15,RTiM,2,Grain formation/filling phase,20/01/2017,30,60,92,127,165
+Kandara,SR16,D15,RTiM,3,Grain formation/filling phase,20/01/2017,27,53,77,105,136
+Kandara,SR16,D15,RTiM,4,Grain formation/filling phase,20/01/2017,30,40,48,83,122
+Kandara,SR16,D15,RTiP,1,Grain formation/filling phase,20/01/2017,30,71,113,153,195
+Kandara,SR16,D15,RTiP,2,Grain formation/filling phase,20/01/2017,37,63,96,125,168
+Kandara,SR16,D15,RTiP,3,Grain formation/filling phase,20/01/2017,36,73,115,158,202
+Kandara,SR16,D15,RTiP,4,Grain formation/filling phase,20/01/2017,33,44,56,68,83
+Kandara,SR16,D0,C,1,Grain formation/filling phase,20/01/2017,30,68,109,138,169
+Kandara,SR16,D0,C,2,Grain formation/filling phase,20/01/2017,34,73,103,136,169
+Kandara,SR16,D0,C,3,Grain formation/filling phase,20/01/2017,26,61,94,124,159
+Kandara,SR16,D0,C,4,Grain formation/filling phase,20/01/2017,30,58,91,130,171
+Kandara,SR16,D0,F,1,Grain formation/filling phase,20/01/2017,30,60,94,131,172
+Kandara,SR16,D0,F,2,Grain formation/filling phase,20/01/2017,33,71,108,134,159
+Kandara,SR16,D0,F,3,Grain formation/filling phase,20/01/2017,32,67,104,140,178
+Kandara,SR16,D0,F,4,Grain formation/filling phase,20/01/2017,26,57,93,104,136
+Kandara,SR16,D0,RF,1,Grain formation/filling phase,20/01/2017,28,60,86,125,167
+Kandara,SR16,D0,RF,2,Grain formation/filling phase,20/01/2017,25,60,97,127,158
+Kandara,SR16,D0,RF,3,Grain formation/filling phase,20/01/2017,26,53,81,108,143
+Kandara,SR16,D0,RF,4,Grain formation/filling phase,20/01/2017,26,59,90,101,111
+Kandara,SR16,D0,RFM,1,Grain formation/filling phase,20/01/2017,28,59,94,133,169
+Kandara,SR16,D0,RFM,2,Grain formation/filling phase,20/01/2017,32,71,109,151,179
+Kandara,SR16,D0,RFM,3,Grain formation/filling phase,20/01/2017,31,64,95,121,153
+Kandara,SR16,D0,RFM,4,Grain formation/filling phase,20/01/2017,27,39,50,62,72
+Kandara,SR16,D0,RML,1,Grain formation/filling phase,20/01/2017,28,55,86,124,164
+Kandara,SR16,D0,RML,2,Grain formation/filling phase,20/01/2017,25,51,81,117,156
+Kandara,SR16,D0,RML,3,Grain formation/filling phase,20/01/2017,30,68,104,137,174
+Kandara,SR16,D0,RML,4,Grain formation/filling phase,20/01/2017,29,61,100,139,178
+Kandara,SR16,D0,RTiM,1,Grain formation/filling phase,20/01/2017,31,68,103,133,163
+Kandara,SR16,D0,RTiM,2,Grain formation/filling phase,20/01/2017,30,68,105,143,181
+Kandara,SR16,D0,RTiM,3,Grain formation/filling phase,20/01/2017,33,66,96,126,157
+Kandara,SR16,D0,RTiM,4,Grain formation/filling phase,20/01/2017,28,59,95,129,166
+Kandara,SR16,D0,RTiP,1,Grain formation/filling phase,20/01/2017,33,72,105,136,166
+Kandara,SR16,D0,RTiP,2,Grain formation/filling phase,20/01/2017,34,72,110,149,187
+Kandara,SR16,D0,RTiP,3,Grain formation/filling phase,20/01/2017,33,65,102,140,175
+Kandara,SR16,D0,RTiP,4,Grain formation/filling phase,20/01/2017,31,43,55,66,76
+Kandara,SR16,D15,C,1,Grain formation/filling phase,27/01/2017,25,58,99,144,185
+Kandara,SR16,D15,C,2,Grain formation/filling phase,27/01/2017,31,66,104,145,184
+Kandara,SR16,D15,C,3,Grain formation/filling phase,27/01/2017,29,59,85,120,152
+Kandara,SR16,D15,C,4,Grain formation/filling phase,27/01/2017,31,41,53,65,76
+Kandara,SR16,D15,F,1,Grain formation/filling phase,27/01/2017,26,54,89,127,164
+Kandara,SR16,D15,F,2,Grain formation/filling phase,27/01/2017,26,57,89,121,155
+Kandara,SR16,D15,F,3,Grain formation/filling phase,27/01/2017,27,58,90,120,149
+Kandara,SR16,D15,F,4,Grain formation/filling phase,27/01/2017,28,59,89,99,109
+Kandara,SR16,D15,RF,1,Grain formation/filling phase,27/01/2017,29,57,89,124,152
+Kandara,SR16,D15,RF,2,Grain formation/filling phase,27/01/2017,29,57,90,132,174
+Kandara,SR16,D15,RF,3,Grain formation/filling phase,27/01/2017,33,69,107,139,169
+Kandara,SR16,D15,RF,4,Grain formation/filling phase,27/01/2017,30,64,89,99,109
+Kandara,SR16,D15,RFM,1,Grain formation/filling phase,27/01/2017,25,56,86,120,157
+Kandara,SR16,D15,RFM,2,Grain formation/filling phase,27/01/2017,26,54,87,117,146
+Kandara,SR16,D15,RFM,3,Grain formation/filling phase,27/01/2017,25,57,93,127,158
+Kandara,SR16,D15,RFM,4,Grain formation/filling phase,27/01/2017,27,59,96,132,163
+Kandara,SR16,D15,RML,1,Grain formation/filling phase,27/01/2017,25,53,85,118,154
+Kandara,SR16,D15,RML,2,Grain formation/filling phase,27/01/2017,30,63,89,118,154
+Kandara,SR16,D15,RML,3,Grain formation/filling phase,27/01/2017,27,56,88,121,158
+Kandara,SR16,D15,RML,4,Grain formation/filling phase,27/01/2017,26,54,81,91,118
+Kandara,SR16,D15,RTiM,1,Grain formation/filling phase,27/01/2017,31,68,89,117,148
+Kandara,SR16,D15,RTiM,2,Grain formation/filling phase,27/01/2017,30,59,89,123,160
+Kandara,SR16,D15,RTiM,3,Grain formation/filling phase,27/01/2017,27,53,76,103,134
+Kandara,SR16,D15,RTiM,4,Grain formation/filling phase,27/01/2017,30,40,48,81,120
+Kandara,SR16,D15,RTiP,1,Grain formation/filling phase,27/01/2017,30,69,109,148,188
+Kandara,SR16,D15,RTiP,2,Grain formation/filling phase,27/01/2017,36,62,94,123,164
+Kandara,SR16,D15,RTiP,3,Grain formation/filling phase,27/01/2017,36,71,111,154,196
+Kandara,SR16,D15,RTiP,4,Grain formation/filling phase,27/01/2017,33,44,55,67,81
+Kandara,SR16,D0,C,1,Grain formation/filling phase,27/01/2017,29,66,106,134,165
+Kandara,SR16,D0,C,2,Grain formation/filling phase,27/01/2017,34,73,102,134,165
+Kandara,SR16,D0,C,3,Grain formation/filling phase,27/01/2017,25,60,91,121,156
+Kandara,SR16,D0,C,4,Grain formation/filling phase,27/01/2017,29,56,87,125,168
+Kandara,SR16,D0,F,1,Grain formation/filling phase,27/01/2017,30,59,91,127,167
+Kandara,SR16,D0,F,2,Grain formation/filling phase,27/01/2017,33,71,107,132,157
+Kandara,SR16,D0,F,3,Grain formation/filling phase,27/01/2017,31,66,103,139,177
+Kandara,SR16,D0,F,4,Grain formation/filling phase,27/01/2017,29,60,95,105,138
+Kandara,SR16,D0,RF,1,Grain formation/filling phase,27/01/2017,27,58,83,121,162
+Kandara,SR16,D0,RF,2,Grain formation/filling phase,27/01/2017,25,60,97,126,156
+Kandara,SR16,D0,RF,3,Grain formation/filling phase,27/01/2017,26,51,78,104,138
+Kandara,SR16,D0,RF,4,Grain formation/filling phase,27/01/2017,25,58,88,98,109
+Kandara,SR16,D0,RFM,1,Grain formation/filling phase,27/01/2017,37,77,118,157,191
+Kandara,SR16,D0,RFM,2,Grain formation/filling phase,27/01/2017,32,69,107,148,175
+Kandara,SR16,D0,RFM,3,Grain formation/filling phase,27/01/2017,30,61,92,125,157
+Kandara,SR16,D0,RFM,4,Grain formation/filling phase,27/01/2017,26,38,51,62,72
+Kandara,SR16,D0,RML,1,Grain formation/filling phase,27/01/2017,28,55,85,123,162
+Kandara,SR16,D0,RML,2,Grain formation/filling phase,27/01/2017,27,53,81,117,155
+Kandara,SR16,D0,RML,3,Grain formation/filling phase,27/01/2017,30,68,104,137,174
+Kandara,SR16,D0,RML,4,Grain formation/filling phase,27/01/2017,29,60,100,139,178
+Kandara,SR16,D0,RTiM,1,Grain formation/filling phase,27/01/2017,30,67,100,130,160
+Kandara,SR16,D0,RTiM,2,Grain formation/filling phase,27/01/2017,30,66,103,142,180
+Kandara,SR16,D0,RTiM,3,Grain formation/filling phase,27/01/2017,32,63,93,123,153
+Kandara,SR16,D0,RTiM,4,Grain formation/filling phase,27/01/2017,28,58,94,128,165
+Kandara,SR16,D0,RTiP,1,Grain formation/filling phase,27/01/2017,32,71,103,135,164
+Kandara,SR16,D0,RTiP,2,Grain formation/filling phase,27/01/2017,33,71,109,147,185
+Kandara,SR16,D0,RTiP,3,Grain formation/filling phase,27/01/2017,32,65,102,140,175
+Kandara,SR16,D0,RTiP,4,Grain formation/filling phase,27/01/2017,31,43,55,65,75
+Kandara,SR17,D15,C,1,Vegetative phase,03/11/2017,26,66,110,154,191
+Kandara,SR17,D15,C,2,Vegetative phase,03/11/2017,39,83,124,164,197
+Kandara,SR17,D15,C,3,Vegetative phase,03/11/2017,32,60,88,122,150
+Kandara,SR17,D15,C,4,Vegetative phase,03/11/2017,39,64,77,89,98
+Kandara,SR17,D15,F,1,Vegetative phase,03/11/2017,37,76,113,147,178
+Kandara,SR17,D15,F,2,Vegetative phase,03/11/2017,34,63,98,129,158
+Kandara,SR17,D15,F,3,Vegetative phase,03/11/2017,38,77,114,142,167
+Kandara,SR17,D15,F,4,Vegetative phase,03/11/2017,36,73,103,112,120
+Kandara,SR17,D15,RF,1,Vegetative phase,03/11/2017,29,67,106,144,170
+Kandara,SR17,D15,RF,2,Vegetative phase,03/11/2017,31,70,108,148,184
+Kandara,SR17,D15,RF,3,Vegetative phase,03/11/2017,41,84,123,156,182
+Kandara,SR17,D15,RF,4,Vegetative phase,03/11/2017,34,74,99,109,118
+Kandara,SR17,D15,RFM,1,Vegetative phase,03/11/2017,33,69,107,146,180
+Kandara,SR17,D15,RFM,2,Vegetative phase,03/11/2017,42,80,118,147,174
+Kandara,SR17,D15,RFM,3,Vegetative phase,03/11/2017,30,74,118,158,186
+Kandara,SR17,D15,RFM,4,Vegetative phase,03/11/2017,35,74,114,150,180
+Kandara,SR17,D15,RML,1,Vegetative phase,03/11/2017,34,70,105,140,175
+Kandara,SR17,D15,RML,2,Vegetative phase,03/11/2017,37,74,101,131,167
+Kandara,SR17,D15,RML,3,Vegetative phase,03/11/2017,37,75,112,147,180
+Kandara,SR17,D15,RML,4,Vegetative phase,03/11/2017,36,73,103,113,139
+Kandara,SR17,D15,RTiM,1,Vegetative phase,03/11/2017,43,87,110,139,167
+Kandara,SR17,D15,RTiM,2,Vegetative phase,03/11/2017,41,75,112,149,184
+Kandara,SR17,D15,RTiM,3,Vegetative phase,03/11/2017,38,63,88,117,145
+Kandara,SR17,D15,RTiM,4,Vegetative phase,03/11/2017,42,54,62,95,130
+Kandara,SR17,D15,RTiP,1,Vegetative phase,03/11/2017,35,74,115,150,184
+Kandara,SR17,D15,RTiP,2,Vegetative phase,03/11/2017,39,65,97,123,156
+Kandara,SR17,D15,RTiP,3,Vegetative phase,03/11/2017,41,80,121,160,195
+Kandara,SR17,D15,RTiP,4,Vegetative phase,03/11/2017,37,49,60,71,82
+Kandara,SR17,D0,C,1,Vegetative phase,03/11/2017,41,89,132,160,185
+Kandara,SR17,D0,C,2,Vegetative phase,03/11/2017,38,80,112,146,176
+Kandara,SR17,D0,C,3,Vegetative phase,03/11/2017,34,61,96,125,156
+Kandara,SR17,D0,C,4,Vegetative phase,03/11/2017,34,69,105,140,175
+Kandara,SR17,D0,F,1,Vegetative phase,03/11/2017,32,71,106,139,174
+Kandara,SR17,D0,F,2,Vegetative phase,03/11/2017,38,78,115,145,177
+Kandara,SR17,D0,F,3,Vegetative phase,03/11/2017,40,83,125,159,191
+Kandara,SR17,D0,F,4,Vegetative phase,03/11/2017,34,71,111,121,150
+Kandara,SR17,D0,RF,1,Vegetative phase,03/11/2017,41,82,109,147,185
+Kandara,SR17,D0,RF,2,Vegetative phase,03/11/2017,32,73,112,140,168
+Kandara,SR17,D0,RF,3,Vegetative phase,03/11/2017,32,66,96,124,153
+Kandara,SR17,D0,RF,4,Vegetative phase,03/11/2017,32,70,101,111,121
+Kandara,SR17,D0,RFM,1,Vegetative phase,03/11/2017,42,84,125,167,208
+Kandara,SR17,D0,RFM,2,Vegetative phase,03/11/2017,39,82,123,162,191
+Kandara,SR17,D0,RFM,3,Vegetative phase,03/11/2017,35,70,102,129,160
+Kandara,SR17,D0,RFM,4,Vegetative phase,03/11/2017,32,62,75,86,97
+Kandara,SR17,D0,RML,1,Vegetative phase,03/11/2017,31,66,100,137,172
+Kandara,SR17,D0,RML,2,Vegetative phase,03/11/2017,35,70,105,140,174
+Kandara,SR17,D0,RML,3,Vegetative phase,03/11/2017,38,81,121,155,188
+Kandara,SR17,D0,RML,4,Vegetative phase,03/11/2017,38,76,115,152,186
+Kandara,SR17,D0,RTiM,1,Vegetative phase,03/11/2017,40,84,121,151,178
+Kandara,SR17,D0,RTiM,2,Vegetative phase,03/11/2017,34,75,113,152,187
+Kandara,SR17,D0,RTiM,3,Vegetative phase,03/11/2017,40,77,108,138,165
+Kandara,SR17,D0,RTiM,4,Vegetative phase,03/11/2017,35,72,108,142,173
+Kandara,SR17,D0,RTiP,1,Vegetative phase,03/11/2017,39,79,112,142,170
+Kandara,SR17,D0,RTiP,2,Vegetative phase,03/11/2017,39,80,117,153,185
+Kandara,SR17,D0,RTiP,3,Vegetative phase,03/11/2017,28,66,106,146,181
+Kandara,SR17,D0,RTiP,4,Vegetative phase,03/11/2017,37,63,76,86,95
+Kandara,SR17,D15,C,1,Vegetative phase,10/11/2017,42,85,130,178,222
+Kandara,SR17,D15,C,2,Vegetative phase,10/11/2017,48,96,142,189,232
+Kandara,SR17,D15,C,3,Vegetative phase,10/11/2017,37,68,96,133,168
+Kandara,SR17,D15,C,4,Vegetative phase,10/11/2017,42,70,83,97,109
+Kandara,SR17,D15,F,1,Vegetative phase,10/11/2017,40,80,120,160,200
+Kandara,SR17,D15,F,2,Vegetative phase,10/11/2017,37,68,93,130,168
+Kandara,SR17,D15,F,3,Vegetative phase,10/11/2017,40,82,120,153,184
+Kandara,SR17,D15,F,4,Vegetative phase,10/11/2017,41,80,112,123,134
+Kandara,SR17,D15,RF,1,Vegetative phase,10/11/2017,36,76,117,157,187
+Kandara,SR17,D15,RF,2,Vegetative phase,10/11/2017,38,80,121,163,204
+Kandara,SR17,D15,RF,3,Vegetative phase,10/11/2017,44,89,131,165,196
+Kandara,SR17,D15,RF,4,Vegetative phase,10/11/2017,40,83,109,120,130
+Kandara,SR17,D15,RFM,1,Vegetative phase,10/11/2017,38,76,116,159,200
+Kandara,SR17,D15,RFM,2,Vegetative phase,10/11/2017,48,89,128,159,185
+Kandara,SR17,D15,RFM,3,Vegetative phase,10/11/2017,38,85,132,174,208
+Kandara,SR17,D15,RFM,4,Vegetative phase,10/11/2017,40,82,125,163,197
+Kandara,SR17,D15,RML,1,Vegetative phase,10/11/2017,38,76,114,152,191
+Kandara,SR17,D15,RML,2,Vegetative phase,10/11/2017,40,79,107,140,180
+Kandara,SR17,D15,RML,3,Vegetative phase,10/11/2017,40,80,119,155,193
+Kandara,SR17,D15,RML,4,Vegetative phase,10/11/2017,40,79,112,122,152
+Kandara,SR17,D15,RTiM,1,Vegetative phase,10/11/2017,47,93,118,149,183
+Kandara,SR17,D15,RTiM,2,Vegetative phase,10/11/2017,45,82,121,161,199
+Kandara,SR17,D15,RTiM,3,Vegetative phase,10/11/2017,42,69,95,127,160
+Kandara,SR17,D15,RTiM,4,Vegetative phase,10/11/2017,46,58,67,107,152
+Kandara,SR17,D15,RTiP,1,Vegetative phase,10/11/2017,36,77,120,161,203
+Kandara,SR17,D15,RTiP,2,Vegetative phase,10/11/2017,42,69,103,133,173
+Kandara,SR17,D15,RTiP,3,Vegetative phase,10/11/2017,45,87,129,173,216
+Kandara,SR17,D15,RTiP,4,Vegetative phase,10/11/2017,41,54,65,78,92
+Kandara,SR17,D0,C,1,Vegetative phase,10/11/2017,46,95,141,172,203
+Kandara,SR17,D0,C,2,Vegetative phase,10/11/2017,42,86,112,148,184
+Kandara,SR17,D0,C,3,Vegetative phase,10/11/2017,41,71,107,139,175
+Kandara,SR17,D0,C,4,Vegetative phase,10/11/2017,38,75,114,155,197
+Kandara,SR17,D0,F,1,Vegetative phase,10/11/2017,36,78,117,157,199
+Kandara,SR17,D0,F,2,Vegetative phase,10/11/2017,40,82,122,150,178
+Kandara,SR17,D0,F,3,Vegetative phase,10/11/2017,43,89,135,175,216
+Kandara,SR17,D0,F,4,Vegetative phase,10/11/2017,38,78,120,132,166
+Kandara,SR17,D0,RF,1,Vegetative phase,10/11/2017,44,88,116,158,202
+Kandara,SR17,D0,RF,2,Vegetative phase,10/11/2017,39,82,123,154,186
+Kandara,SR17,D0,RF,3,Vegetative phase,10/11/2017,34,71,102,128,166
+Kandara,SR17,D0,RF,4,Vegetative phase,10/11/2017,38,79,112,123,134
+Kandara,SR17,D0,RFM,1,Vegetative phase,10/11/2017,38,80,121,163,204
+Kandara,SR17,D0,RFM,2,Vegetative phase,10/11/2017,42,87,130,173,198
+Kandara,SR17,D0,RFM,3,Vegetative phase,10/11/2017,40,78,112,138,172
+Kandara,SR17,D0,RFM,4,Vegetative phase,10/11/2017,37,70,83,95,106
+Kandara,SR17,D0,RML,1,Vegetative phase,10/11/2017,36,73,108,148,188
+Kandara,SR17,D0,RML,2,Vegetative phase,10/11/2017,39,75,111,150,191
+Kandara,SR17,D0,RML,3,Vegetative phase,10/11/2017,43,88,131,169,208
+Kandara,SR17,D0,RML,4,Vegetative phase,10/11/2017,42,83,124,166,206
+Kandara,SR17,D0,RTiM,1,Vegetative phase,10/11/2017,46,93,133,164,195
+Kandara,SR17,D0,RTiM,2,Vegetative phase,10/11/2017,43,87,129,171,211
+Kandara,SR17,D0,RTiM,3,Vegetative phase,10/11/2017,44,83,115,147,178
+Kandara,SR17,D0,RTiM,4,Vegetative phase,10/11/2017,39,79,118,154,190
+Kandara,SR17,D0,RTiP,1,Vegetative phase,10/11/2017,42,84,117,150,182
+Kandara,SR17,D0,RTiP,2,Vegetative phase,10/11/2017,42,86,126,166,204
+Kandara,SR17,D0,RTiP,3,Vegetative phase,10/11/2017,37,77,121,164,203
+Kandara,SR17,D0,RTiP,4,Vegetative phase,10/11/2017,42,70,83,94,104
+Kandara,SR17,D15,C,1,Vegetative phase,17/11/2017,37,79,124,172,216
+Kandara,SR17,D15,C,2,Vegetative phase,17/11/2017,43,91,137,185,229
+Kandara,SR17,D15,C,3,Vegetative phase,17/11/2017,37,67,96,133,168
+Kandara,SR17,D15,C,4,Vegetative phase,17/11/2017,41,68,81,95,107
+Kandara,SR17,D15,F,1,Vegetative phase,17/11/2017,38,74,106,132,156
+Kandara,SR17,D15,F,2,Vegetative phase,17/11/2017,36,66,92,131,170
+Kandara,SR17,D15,F,3,Vegetative phase,17/11/2017,38,79,116,144,169
+Kandara,SR17,D15,F,4,Vegetative phase,17/11/2017,39,78,110,119,128
+Kandara,SR17,D15,RF,1,Vegetative phase,17/11/2017,30,70,110,151,181
+Kandara,SR17,D15,RF,2,Vegetative phase,17/11/2017,35,76,117,161,202
+Kandara,SR17,D15,RF,3,Vegetative phase,17/11/2017,42,87,129,164,194
+Kandara,SR17,D15,RF,4,Vegetative phase,17/11/2017,38,79,107,118,128
+Kandara,SR17,D15,RFM,1,Vegetative phase,17/11/2017,36,73,113,156,199
+Kandara,SR17,D15,RFM,2,Vegetative phase,17/11/2017,46,87,127,158,185
+Kandara,SR17,D15,RFM,3,Vegetative phase,17/11/2017,31,76,122,164,199
+Kandara,SR17,D15,RFM,4,Vegetative phase,17/11/2017,37,78,119,158,193
+Kandara,SR17,D15,RML,1,Vegetative phase,17/11/2017,36,75,113,150,190
+Kandara,SR17,D15,RML,2,Vegetative phase,17/11/2017,39,77,104,137,178
+Kandara,SR17,D15,RML,3,Vegetative phase,17/11/2017,40,80,119,156,195
+Kandara,SR17,D15,RML,4,Vegetative phase,17/11/2017,39,78,111,121,152
+Kandara,SR17,D15,RTiM,1,Vegetative phase,17/11/2017,45,91,116,148,181
+Kandara,SR17,D15,RTiM,2,Vegetative phase,17/11/2017,44,80,120,159,198
+Kandara,SR17,D15,RTiM,3,Vegetative phase,17/11/2017,41,69,95,127,161
+Kandara,SR17,D15,RTiM,4,Vegetative phase,17/11/2017,45,57,65,105,151
+Kandara,SR17,D15,RTiP,1,Vegetative phase,17/11/2017,37,78,121,162,204
+Kandara,SR17,D15,RTiP,2,Vegetative phase,17/11/2017,42,69,103,134,175
+Kandara,SR17,D15,RTiP,3,Vegetative phase,17/11/2017,44,86,129,174,217
+Kandara,SR17,D15,RTiP,4,Vegetative phase,17/11/2017,40,52,64,77,91
+Kandara,SR17,D0,C,1,Vegetative phase,17/11/2017,44,94,139,170,202
+Kandara,SR17,D0,C,2,Vegetative phase,17/11/2017,41,84,110,147,182
+Kandara,SR17,D0,C,3,Vegetative phase,17/11/2017,38,68,105,137,174
+Kandara,SR17,D0,C,4,Vegetative phase,17/11/2017,38,75,114,155,198
+Kandara,SR17,D0,F,1,Vegetative phase,17/11/2017,34,74,114,154,196
+Kandara,SR17,D0,F,2,Vegetative phase,17/11/2017,39,80,121,149,178
+Kandara,SR17,D0,F,3,Vegetative phase,17/11/2017,41,86,133,172,214
+Kandara,SR17,D0,F,4,Vegetative phase,17/11/2017,36,75,116,128,161
+Kandara,SR17,D0,RF,1,Vegetative phase,17/11/2017,43,87,115,158,202
+Kandara,SR17,D0,RF,2,Vegetative phase,17/11/2017,34,75,116,147,180
+Kandara,SR17,D0,RF,3,Vegetative phase,17/11/2017,33,70,101,132,170
+Kandara,SR17,D0,RF,4,Vegetative phase,17/11/2017,35,75,109,120,131
+Kandara,SR17,D0,RFM,1,Vegetative phase,17/11/2017,38,75,108,135,160
+Kandara,SR17,D0,RFM,2,Vegetative phase,17/11/2017,40,85,127,170,196
+Kandara,SR17,D0,RFM,3,Vegetative phase,17/11/2017,38,75,109,137,172
+Kandara,SR17,D0,RFM,4,Vegetative phase,17/11/2017,35,68,80,91,100
+Kandara,SR17,D0,RML,1,Vegetative phase,17/11/2017,32,70,105,144,186
+Kandara,SR17,D0,RML,2,Vegetative phase,17/11/2017,37,73,109,149,190
+Kandara,SR17,D0,RML,3,Vegetative phase,17/11/2017,40,85,127,165,206
+Kandara,SR17,D0,RML,4,Vegetative phase,17/11/2017,40,81,122,164,205
+Kandara,SR17,D0,RTiM,1,Vegetative phase,17/11/2017,44,91,130,162,194
+Kandara,SR17,D0,RTiM,2,Vegetative phase,17/11/2017,36,79,120,162,203
+Kandara,SR17,D0,RTiM,3,Vegetative phase,17/11/2017,43,81,114,146,178
+Kandara,SR17,D0,RTiM,4,Vegetative phase,17/11/2017,38,77,116,152,190
+Kandara,SR17,D0,RTiP,1,Vegetative phase,17/11/2017,41,84,118,150,183
+Kandara,SR17,D0,RTiP,2,Vegetative phase,17/11/2017,40,84,124,164,202
+Kandara,SR17,D0,RTiP,3,Vegetative phase,17/11/2017,40,79,122,164,204
+Kandara,SR17,D0,RTiP,4,Vegetative phase,17/11/2017,40,68,81,91,102
+Kandara,SR17,D15,C,1,Vegetative phase,24/11/2017,29,70,114,161,205
+Kandara,SR17,D15,C,2,Vegetative phase,24/11/2017,38,83,128,175,217
+Kandara,SR17,D15,C,3,Vegetative phase,24/11/2017,34,64,93,130,164
+Kandara,SR17,D15,C,4,Vegetative phase,24/11/2017,39,66,79,92,104
+Kandara,SR17,D15,F,1,Vegetative phase,24/11/2017,36,70,101,126,150
+Kandara,SR17,D15,F,2,Vegetative phase,24/11/2017,34,64,97,133,172
+Kandara,SR17,D15,F,3,Vegetative phase,24/11/2017,34,71,107,134,159
+Kandara,SR17,D15,F,4,Vegetative phase,24/11/2017,36,73,104,113,122
+Kandara,SR17,D15,RF,1,Vegetative phase,24/11/2017,27,65,103,142,172
+Kandara,SR17,D15,RF,2,Vegetative phase,24/11/2017,29,68,108,150,191
+Kandara,SR17,D15,RF,3,Vegetative phase,24/11/2017,40,82,123,157,187
+Kandara,SR17,D15,RF,4,Vegetative phase,24/11/2017,34,74,100,111,121
+Kandara,SR17,D15,RFM,1,Vegetative phase,24/11/2017,31,68,107,149,189
+Kandara,SR17,D15,RFM,2,Vegetative phase,24/11/2017,42,80,118,149,176
+Kandara,SR17,D15,RFM,3,Vegetative phase,24/11/2017,27,70,115,156,191
+Kandara,SR17,D15,RFM,4,Vegetative phase,24/11/2017,32,70,110,147,182
+Kandara,SR17,D15,RML,1,Vegetative phase,24/11/2017,32,68,105,142,180
+Kandara,SR17,D15,RML,2,Vegetative phase,24/11/2017,36,73,100,133,172
+Kandara,SR17,D15,RML,3,Vegetative phase,24/11/2017,36,74,112,150,189
+Kandara,SR17,D15,RML,4,Vegetative phase,24/11/2017,36,73,105,115,144
+Kandara,SR17,D15,RTiM,1,Vegetative phase,24/11/2017,43,87,112,142,175
+Kandara,SR17,D15,RTiM,2,Vegetative phase,24/11/2017,42,75,112,150,188
+Kandara,SR17,D15,RTiM,3,Vegetative phase,24/11/2017,40,66,92,122,155
+Kandara,SR17,D15,RTiM,4,Vegetative phase,24/11/2017,42,54,62,99,144
+Kandara,SR17,D15,RTiP,1,Vegetative phase,24/11/2017,37,78,121,162,202
+Kandara,SR17,D15,RTiP,2,Vegetative phase,24/11/2017,40,67,101,130,169
+Kandara,SR17,D15,RTiP,3,Vegetative phase,24/11/2017,42,82,124,167,209
+Kandara,SR17,D15,RTiP,4,Vegetative phase,24/11/2017,38,50,61,74,87
+Kandara,SR17,D0,C,1,Vegetative phase,24/11/2017,41,90,135,165,196
+Kandara,SR17,D0,C,2,Vegetative phase,24/11/2017,38,80,105,141,176
+Kandara,SR17,D0,C,3,Vegetative phase,24/11/2017,34,62,98,130,166
+Kandara,SR17,D0,C,4,Vegetative phase,24/11/2017,36,72,109,149,191
+Kandara,SR17,D0,F,1,Vegetative phase,24/11/2017,30,68,107,146,188
+Kandara,SR17,D0,F,2,Vegetative phase,24/11/2017,37,77,116,144,171
+Kandara,SR17,D0,F,3,Vegetative phase,24/11/2017,37,79,122,161,201
+Kandara,SR17,D0,F,4,Vegetative phase,24/11/2017,32,69,109,121,154
+Kandara,SR17,D0,RF,1,Vegetative phase,24/11/2017,41,83,110,152,196
+Kandara,SR17,D0,RF,2,Vegetative phase,24/11/2017,28,68,107,137,169
+Kandara,SR17,D0,RF,3,Vegetative phase,24/11/2017,30,66,96,122,159
+Kandara,SR17,D0,RF,4,Vegetative phase,24/11/2017,30,68,100,111,122
+Kandara,SR17,D0,RFM,1,Vegetative phase,24/11/2017,34,73,114,154,194
+Kandara,SR17,D0,RFM,2,Vegetative phase,24/11/2017,37,80,121,163,193
+Kandara,SR17,D0,RFM,3,Vegetative phase,24/11/2017,34,70,104,131,165
+Kandara,SR17,D0,RFM,4,Vegetative phase,24/11/2017,32,64,77,89,100
+Kandara,SR17,D0,RML,1,Vegetative phase,24/11/2017,28,65,100,139,179
+Kandara,SR17,D0,RML,2,Vegetative phase,24/11/2017,33,68,105,143,183
+Kandara,SR17,D0,RML,3,Vegetative phase,24/11/2017,36,79,120,156,196
+Kandara,SR17,D0,RML,4,Vegetative phase,24/11/2017,37,75,115,155,196
+Kandara,SR17,D0,RTiM,1,Vegetative phase,24/11/2017,39,84,124,155,187
+Kandara,SR17,D0,RTiM,2,Vegetative phase,24/11/2017,30,71,111,152,192
+Kandara,SR17,D0,RTiM,3,Vegetative phase,24/11/2017,41,78,110,142,173
+Kandara,SR17,D0,RTiM,4,Vegetative phase,24/11/2017,36,74,112,149,187
+Kandara,SR17,D0,RTiP,1,Vegetative phase,24/11/2017,39,80,113,144,175
+Kandara,SR17,D0,RTiP,2,Vegetative phase,24/11/2017,39,80,119,158,195
+Kandara,SR17,D0,RTiP,3,Vegetative phase,24/11/2017,27,64,105,145,182
+Kandara,SR17,D0,RTiP,4,Vegetative phase,24/11/2017,36,63,76,86,96
+Kandara,SR17,D15,C,1,Vegetative phase,01/12/2017,34,75,120,166,210
+Kandara,SR17,D15,C,2,Vegetative phase,01/12/2017,42,89,135,184,227
+Kandara,SR17,D15,C,3,Vegetative phase,01/12/2017,35,65,93,130,164
+Kandara,SR17,D15,C,4,Vegetative phase,01/12/2017,40,66,80,93,105
+Kandara,SR17,D15,F,1,Vegetative phase,01/12/2017,38,73,104,130,154
+Kandara,SR17,D15,F,2,Vegetative phase,01/12/2017,36,66,99,137,176
+Kandara,SR17,D15,F,3,Vegetative phase,01/12/2017,36,75,111,138,164
+Kandara,SR17,D15,F,4,Vegetative phase,01/12/2017,38,77,109,118,126
+Kandara,SR17,D15,RF,1,Vegetative phase,01/12/2017,29,68,107,147,177
+Kandara,SR17,D15,RF,2,Vegetative phase,01/12/2017,34,73,114,157,199
+Kandara,SR17,D15,RF,3,Vegetative phase,01/12/2017,41,84,126,160,190
+Kandara,SR17,D15,RF,4,Vegetative phase,01/12/2017,37,77,104,115,125
+Kandara,SR17,D15,RFM,1,Vegetative phase,01/12/2017,35,72,113,155,197
+Kandara,SR17,D15,RFM,2,Vegetative phase,01/12/2017,46,85,124,154,181
+Kandara,SR17,D15,RFM,3,Vegetative phase,01/12/2017,28,72,118,161,195
+Kandara,SR17,D15,RFM,4,Vegetative phase,01/12/2017,36,75,116,153,188
+Kandara,SR17,D15,RML,1,Vegetative phase,01/12/2017,34,72,109,146,185
+Kandara,SR17,D15,RML,2,Vegetative phase,01/12/2017,38,75,102,135,174
+Kandara,SR17,D15,RML,3,Vegetative phase,01/12/2017,38,77,115,151,190
+Kandara,SR17,D15,RML,4,Vegetative phase,01/12/2017,38,75,107,117,147
+Kandara,SR17,D15,RTiM,1,Vegetative phase,01/12/2017,45,91,116,147,181
+Kandara,SR17,D15,RTiM,2,Vegetative phase,01/12/2017,43,78,117,158,198
+Kandara,SR17,D15,RTiM,3,Vegetative phase,01/12/2017,41,68,94,126,160
+Kandara,SR17,D15,RTiM,4,Vegetative phase,01/12/2017,44,56,64,103,148
+Kandara,SR17,D15,RTiP,1,Vegetative phase,01/12/2017,35,75,117,158,198
+Kandara,SR17,D15,RTiP,2,Vegetative phase,01/12/2017,41,68,102,131,171
+Kandara,SR17,D15,RTiP,3,Vegetative phase,01/12/2017,43,84,127,171,213
+Kandara,SR17,D15,RTiP,4,Vegetative phase,01/12/2017,39,51,63,75,89
+Kandara,SR17,D0,C,1,Vegetative phase,01/12/2017,43,92,137,167,198
+Kandara,SR17,D0,C,2,Vegetative phase,01/12/2017,40,82,107,144,179
+Kandara,SR17,D0,C,3,Vegetative phase,01/12/2017,36,65,101,134,169
+Kandara,SR17,D0,C,4,Vegetative phase,01/12/2017,36,73,111,151,193
+Kandara,SR17,D0,F,1,Vegetative phase,01/12/2017,32,71,110,150,191
+Kandara,SR17,D0,F,2,Vegetative phase,01/12/2017,38,78,117,145,173
+Kandara,SR17,D0,F,3,Vegetative phase,01/12/2017,41,84,127,166,208
+Kandara,SR17,D0,F,4,Vegetative phase,01/12/2017,35,73,113,125,158
+Kandara,SR17,D0,RF,1,Vegetative phase,01/12/2017,43,85,113,155,199
+Kandara,SR17,D0,RF,2,Vegetative phase,01/12/2017,32,72,112,143,175
+Kandara,SR17,D0,RF,3,Vegetative phase,01/12/2017,32,67,99,125,163
+Kandara,SR17,D0,RF,4,Vegetative phase,01/12/2017,32,71,103,114,125
+Kandara,SR17,D0,RFM,1,Vegetative phase,01/12/2017,37,75,108,138,175
+Kandara,SR17,D0,RFM,2,Vegetative phase,01/12/2017,42,86,128,170,195
+Kandara,SR17,D0,RFM,3,Vegetative phase,01/12/2017,37,73,108,136,169
+Kandara,SR17,D0,RFM,4,Vegetative phase,01/12/2017,33,65,76,86,96
+Kandara,SR17,D0,RML,1,Vegetative phase,01/12/2017,32,70,105,144,185
+Kandara,SR17,D0,RML,2,Vegetative phase,01/12/2017,36,72,107,146,187
+Kandara,SR17,D0,RML,3,Vegetative phase,01/12/2017,39,83,124,161,201
+Kandara,SR17,D0,RML,4,Vegetative phase,01/12/2017,39,79,120,161,201
+Kandara,SR17,D0,RTiM,1,Vegetative phase,01/12/2017,42,88,128,159,191
+Kandara,SR17,D0,RTiM,2,Vegetative phase,01/12/2017,34,75,115,156,197
+Kandara,SR17,D0,RTiM,3,Vegetative phase,01/12/2017,41,79,111,144,175
+Kandara,SR17,D0,RTiM,4,Vegetative phase,01/12/2017,37,76,115,152,190
+Kandara,SR17,D0,RTiP,1,Vegetative phase,01/12/2017,40,82,115,147,178
+Kandara,SR17,D0,RTiP,2,Vegetative phase,01/12/2017,40,83,123,162,200
+Kandara,SR17,D0,RTiP,3,Vegetative phase,01/12/2017,26,65,107,147,186
+Kandara,SR17,D0,RTiP,4,Vegetative phase,01/12/2017,38,66,78,89,99
+Kandara,SR17,D15,C,1,Vegetative phase,09/12/2017,27,65,109,155,198
+Kandara,SR17,D15,C,2,Vegetative phase,09/12/2017,36,81,126,171,213
+Kandara,SR17,D15,C,3,Vegetative phase,09/12/2017,32,61,88,124,157
+Kandara,SR17,D15,C,4,Vegetative phase,09/12/2017,38,64,77,90,101
+Kandara,SR17,D15,F,1,Vegetative phase,09/12/2017,32,65,94,118,142
+Kandara,SR17,D15,F,2,Vegetative phase,09/12/2017,31,59,90,125,163
+Kandara,SR17,D15,F,3,Vegetative phase,09/12/2017,30,64,97,123,148
+Kandara,SR17,D15,F,4,Vegetative phase,09/12/2017,34,70,101,109,117
+Kandara,SR17,D15,RF,1,Vegetative phase,09/12/2017,31,65,102,141,170
+Kandara,SR17,D15,RF,2,Vegetative phase,09/12/2017,26,61,99,139,179
+Kandara,SR17,D15,RF,3,Vegetative phase,09/12/2017,36,75,113,146,175
+Kandara,SR17,D15,RF,4,Vegetative phase,09/12/2017,30,66,79,90,99
+Kandara,SR17,D15,RFM,1,Vegetative phase,09/12/2017,28,62,100,140,180
+Kandara,SR17,D15,RFM,2,Vegetative phase,09/12/2017,39,75,112,141,167
+Kandara,SR17,D15,RFM,3,Vegetative phase,09/12/2017,32,71,115,155,189
+Kandara,SR17,D15,RFM,4,Vegetative phase,09/12/2017,29,64,101,136,170
+Kandara,SR17,D15,RML,1,Vegetative phase,09/12/2017,29,64,101,137,174
+Kandara,SR17,D15,RML,2,Vegetative phase,09/12/2017,33,68,94,126,164
+Kandara,SR17,D15,RML,3,Vegetative phase,09/12/2017,32,67,104,140,177
+Kandara,SR17,D15,RML,4,Vegetative phase,09/12/2017,30,65,95,105,134
+Kandara,SR17,D15,RTiM,1,Vegetative phase,09/12/2017,39,83,106,137,169
+Kandara,SR17,D15,RTiM,2,Vegetative phase,09/12/2017,39,69,106,143,180
+Kandara,SR17,D15,RTiM,3,Vegetative phase,09/12/2017,39,65,90,120,153
+Kandara,SR17,D15,RTiM,4,Vegetative phase,09/12/2017,38,50,58,95,139
+Kandara,SR17,D15,RTiP,1,Vegetative phase,09/12/2017,36,76,118,159,200
+Kandara,SR17,D15,RTiP,2,Vegetative phase,09/12/2017,39,65,98,127,166
+Kandara,SR17,D15,RTiP,3,Vegetative phase,09/12/2017,40,79,120,163,204
+Kandara,SR17,D15,RTiP,4,Vegetative phase,09/12/2017,35,47,58,71,84
+Kandara,SR17,D0,C,1,Vegetative phase,09/12/2017,38,86,130,160,190
+Kandara,SR17,D0,C,2,Vegetative phase,09/12/2017,36,78,103,138,173
+Kandara,SR17,D0,C,3,Vegetative phase,09/12/2017,30,58,94,125,161
+Kandara,SR17,D0,C,4,Vegetative phase,09/12/2017,34,70,106,146,188
+Kandara,SR17,D0,F,1,Vegetative phase,09/12/2017,26,60,96,135,175
+Kandara,SR17,D0,F,2,Vegetative phase,09/12/2017,33,71,109,135,162
+Kandara,SR17,D0,F,3,Vegetative phase,09/12/2017,35,74,114,151,190
+Kandara,SR17,D0,F,4,Vegetative phase,09/12/2017,28,62,98,110,142
+Kandara,SR17,D0,RF,1,Vegetative phase,09/12/2017,36,74,102,143,186
+Kandara,SR17,D0,RF,2,Vegetative phase,09/12/2017,27,63,101,130,161
+Kandara,SR17,D0,RF,3,Vegetative phase,09/12/2017,26,58,85,114,149
+Kandara,SR17,D0,RF,4,Vegetative phase,09/12/2017,26,60,91,101,112
+Kandara,SR17,D0,RFM,1,Vegetative phase,09/12/2017,34,72,111,151,190
+Kandara,SR17,D0,RFM,2,Vegetative phase,09/12/2017,35,76,116,156,185
+Kandara,SR17,D0,RFM,3,Vegetative phase,09/12/2017,31,64,96,121,154
+Kandara,SR17,D0,RFM,4,Vegetative phase,09/12/2017,28,57,69,81,92
+Kandara,SR17,D0,RML,1,Vegetative phase,09/12/2017,26,61,95,134,173
+Kandara,SR17,D0,RML,2,Vegetative phase,09/12/2017,29,62,96,134,173
+Kandara,SR17,D0,RML,3,Vegetative phase,09/12/2017,31,71,110,146,184
+Kandara,SR17,D0,RML,4,Vegetative phase,09/12/2017,33,69,107,146,184
+Kandara,SR17,D0,RTiM,1,Vegetative phase,09/12/2017,36,79,117,149,179
+Kandara,SR17,D0,RTiM,2,Vegetative phase,09/12/2017,27,64,102,143,182
+Kandara,SR17,D0,RTiM,3,Vegetative phase,09/12/2017,38,75,106,137,168
+Kandara,SR17,D0,RTiM,4,Vegetative phase,09/12/2017,32,68,106,142,179
+Kandara,SR17,D0,RTiP,1,Vegetative phase,09/12/2017,36,76,109,141,171
+Kandara,SR17,D0,RTiP,2,Vegetative phase,09/12/2017,35,75,113,152,188
+Kandara,SR17,D0,RTiP,3,Vegetative phase,09/12/2017,34,69,109,150,188
+Kandara,SR17,D0,RTiP,4,Vegetative phase,09/12/2017,33,58,71,81,91
+Kandara,SR17,D15,C,1,Vegetative phase,15/12/2017,32,67,110,155,198
+Kandara,SR17,D15,C,2,Vegetative phase,15/12/2017,33,76,120,165,206
+Kandara,SR17,D15,C,3,Vegetative phase,15/12/2017,29,56,84,119,152
+Kandara,SR17,D15,C,4,Vegetative phase,15/12/2017,34,46,58,71,83
+Kandara,SR17,D15,F,1,Vegetative phase,15/12/2017,30,61,88,112,134
+Kandara,SR17,D15,F,2,Vegetative phase,15/12/2017,29,55,85,117,153
+Kandara,SR17,D15,F,3,Vegetative phase,15/12/2017,27,60,93,118,141
+Kandara,SR17,D15,F,4,Vegetative phase,15/12/2017,30,63,93,101,109
+Kandara,SR17,D15,RF,1,Vegetative phase,15/12/2017,28,58,93,131,160
+Kandara,SR17,D15,RF,2,Vegetative phase,15/12/2017,26,58,94,132,171
+Kandara,SR17,D15,RF,3,Vegetative phase,15/12/2017,31,68,105,137,166
+Kandara,SR17,D15,RF,4,Vegetative phase,15/12/2017,27,62,74,84,94
+Kandara,SR17,D15,RFM,1,Vegetative phase,15/12/2017,26,57,92,131,169
+Kandara,SR17,D15,RFM,2,Vegetative phase,15/12/2017,35,67,103,132,158
+Kandara,SR17,D15,RFM,3,Vegetative phase,15/12/2017,28,63,105,144,176
+Kandara,SR17,D15,RFM,4,Vegetative phase,15/12/2017,25,57,92,124,157
+Kandara,SR17,D15,RML,1,Vegetative phase,15/12/2017,26,59,95,131,168
+Kandara,SR17,D15,RML,2,Vegetative phase,15/12/2017,31,65,90,121,159
+Kandara,SR17,D15,RML,3,Vegetative phase,15/12/2017,30,64,99,134,170
+Kandara,SR17,D15,RML,4,Vegetative phase,15/12/2017,27,58,88,98,124
+Kandara,SR17,D15,RTiM,1,Vegetative phase,15/12/2017,36,77,100,130,162
+Kandara,SR17,D15,RTiM,2,Vegetative phase,15/12/2017,36,63,98,134,171
+Kandara,SR17,D15,RTiM,3,Vegetative phase,15/12/2017,37,63,87,117,149
+Kandara,SR17,D15,RTiM,4,Vegetative phase,15/12/2017,34,44,52,90,133
+Kandara,SR17,D15,RTiP,1,Vegetative phase,15/12/2017,33,73,115,155,195
+Kandara,SR17,D15,RTiP,2,Vegetative phase,15/12/2017,37,63,96,124,165
+Kandara,SR17,D15,RTiP,3,Vegetative phase,15/12/2017,36,73,112,154,195
+Kandara,SR17,D15,RTiP,4,Vegetative phase,15/12/2017,31,42,54,66,79
+Kandara,SR17,D0,C,1,Vegetative phase,15/12/2017,34,79,122,152,182
+Kandara,SR17,D0,C,2,Vegetative phase,15/12/2017,34,73,104,139,172
+Kandara,SR17,D0,C,3,Vegetative phase,15/12/2017,27,52,86,117,152
+Kandara,SR17,D0,C,4,Vegetative phase,15/12/2017,31,66,102,140,181
+Kandara,SR17,D0,F,1,Vegetative phase,15/12/2017,28,60,93,129,168
+Kandara,SR17,D0,F,2,Vegetative phase,15/12/2017,29,64,100,130,156
+Kandara,SR17,D0,F,3,Vegetative phase,15/12/2017,32,68,105,140,176
+Kandara,SR17,D0,F,4,Vegetative phase,15/12/2017,28,59,93,103,134
+Kandara,SR17,D0,RF,1,Vegetative phase,15/12/2017,32,67,93,131,173
+Kandara,SR17,D0,RF,2,Vegetative phase,15/12/2017,26,60,96,125,155
+Kandara,SR17,D0,RF,3,Vegetative phase,15/12/2017,26,55,82,110,144
+Kandara,SR17,D0,RF,4,Vegetative phase,15/12/2017,27,57,86,97,107
+Kandara,SR17,D0,RFM,1,Vegetative phase,15/12/2017,29,66,103,140,177
+Kandara,SR17,D0,RFM,2,Vegetative phase,15/12/2017,32,70,108,147,175
+Kandara,SR17,D0,RFM,3,Vegetative phase,15/12/2017,28,57,88,113,145
+Kandara,SR17,D0,RFM,4,Vegetative phase,15/12/2017,25,53,64,76,86
+Kandara,SR17,D0,RML,1,Vegetative phase,15/12/2017,28,60,93,131,171
+Kandara,SR17,D0,RML,2,Vegetative phase,15/12/2017,26,56,89,126,165
+Kandara,SR17,D0,RML,3,Vegetative phase,15/12/2017,28,64,100,133,171
+Kandara,SR17,D0,RML,4,Vegetative phase,15/12/2017,30,64,100,137,175
+Kandara,SR17,D0,RTiM,1,Vegetative phase,15/12/2017,32,74,111,141,172
+Kandara,SR17,D0,RTiM,2,Vegetative phase,15/12/2017,25,61,97,136,175
+Kandara,SR17,D0,RTiM,3,Vegetative phase,15/12/2017,36,72,103,134,164
+Kandara,SR17,D0,RTiM,4,Vegetative phase,15/12/2017,28,61,97,132,168
+Kandara,SR17,D0,RTiP,1,Vegetative phase,15/12/2017,33,71,103,134,164
+Kandara,SR17,D0,RTiP,2,Vegetative phase,15/12/2017,32,70,108,146,183
+Kandara,SR17,D0,RTiP,3,Vegetative phase,15/12/2017,32,63,101,140,176
+Kandara,SR17,D0,RTiP,4,Vegetative phase,15/12/2017,32,44,56,66,76
+Kandara,SR17,D15,C,1,Vegetative phase,22/12/2017,31,64,105,149,190
+Kandara,SR17,D15,C,2,Vegetative phase,22/12/2017,34,75,118,162,202
+Kandara,SR17,D15,C,3,Vegetative phase,22/12/2017,27,54,80,115,147
+Kandara,SR17,D15,C,4,Vegetative phase,22/12/2017,33,44,56,68,80
+Kandara,SR17,D15,F,1,Vegetative phase,22/12/2017,30,60,86,109,131
+Kandara,SR17,D15,F,2,Vegetative phase,22/12/2017,27,52,81,112,146
+Kandara,SR17,D15,F,3,Vegetative phase,22/12/2017,29,60,92,115,138
+Kandara,SR17,D15,F,4,Vegetative phase,22/12/2017,34,66,94,102,109
+Kandara,SR17,D15,RF,1,Vegetative phase,22/12/2017,29,58,91,126,153
+Kandara,SR17,D15,RF,2,Vegetative phase,22/12/2017,27,58,92,129,166
+Kandara,SR17,D15,RF,3,Vegetative phase,22/12/2017,31,67,105,135,163
+Kandara,SR17,D15,RF,4,Vegetative phase,22/12/2017,30,64,76,86,95
+Kandara,SR17,D15,RFM,1,Vegetative phase,22/12/2017,26,55,90,126,163
+Kandara,SR17,D15,RFM,2,Vegetative phase,22/12/2017,37,68,101,128,157
+Kandara,SR17,D15,RFM,3,Vegetative phase,22/12/2017,30,64,103,141,172
+Kandara,SR17,D15,RFM,4,Vegetative phase,22/12/2017,28,60,94,126,157
+Kandara,SR17,D15,RML,1,Vegetative phase,22/12/2017,28,59,92,127,163
+Kandara,SR17,D15,RML,2,Vegetative phase,22/12/2017,31,63,94,124,160
+Kandara,SR17,D15,RML,3,Vegetative phase,22/12/2017,29,61,95,128,164
+Kandara,SR17,D15,RML,4,Vegetative phase,22/12/2017,26,56,84,93,120
+Kandara,SR17,D15,RTiM,1,Vegetative phase,22/12/2017,36,75,97,127,158
+Kandara,SR17,D15,RTiM,2,Vegetative phase,22/12/2017,34,61,93,128,164
+Kandara,SR17,D15,RTiM,3,Vegetative phase,22/12/2017,35,63,86,116,147
+Kandara,SR17,D15,RTiM,4,Vegetative phase,22/12/2017,32,42,49,87,130
+Kandara,SR17,D15,RTiP,1,Vegetative phase,22/12/2017,31,70,111,150,189
+Kandara,SR17,D15,RTiP,2,Vegetative phase,22/12/2017,35,60,92,120,158
+Kandara,SR17,D15,RTiP,3,Vegetative phase,22/12/2017,35,70,108,149,190
+Kandara,SR17,D15,RTiP,4,Vegetative phase,22/12/2017,30,41,52,64,77
+Kandara,SR17,D0,C,1,Vegetative phase,22/12/2017,33,76,118,147,176
+Kandara,SR17,D0,C,2,Vegetative phase,22/12/2017,33,71,101,135,168
+Kandara,SR17,D0,C,3,Vegetative phase,22/12/2017,27,66,99,129,164
+Kandara,SR17,D0,C,4,Vegetative phase,22/12/2017,29,62,97,136,176
+Kandara,SR17,D0,F,1,Vegetative phase,22/12/2017,30,60,93,126,163
+Kandara,SR17,D0,F,2,Vegetative phase,22/12/2017,28,61,95,125,159
+Kandara,SR17,D0,F,3,Vegetative phase,22/12/2017,32,67,104,137,172
+Kandara,SR17,D0,F,4,Vegetative phase,22/12/2017,30,60,93,103,133
+Kandara,SR17,D0,RF,1,Vegetative phase,22/12/2017,31,65,94,131,171
+Kandara,SR17,D0,RF,2,Vegetative phase,22/12/2017,27,60,94,122,151
+Kandara,SR17,D0,RF,3,Vegetative phase,22/12/2017,28,55,81,108,140
+Kandara,SR17,D0,RF,4,Vegetative phase,22/12/2017,28,58,86,96,106
+Kandara,SR17,D0,RFM,1,Vegetative phase,22/12/2017,32,68,104,140,176
+Kandara,SR17,D0,RFM,2,Vegetative phase,22/12/2017,34,71,107,145,172
+Kandara,SR17,D0,RFM,3,Vegetative phase,22/12/2017,27,55,85,111,142
+Kandara,SR17,D0,RFM,4,Vegetative phase,22/12/2017,25,52,63,74,84
+Kandara,SR17,D0,RML,1,Vegetative phase,22/12/2017,28,59,90,127,166
+Kandara,SR17,D0,RML,2,Vegetative phase,22/12/2017,26,54,85,120,156
+Kandara,SR17,D0,RML,3,Vegetative phase,22/12/2017,28,63,97,129,164
+Kandara,SR17,D0,RML,4,Vegetative phase,22/12/2017,30,62,97,132,168
+Kandara,SR17,D0,RTiM,1,Vegetative phase,22/12/2017,32,72,107,137,167
+Kandara,SR17,D0,RTiM,2,Vegetative phase,22/12/2017,28,63,98,136,174
+Kandara,SR17,D0,RTiM,3,Vegetative phase,22/12/2017,35,70,100,130,160
+Kandara,SR17,D0,RTiM,4,Vegetative phase,22/12/2017,28,59,93,128,163
+Kandara,SR17,D0,RTiP,1,Vegetative phase,22/12/2017,34,70,101,131,161
+Kandara,SR17,D0,RTiP,2,Vegetative phase,22/12/2017,31,67,103,140,176
+Kandara,SR17,D0,RTiP,3,Vegetative phase,22/12/2017,32,63,99,135,170
+Kandara,SR17,D0,RTiP,4,Vegetative phase,22/12/2017,32,43,55,65,74
+Kandara,SR17,D15,C,1,Grain formation/filling phase,05/01/2018,26,54,90,132,171
+Kandara,SR17,D15,C,2,Grain formation/filling phase,05/01/2018,28,62,101,142,181
+Kandara,SR17,D15,C,3,Grain formation/filling phase,05/01/2018,26,54,80,113,144
+Kandara,SR17,D15,C,4,Grain formation/filling phase,05/01/2018,28,38,49,61,71
+Kandara,SR17,D15,F,1,Grain formation/filling phase,05/01/2018,26,53,79,101,122
+Kandara,SR17,D15,F,2,Grain formation/filling phase,05/01/2018,26,55,82,112,144
+Kandara,SR17,D15,F,3,Grain formation/filling phase,05/01/2018,25,55,85,108,130
+Kandara,SR17,D15,F,4,Grain formation/filling phase,05/01/2018,26,57,83,91,98
+Kandara,SR17,D15,RF,1,Grain formation/filling phase,05/01/2018,24,50,77,109,135
+Kandara,SR17,D15,RF,2,Grain formation/filling phase,05/01/2018,23,51,82,118,153
+Kandara,SR17,D15,RF,3,Grain formation/filling phase,05/01/2018,26,58,96,125,151
+Kandara,SR17,D15,RF,4,Grain formation/filling phase,05/01/2018,22,54,65,74,83
+Kandara,SR17,D15,RFM,1,Grain formation/filling phase,05/01/2018,23,48,79,113,148
+Kandara,SR17,D15,RFM,2,Grain formation/filling phase,05/01/2018,28,55,83,109,136
+Kandara,SR17,D15,RFM,3,Grain formation/filling phase,05/01/2018,25,53,86,119,148
+Kandara,SR17,D15,RFM,4,Grain formation/filling phase,05/01/2018,23,51,84,115,143
+Kandara,SR17,D15,RML,1,Grain formation/filling phase,05/01/2018,25,54,85,116,149
+Kandara,SR17,D15,RML,2,Grain formation/filling phase,05/01/2018,27,57,87,115,148
+Kandara,SR17,D15,RML,3,Grain formation/filling phase,05/01/2018,26,56,87,118,152
+Kandara,SR17,D15,RML,4,Grain formation/filling phase,05/01/2018,25,52,78,87,112
+Kandara,SR17,D15,RTiM,1,Grain formation/filling phase,05/01/2018,30,64,84,112,142
+Kandara,SR17,D15,RTiM,2,Grain formation/filling phase,05/01/2018,29,53,80,112,146
+Kandara,SR17,D15,RTiM,3,Grain formation/filling phase,05/01/2018,29,54,75,103,133
+Kandara,SR17,D15,RTiM,4,Grain formation/filling phase,05/01/2018,26,35,42,78,119
+Kandara,SR17,D15,RTiP,1,Grain formation/filling phase,05/01/2018,27,61,99,136,174
+Kandara,SR17,D15,RTiP,2,Grain formation/filling phase,05/01/2018,32,60,89,116,154
+Kandara,SR17,D15,RTiP,3,Grain formation/filling phase,05/01/2018,30,62,98,136,174
+Kandara,SR17,D15,RTiP,4,Grain formation/filling phase,05/01/2018,27,37,47,59,71
+Kandara,SR17,D0,C,1,Grain formation/filling phase,05/01/2018,28,65,103,130,157
+Kandara,SR17,D0,C,2,Grain formation/filling phase,05/01/2018,28,63,91,123,153
+Kandara,SR17,D0,C,3,Grain formation/filling phase,05/01/2018,27,60,91,119,151
+Kandara,SR17,D0,C,4,Grain formation/filling phase,05/01/2018,27,56,87,123,161
+Kandara,SR17,D0,F,1,Grain formation/filling phase,05/01/2018,26,53,83,115,150
+Kandara,SR17,D0,F,2,Grain formation/filling phase,05/01/2018,26,57,90,118,151
+Kandara,SR17,D0,F,3,Grain formation/filling phase,05/01/2018,28,59,93,126,159
+Kandara,SR17,D0,F,4,Grain formation/filling phase,05/01/2018,25,52,83,93,122
+Kandara,SR17,D0,RF,1,Grain formation/filling phase,05/01/2018,27,56,83,118,155
+Kandara,SR17,D0,RF,2,Grain formation/filling phase,05/01/2018,23,53,85,111,139
+Kandara,SR17,D0,RF,3,Grain formation/filling phase,05/01/2018,24,52,80,105,137
+Kandara,SR17,D0,RF,4,Grain formation/filling phase,05/01/2018,23,51,77,86,96
+Kandara,SR17,D0,RFM,1,Grain formation/filling phase,05/01/2018,26,59,93,128,162
+Kandara,SR17,D0,RFM,2,Grain formation/filling phase,05/01/2018,28,62,97,132,158
+Kandara,SR17,D0,RFM,3,Grain formation/filling phase,05/01/2018,26,52,80,109,137
+Kandara,SR17,D0,RFM,4,Grain formation/filling phase,05/01/2018,26,37,47,58,67
+Kandara,SR17,D0,RML,1,Grain formation/filling phase,05/01/2018,24,51,78,112,146
+Kandara,SR17,D0,RML,2,Grain formation/filling phase,05/01/2018,24,53,80,113,147
+Kandara,SR17,D0,RML,3,Grain formation/filling phase,05/01/2018,24,55,86,116,149
+Kandara,SR17,D0,RML,4,Grain formation/filling phase,05/01/2018,26,56,89,123,157
+Kandara,SR17,D0,RTiM,1,Grain formation/filling phase,05/01/2018,27,64,96,124,152
+Kandara,SR17,D0,RTiM,2,Grain formation/filling phase,05/01/2018,28,59,92,126,161
+Kandara,SR17,D0,RTiM,3,Grain formation/filling phase,05/01/2018,31,63,90,118,146
+Kandara,SR17,D0,RTiM,4,Grain formation/filling phase,05/01/2018,27,56,88,121,154
+Kandara,SR17,D0,RTiP,1,Grain formation/filling phase,05/01/2018,28,62,91,119,147
+Kandara,SR17,D0,RTiP,2,Grain formation/filling phase,05/01/2018,28,61,95,131,166
+Kandara,SR17,D0,RTiP,3,Grain formation/filling phase,05/01/2018,28,56,87,121,153
+Kandara,SR17,D0,RTiP,4,Grain formation/filling phase,05/01/2018,28,39,49,59,68
+Kandara,SR17,D15,C,1,Grain formation/filling phase,12/01/2018,26,53,88,129,166
+Kandara,SR17,D15,C,2,Grain formation/filling phase,12/01/2018,28,60,96,135,172
+Kandara,SR17,D15,C,3,Grain formation/filling phase,12/01/2018,25,52,81,113,143
+Kandara,SR17,D15,C,4,Grain formation/filling phase,12/01/2018,27,36,47,58,68
+Kandara,SR17,D15,F,1,Grain formation/filling phase,12/01/2018,25,51,77,98,119
+Kandara,SR17,D15,F,2,Grain formation/filling phase,12/01/2018,25,53,80,109,141
+Kandara,SR17,D15,F,3,Grain formation/filling phase,12/01/2018,24,54,83,105,127
+Kandara,SR17,D15,F,4,Grain formation/filling phase,12/01/2018,25,55,81,88,95
+Kandara,SR17,D15,RF,1,Grain formation/filling phase,12/01/2018,24,53,80,111,134
+Kandara,SR17,D15,RF,2,Grain formation/filling phase,12/01/2018,23,50,80,114,149
+Kandara,SR17,D15,RF,3,Grain formation/filling phase,12/01/2018,26,58,95,123,149
+Kandara,SR17,D15,RF,4,Grain formation/filling phase,12/01/2018,22,52,63,72,81
+Kandara,SR17,D15,RFM,1,Grain formation/filling phase,12/01/2018,19,47,78,110,132
+Kandara,SR17,D15,RFM,2,Grain formation/filling phase,12/01/2018,19,47,78,110,132
+Kandara,SR17,D15,RFM,3,Grain formation/filling phase,12/01/2018,20,48,79,111,135
+Kandara,SR17,D15,RFM,4,Grain formation/filling phase,12/01/2018,18,46,77,108,136
+Kandara,SR17,D15,RML,1,Grain formation/filling phase,12/01/2018,25,51,80,111,144
+Kandara,SR17,D15,RML,2,Grain formation/filling phase,12/01/2018,26,56,84,111,144
+Kandara,SR17,D15,RML,3,Grain formation/filling phase,12/01/2018,25,54,84,114,147
+Kandara,SR17,D15,RML,4,Grain formation/filling phase,12/01/2018,25,50,76,84,109
+Kandara,SR17,D15,RTiM,1,Grain formation/filling phase,12/01/2018,29,61,81,108,137
+Kandara,SR17,D15,RTiM,2,Grain formation/filling phase,12/01/2018,27,51,76,106,139
+Kandara,SR17,D15,RTiM,3,Grain formation/filling phase,12/01/2018,27,51,71,98,128
+Kandara,SR17,D15,RTiM,4,Grain formation/filling phase,12/01/2018,25,34,40,75,116
+Kandara,SR17,D15,RTiP,1,Grain formation/filling phase,12/01/2018,26,59,95,131,167
+Kandara,SR17,D15,RTiP,2,Grain formation/filling phase,12/01/2018,31,58,87,114,151
+Kandara,SR17,D15,RTiP,3,Grain formation/filling phase,12/01/2018,29,60,96,134,173
+Kandara,SR17,D15,RTiP,4,Grain formation/filling phase,12/01/2018,26,35,46,57,69
+Kandara,SR17,D0,C,1,Grain formation/filling phase,12/01/2018,27,62,98,125,152
+Kandara,SR17,D0,C,2,Grain formation/filling phase,12/01/2018,28,62,89,120,149
+Kandara,SR17,D0,C,3,Grain formation/filling phase,12/01/2018,26,58,88,115,147
+Kandara,SR17,D0,C,4,Grain formation/filling phase,12/01/2018,26,53,84,118,156
+Kandara,SR17,D0,F,1,Grain formation/filling phase,12/01/2018,25,52,81,112,146
+Kandara,SR17,D0,F,2,Grain formation/filling phase,12/01/2018,26,57,89,117,149
+Kandara,SR17,D0,F,3,Grain formation/filling phase,12/01/2018,27,56,89,121,155
+Kandara,SR17,D0,F,4,Grain formation/filling phase,12/01/2018,25,51,81,90,119
+Kandara,SR17,D0,RF,1,Grain formation/filling phase,12/01/2018,26,53,79,112,148
+Kandara,SR17,D0,RF,2,Grain formation/filling phase,12/01/2018,22,52,82,107,135
+Kandara,SR17,D0,RF,3,Grain formation/filling phase,12/01/2018,23,50,76,101,132
+Kandara,SR17,D0,RF,4,Grain formation/filling phase,12/01/2018,23,49,74,83,93
+Kandara,SR17,D0,RFM,1,Grain formation/filling phase,12/01/2018,26,57,90,124,157
+Kandara,SR17,D0,RFM,2,Grain formation/filling phase,12/01/2018,28,61,95,130,155
+Kandara,SR17,D0,RFM,3,Grain formation/filling phase,12/01/2018,25,51,78,107,135
+Kandara,SR17,D0,RFM,4,Grain formation/filling phase,12/01/2018,26,36,46,57,66
+Kandara,SR17,D0,RML,1,Grain formation/filling phase,12/01/2018,24,51,78,110,145
+Kandara,SR17,D0,RML,2,Grain formation/filling phase,12/01/2018,24,52,77,108,142
+Kandara,SR17,D0,RML,3,Grain formation/filling phase,12/01/2018,23,53,84,114,146
+Kandara,SR17,D0,RML,4,Grain formation/filling phase,12/01/2018,26,54,87,120,154
+Kandara,SR17,D0,RTiM,1,Grain formation/filling phase,12/01/2018,26,62,94,121,148
+Kandara,SR17,D0,RTiM,2,Grain formation/filling phase,12/01/2018,26,57,89,122,156
+Kandara,SR17,D0,RTiM,3,Grain formation/filling phase,12/01/2018,30,60,87,115,142
+Kandara,SR17,D0,RTiM,4,Grain formation/filling phase,12/01/2018,26,54,85,117,149
+Kandara,SR17,D0,RTiP,1,Grain formation/filling phase,12/01/2018,28,61,89,117,144
+Kandara,SR17,D0,RTiP,2,Grain formation/filling phase,12/01/2018,28,60,92,127,161
+Kandara,SR17,D0,RTiP,3,Grain formation/filling phase,12/01/2018,28,55,86,119,150
+Kandara,SR17,D0,RTiP,4,Grain formation/filling phase,12/01/2018,28,38,48,58,67

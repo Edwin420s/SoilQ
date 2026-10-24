@@ -1,0 +1,46 @@
+{
+  "strategy": "StratifiedKFold (5 splits, seed=42)",
+  "n_samples": 448,
+  "features": [
+    "Height_6th",
+    "Height_10th",
+    "SPAD_6th",
+    "SPAD_10th",
+    "Stover_Mg/ha"
+  ],
+  "target": "high_yield",
+  "models": {
+    "LogisticRegression": {
+      "accuracy_mean": 0.846,
+      "accuracy_std": 0.0276,
+      "f1_mean": 0.8373,
+      "f1_std": 0.0285,
+      "roc_auc_mean": 0.8937,
+      "roc_auc_std": 0.0296
+    },
+    "RBF_SVM": {
+      "accuracy_mean": 0.8415,
+      "accuracy_std": 0.0313,
+      "f1_mean": 0.8265,
+      "f1_std": 0.0362,
+      "roc_auc_mean": 0.9002,
+      "roc_auc_std": 0.0166
+    },
+    "RandomForest": {
+      "accuracy_mean": 0.8705,
+      "accuracy_std": 0.0338,
+      "f1_mean": 0.8634,
+      "f1_std": 0.0396,
+      "roc_auc_mean": 0.9336,
+      "roc_auc_std": 0.0217
+    },
+    "QuantumKernelClassifier": {
+      "accuracy_mean": 0.7322,
+      "accuracy_std": 0.0301,
+      "f1_mean": 0.7285,
+      "f1_std": 0.0185,
+      "roc_auc_mean": 0.8103,
+      "roc_auc_std": 0.0391
+    }
+  }
+}
