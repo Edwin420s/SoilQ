@@ -289,7 +289,7 @@ predictions = predict_from_model_dir("models/notebook_experiment", test_sample)
 for model, p in predictions.items():
  print(f"{model:<30} -> Predicted: {'High Yield' if p['prediction'] == 1 else 'Low Yield'} (P={p['probability_positive']*100:.1f}%)")
 """),
- make_cell("markdown", """## 5. Conclusions & Hackathon Discussion
+        make_cell("markdown", """## 5. Conclusions & Scientific Discussion
 - **Classical vs Quantum Comparison**: Classical models (Random Forest ROC-AUC 0.90, RBF SVM ROC-AUC 0.85) outperform current simulated quantum models (QSVM ROC-AUC 0.78, VQC ROC-AUC 0.71).
 - **QML Viability**: Both the Variational Classifier (VQC) and Quantum Kernel (QSVM) learn non-trivial decision boundaries on real agricultural field trial data without barren plateau collapse.
 - **Agronomic Validity**: Chlorophyll SPAD and stover biomass provide strong early-to-mid season proxies for final grain yield, confirming that non-destructive vegetative monitoring can inform harvest forecasting.

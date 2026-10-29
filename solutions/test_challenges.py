@@ -1,6 +1,6 @@
 """
-Automated Pytest Test Suite for all 8 Hackathon Challenges.
-Qiskit Fall Fest Nairobi 2026
+Automated Pytest Test Suite for all 8 Quantum Algorithm Modules.
+SoilQ Quantum Engine
 """
 import math
 import numpy as np

@@ -1,132 +1,162 @@
-# SoilQ — Quantum-Assisted Maize Agronomy & Machine Learning Platform
+# SoilQ -- Quantum-Assisted Smallholder Agronomy & Decision Support Platform
 
 [![Python 3.14](https://img.shields.io/badge/Python-3.14.8-blue.svg)](https://www.python.org/)
 [![Qiskit 2.6](https://img.shields.io/badge/Qiskit-2.6.1-613394.svg)](https://qiskit.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-1.0.0-009688.svg)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.66-FF4B4B.svg)](https://streamlit.io/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Tests Passing](https://img.shields.io/badge/Tests-66%20Passing-brightgreen.svg)]()
 
-An enterprise research and deployment platform pairing **quantum machine learning (Qiskit 2.x)** with **classical machine learning (Scikit-Learn)** on real-world Kenyan agricultural field-experiment data (*Mutuku et al., Mendeley Data CC BY 4.0*).
-
-Built for the **Qiskit Fall Fest Nairobi 2026 Hackathon (Challenge 08: Quantum AI Classifier & Real-World Stretch Challenge)**, achieving maximum criteria score (**110 / 110 points**).
+SoilQ is an enterprise-grade agricultural intelligence and decision-support platform pairing **quantum machine learning (Qiskit 2.x)** with **classical machine learning (Scikit-Learn)** to address crop productivity and soil fertility challenges in Sub-Saharan Africa. The system models smallholder maize yield outcomes using multi-season field trial data from Kenya (*Mutuku et al., Mendeley Data CC BY 4.0*).
 
 ---
 
-##  System Architecture
+## 1. Problem Statement & Agronomic Solution
+
+Smallholder maize farming in Kenya suffers from chronic yield gaps driven by acidic Humic Nitisols, unpredictable bimodal rainfall, and delayed detection of crop stress. 
+
+**SoilQ solves this by:**
+- Transforming multi-season field trial data (448 plots across Chuka and Kandara) into an analysis-ready predictive foundation.
+- Deploying hybrid quantum-classical machine learning architectures:
+  - **Variational Quantum Classifier (VQC)**: Parameterized ansatz with continuous angle encoding and ring CNOT entanglement.
+  - **Quantum Kernel Support Vector Machine (QSVM)**: Exact quantum state fidelity evaluation in Hilbert space.
+- Benchmarking quantum models against classical baselines (Random Forest, Logistic Regression, RBF SVM).
+- Providing practical decision-support interfaces: an interactive **Streamlit Advisory Dashboard** and a **FastAPI REST Microservice** for field agronomists.
+
+---
+
+## 2. System Architecture
 
 ```
-┌────────────────────────────────────────────────────────────────────────┐
-│ Raw Agronomy Data Layer │
-│ Maize Yield · Plant Height · SPAD Chlorophyll · Soil Moisture · Rain │
-└───────────────────────────────────┬────────────────────────────────────┘
- │ Plot-level aggregation & merge
- ▼
-┌────────────────────────────────────────────────────────────────────────┐
-│ Analysis-Ready Processed Dataset │
-│ 448 Plots · Balanced 50/50 Proxy Target (high_yield: >0.735 Mg/ha) │
-└──────────────────┬─────────────────────────────────┬───────────────────┘
- │ │
- ▼ ▼
-┌──────────────────────────────────────┐ ┌──────────────────────────────┐
-│ Classical ML Pipelines │ │ Quantum ML Pipelines │
-│ • Logistic Regression │ │ • Variational VQC (Statevec)│
-│ • Support Vector Classifier (RBF) │ │ • Quantum Kernel (QSVM) │
-│ • Random Forest (250 estimators) │ │ • Pauli-Z Expectation <Z_0> │
-└──────────────────┬───────────────────┘ └──────────────┬───────────────┘
- │ │
- └──────────────────┬──────────────────┘
- ▼
-┌────────────────────────────────────────────────────────────────────────┐
-│ Serving & Interface Layer │
-│ • FastAPI REST Endpoints (/health, /predict, /train, /circuit, /audit)│
-│ • Streamlit Research Dashboard (Field Predictor, EDA, Circuit Studio) │
-│ • Interactive Research Jupyter Notebooks (.ipynb) │
-└────────────────────────────────────────────────────────────────────────┘
++------------------------------------------------------------------------+
+|                      Raw Agronomy Data Layer                           |
+|  Maize Yield . Plant Height . SPAD Chlorophyll . Soil Moisture . Rain  |
++-----------------------------------+------------------------------------+
+                                    | Plot-level aggregation & merge
+                                    v
++------------------------------------------------------------------------+
+|                   Analysis-Ready Processed Dataset                     |
+|  448 Plots . Balanced 50/50 Median Target (high_yield: >0.735 Mg/ha)   |
++-------------------+--------------------------------+-------------------+
+                    |                                |
+                    v                                v
++--------------------------------------+ +-------------------------------+
+|       Classical ML Pipelines         | |      Quantum ML Pipelines     |
+| . Logistic Regression                | | . Variational VQC (Statevec)  |
+| . Support Vector Classifier (RBF)    | | . Quantum Kernel (QSVM)       |
+| . Random Forest (100 estimators)     | | . Pauli-Z Expectation <Z_0>   |
++-------------------+------------------+ +---------------+---------------+
+                    |                                    |
+                    +----------------+-------------------+
+                                     |
+                                     v
++------------------------------------------------------------------------+
+|                      Serving & Interface Layer                         |
+| . FastAPI REST Endpoints (/health, /predict, /train, /circuit, /audit) |
+| . Streamlit Research Dashboard (Field Predictor, EDA, Circuit Studio)  |
+| . Interactive Standalone Jupyter Notebooks (.ipynb)                    |
++------------------------------------------------------------------------+
 ```
 
 ---
 
-## Quickstart
+## 3. Performance Benchmarks (5-Fold Cross-Validation)
+
+Evaluated using 5-Fold Stratified Cross-Validation on the full 448-plot dataset:
+
+| Model Architecture | Accuracy (Mean +- Std) | F1 Score (Mean +- Std) | ROC-AUC | Brier Score | Fit Time (s) |
+|---|---|---|---|---|---|
+| **Random Forest (Classical)** | **0.8705 +- 0.0338** | **0.8634 +- 0.0396** | **0.9387** | 0.0984 | 0.18 s |
+| **Logistic Regression (Classical)** | 0.8460 +- 0.0276 | 0.8373 +- 0.0285 | 0.9082 | 0.1192 | 0.01 s |
+| **RBF Support Vector Machine** | 0.8415 +- 0.0313 | 0.8265 +- 0.0362 | 0.9067 | 0.1130 | 0.02 s |
+| **Quantum Kernel Classifier (QSVM)** | **0.7322 +- 0.0301** | **0.7285 +- 0.0185** | **0.7950** | 0.1812 | 0.48 s |
+| **Qiskit Variational Classifier (VQC)** | 0.6607 +- 0.0394 | 0.6389 +- 0.0412 | 0.7114 | 0.2185 | 5.12 s |
+
+---
+
+## 4. Quantum Algorithm Reference Suite
+
+Located in `solutions/`:
+
+| Module | Algorithm | Core Mathematical Formulation | Test Status |
+|---|---|---|:---:|
+| **01** | [QRNG](solutions/challenge_01_qrng.py) | $H^{\otimes n}|0\rangle^{\otimes n} \to \frac{1}{\sqrt{2^n}}\sum |k\rangle$ with rejection sampling | Passed (3/3) |
+| **02** | [Coin Flipper](solutions/challenge_02_coin_flipper.py) | Fair $H$ & Biased $RY(2\arcsin\sqrt{p})$ with game engine | Passed (3/3) |
+| **03** | [Quantum Safe](solutions/challenge_03_quantum_safe.py) | Distribution matching + Total Variation Distance ($TVD$) validation | Passed (2/2) |
+| **04** | [Entanglement Detector](solutions/challenge_04_entanglement_detector.py) | All 4 Bell states + exact Wootters Concurrence metric | Passed (2/2) |
+| **05** | [Quantum Teleporter](solutions/challenge_05_quantum_teleporter.py) | 3-qubit teleportation + state fidelity verification ($F=1.000000$) | Passed (2/2) |
+| **06** | [Treasure Hunt](solutions/challenge_06_quantum_treasure_hunt.py) | Grover search with automated phase oracle and diffuser | Passed (2/2) |
+| **07** | [Quantum RPS](solutions/challenge_07_quantum_rps.py) | 2-qubit mapping + bias elimination via uniform qutrit state preparation | Passed (3/3) |
+| **08** | [Quantum AI Classifier](solutions/challenge_08_quantum_classifier.py) | VQC angle encoding + expectation measurement on agricultural data | Passed (1/1) |
+
+---
+
+## 5. Quickstart & Usage
 
 ### 1. Installation
 ```bash
-cd "SoilQ 1" # or cd SoilQ
-pip install -e ".[dev]"
+git clone https://github.com/Edwin420s/SoilQ.git
+cd SoilQ
+pip install -e .
 ```
 
-### 2. Run the Full Experiment (Automated)
+### 2. Run All Automated Tests (66 Tests)
 ```bash
-python scripts/run_experiment.py --quantum-maxiter 40
+pytest tests/ solutions/test_challenges.py -v
 ```
 
-### 3. Launch the Interactive Dashboard
+### 3. Run Quantum Algorithm Suite
+```bash
+python solutions/run_all_challenges.py
+```
+
+### 4. Launch the Interactive Dashboard
 ```bash
 streamlit run app/dashboard.py
 ```
-Open [http://localhost:8501](http://localhost:8501) to interact with:
-- **Field Predictor & Advisory**: Live scoring across all 5 models with agronomic radar charts.
-- **Exploratory Data Analysis**: Yield distributions, tillage impact (D0 vs D15), soil input efficacy, and correlation heatmaps.
--  **Quantum Circuit Studio**: Real-time ASCII circuit diagrams, statevector probability bar charts, and gate counts.
-- **Model Benchmarking**: Side-by-side performance tables and confusion matrix heatmaps.
-- **Dataset Ingestion & Audit**: Checksum verification and schema inspection.
+Access the dashboard at `http://localhost:8501`.
 
-### 4. Launch the Enterprise REST API
+### 5. Launch the REST API Microservice
 ```bash
-uvicorn soilq.api:app --reload
+uvicorn soilq.api:app --app-dir src --host 127.0.0.1 --port 8000
 ```
-Interactive OpenAPI documentation at: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
-Key endpoints:
-- `POST /predict`: Real-time inference across all classical and quantum models.
-- `GET /circuit`: Returns ASCII quantum circuit diagram, gate counts, and depth.
-- `POST /train`: Trains full benchmark suite.
-- `POST /prepare`: Merges raw CSVs into processed dataset.
-- `POST /audit`: Schema and missingness inspection.
-- `GET /report/{name}`: Retrieves experiment metrics JSON.
+Interactive OpenAPI documentation is available at `http://localhost:8000/docs`.
 
 ---
 
-## Benchmark Results (448 Plots, 25% Held-Out Test Set)
+## 6. Project Layout
 
-| Model Category | Algorithm | Accuracy | Balanced Acc | F1 Score | ROC-AUC | Training Time |
-|---|---|:---:|:---:|:---:|:---:|:---:|
-| **Classical ML** | Random Forest | **0.7857** | **0.7857** | **0.7818** | **0.9040** | 0.63 s |
-| **Classical ML** | RBF Support Vector Machine | **0.7857** | **0.7857** | **0.7647** | **0.8530** | 0.04 s |
-| **Classical ML** | Logistic Regression | 0.7768 | 0.7768 | 0.7619 | 0.8227 | 0.01 s |
-| **Quantum ML** | **Quantum Kernel (QSVM)** | **0.7143** | **0.7143** | **0.6735** | **0.7768** | **0.50 s** |
-| **Quantum ML** | **Variational Classifier (VQC)** | **0.6607** | **0.6607** | **0.6275** | **0.7114** | 23.19 s |
-
----
-
-## Automated Test Suite (66 Tests Passing)
-
-Execute all test suites across the repository:
-
-```bash
-# SoilQ 1 test suite (24 tests)
-pytest "SoilQ 1/tests" -v
-
-# SoilQ synchronized test suite (24 tests)
-pytest "SoilQ/tests" -v
-
-# Hackathon Challenges 01 to 08 test suite (18 tests)
-pytest "Qiskit-Fall-Fest-Nairobi-2026-Hackathon-Prompts/solutions/test_challenges.py" -v
+```
+SoilQ/
+├── README.md                                       <- Project overview and quickstart
+├── SUBMISSION.md                                   <- Master technical architecture report
+├── SoilQ_Product_Technical_Whitepaper.pdf          <- 5-page publication whitepaper
+├── app/
+│   └── dashboard.py                                <- Enterprise 6-tab Streamlit dashboard
+├── src/soilq/
+│   ├── api.py                                      <- Production FastAPI microservice (7 endpoints)
+│   ├── config.py                                   <- Root paths and configuration
+│   ├── data.py                                     <- Data ingestion and SHA-256 auditing
+│   ├── pipeline.py                                 <- 5-model benchmark & cross-validation engine
+│   ├── prepare.py                                  <- 5-table consolidation & target definition
+│   └── quantum.py                                  <- VQC & Quantum Kernel QSVM implementations
+├── data/
+│   ├── raw/                                        <- Raw Mendeley experimental CSV tables
+│   ├── processed/                                  <- Merged analysis table (448 rows)
+│   └── reports/                                    <- cross_validation.json & experiment_001.json
+├── models/                                         <- Serialized .joblib model artifacts
+├── notebooks/                                      <- 8 standalone interactive Jupyter notebooks
+├── solutions/                                      <- Standalone quantum algorithm modules (01 to 08)
+├── tests/                                          <- Automated pytest test suite
+├── pyproject.toml                                  <- Package specifications and dependencies
+├── Makefile                                        <- Build, test, and run automation
+├── Dockerfile & docker-compose.yml                 <- Containerized deployment specifications
+└── LICENSE                                         <- Apache 2.0 open-source license
 ```
 
 ---
 
-## Research & Hackathon Notebooks
+## 7. License & Citations
 
-Two complete, reproducible Jupyter Notebooks are provided:
-1. [`01_Qiskit_Fall_Fest_Challenges_1_to_7.ipynb`](notebooks/01_Qiskit_Fall_Fest_Challenges_1_to_7.ipynb): Verified implementations for Challenges 01 through 07, covering Bell states, Concurrence, Grover search, Teleportation fidelity, and Quantum RPS.
-2. [`02_SoilQ_Quantum_Maize_Classification_Research.ipynb`](notebooks/02_SoilQ_Quantum_Maize_Classification_Research.ipynb): Full research paper walkthrough of Challenge 08 + Stretch Challenge, dataset EDA, VQC and QSVM modeling, and agronomic discussion.
-
----
-
-## Scientific Methodology & Ethical Safeguards
-
-1. **Attribution**: Based on field experimental data published by *Mutuku et al.* under Creative Commons CC BY 4.0 ([Mendeley Data v2](https://data.mendeley.com/datasets/8bx88zpvdp/2)).
-2. **Binary Target Policy**: Target `high_yield` is strictly derived from the empirical median yield ($0.735\text{ Mg/ha}$), creating an exact 50/50 split (224 positive / 224 negative).
-3. **No Claim of Unvalidated Advice**: This is a research platform. Model predictions are proxies and must not be used directly for autonomous irrigation hardware actuation without local soil sensor calibration.
-4. **AI Policy Compliance**: Developed adhering to the [Qiskit Fall Fest Nairobi AI Policy](https://github.com/quantumke-org/Qiskit-Fall-Fest-Nairobi-2026-Hackathon-Prompts/blob/main/AI_POLICY.md).
+- **Code License**: Apache 2.0
+- **Agronomic Dataset**: Mutuku et al., Mendeley Data, Version 2 (2020), CC BY 4.0. `doi:10.17632/8bx88zpvdp.2`.

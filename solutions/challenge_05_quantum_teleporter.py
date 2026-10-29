@@ -1,6 +1,6 @@
 """
-Challenge 05: Quantum Teleporter
-Qiskit Fall Fest Nairobi 2026
+Quantum Module 05: Quantum Teleporter
+SoilQ Quantum Engine
 
 Concepts:
 - Quantum Teleportation Protocol using 3 qubits
@@ -140,7 +140,7 @@ def simulate_noisy_teleportation(error_prob: float = 0.1) -> float:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print(" Challenge 05: Quantum Teleporter")
+    print(" Quantum Module 05: Quantum Teleporter")
     print("=" * 60)
 
     print("\n1. Teleporting Quantum States (Fidelity Verification):")

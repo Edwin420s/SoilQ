@@ -1,6 +1,6 @@
 """
-Challenge 08: Quantum AI Classifier
-Qiskit Fall Fest Nairobi 2026
+Quantum Module 08: Quantum AI Classifier
+SoilQ Quantum Engine
 
 Concepts:
 - Quantum Machine Learning (QML) classification pipeline
@@ -154,7 +154,7 @@ def compare_classical_vs_quantum_toy() -> Dict[str, Dict]:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print(" Challenge 08: Quantum AI Classifier")
+    print(" Quantum Module 08: Quantum AI Classifier")
     print("=" * 60)
 
     # 1. Toy Dataset Benchmark

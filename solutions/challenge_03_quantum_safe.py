@@ -1,6 +1,6 @@
 """
-Challenge 03: The Quantum Safe
-Qiskit Fall Fest Nairobi 2026
+Quantum Module 03: The Quantum Safe
+SoilQ Quantum Engine
 
 Concepts:
 - Target measurement distributions as cryptographic "combinations"
@@ -103,7 +103,7 @@ def solve_ghz_3qubit_safe() -> QuantumCircuit:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print(" Challenge 03: The Quantum Safe")
+    print(" Quantum Module 03: The Quantum Safe")
     print("=" * 60)
 
     # 1. Standard Bell Safe: Target {'00': 0.5, '11': 0.5}

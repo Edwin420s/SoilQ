@@ -1,6 +1,6 @@
 """
-Challenge 02: Quantum Coin Flipper
-Qiskit Fall Fest Nairobi 2026
+Quantum Module 02: Quantum Coin Flipper
+SoilQ Quantum Engine
 
 Concepts:
 - 1-qubit state superposition with H-gate: H|0> = (|0> + |1>)/sqrt(2)
@@ -153,7 +153,7 @@ class QuantumCoinGame:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("Challenge 02: Quantum Coin Flipper")
+    print("Quantum Module 02: Quantum Coin Flipper")
     print("=" * 60)
 
     print("\n1. Fair Coin Shot Experiments:")

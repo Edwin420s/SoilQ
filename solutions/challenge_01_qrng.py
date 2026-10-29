@@ -1,6 +1,6 @@
 """
-Challenge 01: Quantum Random Number Generator (QRNG)
-Qiskit Fall Fest Nairobi 2026
+Quantum Module 01: Quantum Random Number Generator (QRNG)
+SoilQ Quantum Engine
 
 Concepts:
 - Superposition via Hadamard (H) gates
@@ -113,7 +113,7 @@ def analyze_modulo_bias(min_val: int = 0, max_val: int = 2) -> Dict[str, float]:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("Challenge 01: Quantum Random Number Generator (QRNG)")
+    print("Quantum Module 01: Quantum Random Number Generator (QRNG)")
     print("=" * 60)
 
     print("\n1. Sampling 3-qubit QRNG (8 outcomes, 1000 shots):")

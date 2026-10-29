@@ -1,6 +1,6 @@
 """
-Challenge 07: Quantum Rock, Paper, Scissors
-Qiskit Fall Fest Nairobi 2026
+Quantum Module 07: Quantum Rock, Paper, Scissors
+SoilQ Quantum Engine
 
 Concepts:
 - Replacing pseudo-random choices with true quantum measurement
@@ -180,7 +180,7 @@ def analyze_rps_bias() -> Dict[str, Dict[str, float]]:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print(" Challenge 07: Quantum Rock, Paper, Scissors")
+    print(" Quantum Module 07: Quantum Rock, Paper, Scissors")
     print("=" * 60)
 
     # 1. Deeper question: Bias Analysis

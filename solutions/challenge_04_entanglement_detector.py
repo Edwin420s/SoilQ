@@ -1,6 +1,6 @@
 """
-Challenge 04: Entanglement Detector
-Qiskit Fall Fest Nairobi 2026
+Quantum Module 04: Entanglement Detector
+SoilQ Quantum Engine
 
 Concepts:
 - Quantum Entanglement: non-separable bipartite states
@@ -168,7 +168,7 @@ def run_bell_states_comparison() -> Dict[str, Dict]:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print(" Challenge 04: Entanglement Detector")
+    print(" Quantum Module 04: Entanglement Detector")
     print("=" * 60)
 
     print("\n1. Deeper Questions Experiment (Dissecting Entanglement):")

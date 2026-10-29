@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate 8 standalone Jupyter Notebooks for Qiskit Fall Fest Nairobi 2026.
+Generate 8 standalone Jupyter Notebooks for SoilQ Quantum Suite.
 Output directory: /home/skywalker/Projects/prj/Quantum/notebooks/
 """
 import json
@@ -38,9 +38,9 @@ def save_nb(filename: str, cells: list):
 # ── NOTEBOOK 01 ──────────────────────────────────────────────────────────────
 def gen_nb01():
     cells = [
-        cell("markdown", r"""# Challenge 01: Quantum Random Number Generator (QRNG)
-### Qiskit Fall Fest Nairobi 2026 Hackathon
-**Track**: Foundations of Quantum Randomness | **Target Score**: 40/40 (Base) + 10/10 (Stretch) = 50 Points
+        cell("markdown", r"""# Module 01: Quantum Random Number Generator (QRNG)
+### SoilQ Quantum Algorithm Suite
+**Module 01**: Foundations of Quantum Randomness and Measurement Theory
 
 ---
 
@@ -130,9 +130,9 @@ Developed with AI assistance (Google Antigravity / Gemini) for mathematical code
 # ── NOTEBOOK 02 ──────────────────────────────────────────────────────────────
 def gen_nb02():
     cells = [
-        cell("markdown", r"""# Challenge 02: Quantum Coin Flipper
-### Qiskit Fall Fest Nairobi 2026 Hackathon
-**Track**: Superposition & Probability | **Target Score**: 40/40 (Base) + 10/10 (Stretch) = 50 Points
+        cell("markdown", r"""# Module 02: Quantum Coin Flipper
+### SoilQ Quantum Algorithm Suite
+**Module 02**: Single-Qubit Rotations and Parameterized Superpositions
 
 ---
 
@@ -212,9 +212,9 @@ Developed with AI assistance (Google Antigravity / Gemini) for code scaffolding 
 # ── NOTEBOOK 03 ──────────────────────────────────────────────────────────────
 def gen_nb03():
     cells = [
-        cell("markdown", r"""# Challenge 03: The Quantum Safe
-### Qiskit Fall Fest Nairobi 2026 Hackathon
-**Track**: Quantum Circuit Reverse-Engineering | **Target Score**: 40/40 (Base) + 10/10 (Stretch) = 50 Points
+        cell("markdown", r"""# Module 03: The Quantum Safe
+### SoilQ Quantum Algorithm Suite
+**Module 03**: Quantum Circuit Equivalence & Total Variation Distance
 
 ---
 
@@ -293,9 +293,9 @@ Developed with AI assistance (Google Antigravity / Gemini) for mathematical code
 # ── NOTEBOOK 04 ──────────────────────────────────────────────────────────────
 def gen_nb04():
     cells = [
-        cell("markdown", r"""# Challenge 04: Entanglement Detector
-### Qiskit Fall Fest Nairobi 2026 Hackathon
-**Track**: Bipartite Quantum Correlations | **Target Score**: 40/40 (Base) + 10/10 (Stretch) = 50 Points
+        cell("markdown", r"""# Module 04: Entanglement Detector
+### SoilQ Quantum Algorithm Suite
+**Module 04**: Non-Separable States, Correlation Metrics & Wootters Concurrence
 
 ---
 
@@ -368,9 +368,9 @@ Developed with AI assistance (Google Antigravity / Gemini) for code scaffolding 
 # ── NOTEBOOK 05 ──────────────────────────────────────────────────────────────
 def gen_nb05():
     cells = [
-        cell("markdown", r"""# Challenge 05: Quantum Teleporter
-### Qiskit Fall Fest Nairobi 2026 Hackathon
-**Track**: Quantum Protocols & State Transfer | **Target Score**: 40/40 (Base) + 10/10 (Stretch) = 50 Points
+        cell("markdown", r"""# Module 05: Quantum Teleporter
+### SoilQ Quantum Algorithm Suite
+**Module 05**: 3-Qubit Teleportation, Classical Feedforward & Channel Noise
 
 ---
 
@@ -448,9 +448,9 @@ Developed with AI assistance (Google Antigravity / Gemini) for code scaffolding 
 # ── NOTEBOOK 06 ──────────────────────────────────────────────────────────────
 def gen_nb06():
     cells = [
-        cell("markdown", r"""# Challenge 06: Quantum Treasure Hunt (Grover's Search)
-### Qiskit Fall Fest Nairobi 2026 Hackathon
-**Track**: Amplitude Amplification & Grover Search | **Target Score**: 40/40 (Base) + 10/10 (Stretch) = 50 Points
+        cell("markdown", r"""# Module 06: Quantum Treasure Hunt (Grover's Search)
+### SoilQ Quantum Algorithm Suite
+**Module 06**: Unstructured Search, Automated Oracles & Amplitude Amplification
 
 ---
 
@@ -520,9 +520,9 @@ Developed with AI assistance (Google Antigravity / Gemini) for code scaffolding 
 # ── NOTEBOOK 07 ──────────────────────────────────────────────────────────────
 def gen_nb07():
     cells = [
-        cell("markdown", r"""# Challenge 07: Quantum Rock, Paper, Scissors
-### Qiskit Fall Fest Nairobi 2026 Hackathon
-**Track**: Discrete State Mapping & Bias Elimination | **Target Score**: 40/40 (Base) + 10/10 (Stretch) = 50 Points
+        cell("markdown", r"""# Module 07: Quantum Rock, Paper, Scissors
+### SoilQ Quantum Algorithm Suite
+**Module 07**: Hilbert Space Discrete Encoding & Uniform Qutrit State Preparation
 
 ---
 
@@ -593,9 +593,9 @@ Developed with AI assistance (Google Antigravity / Gemini) for code scaffolding 
 # ── NOTEBOOK 08 ──────────────────────────────────────────────────────────────
 def gen_nb08():
     cells = [
-        cell("markdown", r"""# Challenge 08: Quantum AI Classifier & SoilQ Agronomy
-### Qiskit Fall Fest Nairobi 2026 Hackathon
-**Track**: Quantum Machine Learning (QML) | **Target Score**: 40/40 (Base) + 10/10 (Stretch) = 50 Points
+        cell("markdown", r"""# Module 08: Quantum AI Classifier & SoilQ Agronomy
+### SoilQ Machine Learning Platform
+**Module 08**: Hybrid Quantum-Classical Classification over Kenyan Field Trial Data
 
 ---
 

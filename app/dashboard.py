@@ -1,6 +1,6 @@
 """
 SoilQ - Enterprise Quantum-Assisted Agronomy Dashboard
-Qiskit Fall Fest Nairobi 2026 - Challenge 08: Quantum AI Classifier
+Smallholder Maize Yield Classification & Soil Fertility Decision Support
 
 Tabs
 ----
@@ -72,8 +72,8 @@ col_h1, col_h2 = st.columns([3, 1])
 with col_h1:
     st.title("SoilQ - Quantum-Assisted Maize Agronomy")
     st.caption(
-        "Machine Learning and Qiskit Variational Classifier Platform - "
-        "Kenyan Field Trial Experiment (Chuka and Kandara) - Qiskit Fall Fest Nairobi 2026"
+        "Machine Learning and Qiskit Quantum Classifier Platform - "
+        "Kenyan Field Trial Experiment (Chuka and Kandara)"
     )
 with col_h2:
     st.markdown(
@@ -523,8 +523,9 @@ with tabs[5]:
 
 ---
 
-### 4. Hackathon Scoring and AI Policy
-- Developed for **Qiskit Fall Fest Nairobi 2026 Hackathon (Challenge 08 + All Stretch Goals)**.
-- Adheres to the official [AI Usage Policy](https://github.com/quantumke-org/Qiskit-Fall-Fest-Nairobi-2026-Hackathon-Prompts/blob/main/AI_POLICY.md).
+### 4. Implementation Details and AI Assistance Disclosure
+- Built using **Qiskit 2.6.1**, **scikit-learn**, **FastAPI**, and **Streamlit**.
+- Demonstrates hybrid quantum-classical machine learning workflows applied to real-world agronomic challenges in Sub-Saharan Africa.
+- Large language models were utilized for scaffolding, documentation, and interface styling, while all quantum circuits, agronomic logic, and validations were designed and verified by the authors.
         """
     )

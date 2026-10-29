@@ -1,6 +1,6 @@
 """
-Challenge 06: Quantum Treasure Hunt (Grover's Search Algorithm)
-Qiskit Fall Fest Nairobi 2026
+Quantum Module 06: Quantum Treasure Hunt (Grover's Search Algorithm)
+SoilQ Quantum Engine
 
 Concepts:
 - Unstructured quantum search using Grover's algorithm
@@ -134,7 +134,7 @@ def compare_classical_vs_quantum(n_qubits: int = 2) -> Dict:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print(" Challenge 06: Quantum Treasure Hunt (Grover's Algorithm)")
+    print(" Quantum Module 06: Quantum Treasure Hunt (Grover's Algorithm)")
     print("=" * 60)
 
     # 1. 2-Qubit Search (All 4 possible treasure locations)
